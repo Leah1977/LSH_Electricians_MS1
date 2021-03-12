@@ -3,9 +3,9 @@
 
 ## **Welcome!** 
 
-### This site was built using [GitHub Pages] (https://pages.github.com/)/.
+### This site was built using [GitHub Pages](https://pages.github.com/)/.
 
-### Click here for a link to the live project on GitHub
+### Click here for a link to the live project on GitHub [LSH_Electricians_MS1](https://leah1977.github.io/LSH_Electricians_MS1/)
 
 
 
