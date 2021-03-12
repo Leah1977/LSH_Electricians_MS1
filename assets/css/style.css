@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:100,200,300,400,500,600,700|Exo:100, 200, 300, 400, 500, 600, 700');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    color: #777777;
+}
+
+/*-----------------------------------------------------------------Colours*/
+
+.bg-color-name-info{
+    background-color: #676767;
+}
+
+.ui-menu-color-home {
+    background-color: #ffcd05;
+}
+
+.ui-menu-color-services {
+    background-color: silver;
+    color: grey;
+}
+
+.ui-menu-color-contact {
+    background-color: #ffcd05;
+}
+
+.ui-menu-color-gallery {
+    background-color: silver;
+}
+
+/*-----------------------------------------------------------------Special Paddings/Margins/Text*/
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #555555;
+    display: inline-block;
+
+}
