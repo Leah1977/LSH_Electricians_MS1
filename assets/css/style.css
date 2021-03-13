@@ -53,7 +53,7 @@ h2 {
 .general-sub {
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    color: #fafafa;
+    color: #ffcd05;
     text-align: center;
 }
 
@@ -117,17 +117,17 @@ h2 {
     letter-spacing: 1.5px;
 }
 
-.menuitem a:hover {
-    border-bottom: 3px solid black;
-    color: transparent
-
+.hvr-sweep-to-bottom:before {
+    background: rgba(0, 0, 0, 0.2);
+    height: 100px;
 }
 .active {
-    border-bottom: 1px solid black;
+    border-bottom: 3px solid black;
+
 }
 /* ---------------------------------------------------------------Logo */
 
-/* ---------------------------------------------------------------Jumbotron */
+/* ---------------------------------------------------------------Alert */
 
 .alert {
     position: relative;
@@ -137,7 +137,22 @@ h2 {
     border: 1px solid transparent;
     border-radius: 1.25rem;
 }
+/* ---------------------------------------------------------------Services*/
 
+i {
+    color:#ffcd05;
+    clear: both;
+    }
+
+
+
+.servicesblock {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+#services h2 {
+    width: 100%;
 
 }
 
