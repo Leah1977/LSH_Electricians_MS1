@@ -73,6 +73,7 @@ h2 {
 
 .navbar-text {
         text-align: center;
+        
 }
 
 
@@ -117,16 +118,31 @@ h2 {
 }
 
 .menuitem a:hover {
-    border-bottom: 1px solid black;
+    border-bottom: 3px solid black;
+    color: transparent
 
 }
 .active {
     border-bottom: 1px solid black;
 }
-/* ---------------------------------------------------------Logo */
+/* ---------------------------------------------------------------Logo */
+
+/* ---------------------------------------------------------------Jumbotron */
+
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 1.25rem;
+}
 
 
-/* --------------------------------------------------Images*/
+}
+
+
+/* ---------------------------------------------------------------Images*/
 
 #hero-image {
     height: 600px;
