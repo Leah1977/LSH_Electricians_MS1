@@ -32,7 +32,8 @@
 ### Overlay not responsive. Missing half the writing when the screen size reduced.
 ### Added a query css to incorporate overlay to make it responsive.
 
-
+### Background colour blue when hovering over navbar item.
+### Left space between rgba and brackets in background color for hover class.  Removed space and grey colour was restored.
 
 ## Deployment Section
 
