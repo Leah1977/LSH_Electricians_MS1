@@ -37,7 +37,10 @@
 
 ### *   Form not centering on page/overlapping footer.
         Adjust padding and css styling to fix centering issue and overlapping of footer.
-        
+
+### *   Large area of white space appearing below gallery on services.html page.
+        Fix max-width on query to remove white space.
+
 ## Deployment Section
 
 ## Testing Section
