@@ -20,21 +20,24 @@
 
 ## Bug Fixes Section
 
-### Call out button is covering text.
-### Fixed error by adding padding to the css.
+### *   Call out button is covering text.
+###     Fixed error by adding padding to the css.
 
-### Logo not displaying in image format.
-### Incorrect file path.  Changed to the relative path.
+### *   Logo not displaying in image format.
+###     Incorrect file path.  Changed to the relative path.
 
-### HeroImage not loading.
-### Incorrect file path.  Changed to the relative path. 
+### *   HeroImage not loading.
+###     Incorrect file path.  Changed to the relative path. 
 
-### Overlay not responsive. Missing half the writing when the screen size reduced.
-### Added a query css to incorporate overlay to make it responsive.
+### *   Overlay not responsive. Missing half the writing when the screen size           reduced.
+###     Added a query css to incorporate overlay to make it responsive.
 
-### Background colour blue when hovering over navbar item.
-### Left space between rgba and brackets in background color for hover class.  Removed space and grey colour was restored.
+### *   Background colour blue when hovering over navbar item.
+###     Left space between rgba and brackets in background color for hover              class.  Removed space and grey colour was restored.
 
+### *   Form not centering on page/overlapping footer.
+        Adjust padding and css styling to fix centering issue and overlapping of footer.
+        
 ## Deployment Section
 
 ## Testing Section
