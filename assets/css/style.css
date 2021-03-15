@@ -16,6 +16,10 @@ body {
     background-color: #676767;
 }
 
+.bg-color-form {
+    background-color: #676767;
+}
+
 .ui-menu-color-home {
     background-color: #ffcd05;
 }
@@ -46,7 +50,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #555555;
-    display: inline-block;
+    text-align: center;
 
 }
 
@@ -157,26 +161,38 @@ i {
 }
 /* ---------------------------------------------------------------Form*/
 
-#form-info h2 {
+
+.form-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
     text-align: center;
-    color: #555555;
-    margin-top: 20px;
-    font-size: 1rem;
-    width: 100%;
-    padding: 20px;
 
 }
 
-#form-info h3 {
+
+#form-info h2 {
     text-align: center;
     color: rgba(60, 60, 60, 0.4);
     margin-top: 20px;
-    font-size: 1rem;
-    width: 100%;
+}
+    
+#form-info h3 {
+    text-align: center;
+    color: rgba(60, 60, 60, 0.4);
+    margin-top: 20px;   
     
 
 }
+
+
+
 .form-section {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
     background-size: cover;
     background-position: center;
     height: auto;
@@ -185,25 +201,17 @@ i {
 }
 
 .contact-form {
-    margin-top: 100px;
+    margin-top: 10px;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.9);
-    max-width: 80%;
+    max-width: 100%;
     position: relative;
-    left: 10%;
     padding: 30px;
     clear: both;
 
 }
 
-.contact-form h2{
-    font-style: "Exo", sans-serif;
-    color: #fff;
-    margin-bottom: 20px;
-    text-align: center;    
-    font-size: 2rem;
-    font-weight: 700;
-}
+
 
 .text-input {
     background: rgba(60, 60, 60, 0.4);
@@ -239,6 +247,14 @@ i {
     border-color: rgb(32, 32, 32);
     background-color: rgba(0, 0, 0, 0.2);
    
+}
+
+#subject {
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(32, 32, 32);
+    background-color: rgba(0, 0, 0, 0.2);
+
 }
 
 #message-label {
@@ -286,6 +302,12 @@ i {
 .quote-button:hover {
     background-color: #fafafa;
     color: gray;
+}
+/* ---------------------------------------------------------------Contact Details*/
+
+.address {
+    display: inline-block;
+    padding-top: 40px;
 }
 
 /* ---------------------------------------------------------------Images*/
@@ -410,6 +432,29 @@ i {
         
     }
 
+    .menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+}
+
+}
+
+
+
+@media(min-width: 993px) {
+    .contact-form {
+ 
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+    }
 }
 /* ---------------------------------------------------------Footer */
 
