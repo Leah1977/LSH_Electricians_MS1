@@ -80,7 +80,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12 my-5">
-                <h2 class="uppercase general-sub"><strong>Services</strong></h2>
+                <h2><strong>Services</strong></h2>
                 </div>
             </div>
             <div class="row">
@@ -148,37 +148,44 @@
     </div>
 </section>
 
-<section id="form-info">
-        <h2>Need a quote or call-out</h2>
-        <h3>Fill out the form below.</h3>
-</section>
-
-<section class="form-section">
-<form class="contact-form">
-    <h2>Contact Form</h2>
-            <br>    
-            <label for="name-field">Name:</label>
-            <input class="text-input" id="name-field" type="text" name="name" required/>
-            <br>
-            <label for="email-field">Email:</label>
-            <input class="text-input" id="email-field" type="email" name="user_email" placeholder="Email Address" required/>
-            <br>
-            <label for="phone">Phone:</label>
-            <input class="text-input" id="phone" type="number"/>
-            <br>
-            <label for="message-label">Message:</label>
-            <textarea class="text-input" name="message" id="message-label" placeholder="Request a quote/callout" rows="10" cols="20"></textarea>
-            <br>
-            <label for="callout-date">Date required</label>
-            <input class="text-input" id="callout-date" type="date" name="callout_date"/>
-            <br>
+<section class="container-fluid">
+    <div class="row form-info">
+        <div class="col">
+            <h2 class="uppercase text-center">Need a quote or call-out</h2>
+            <h3 class="uppercase text-center">Fill out the form below.</h3>
             
-
-            <input class="quote-button" type="submit" value="Request Quote/Callout"/>
-            <br>
-            <input class="clear-button" type="reset" value="Clear Form"/>
- 
-</form>
+            <div class="form-section">
+                <form class="contact-form">
+                    <label for="name-field">Name:</label>
+                    <input class="text-input" id="name-field" type="text" name="name" required/>
+                    <br>
+                    <label for="email-field">Email:</label>
+                    <input class="text-input" id="email-field" type="email" name="user_email" placeholder="Email Address" required/>
+                    <br>
+                    <label for="phone">Phone:</label>
+                    <input class="text-input" id="phone" type="number"/>
+                    <br>
+                    <label for="subject">Subject:</label>
+                    <select name="subject" id="subject" class="text-input">
+                        <option value="call-out" selected>Call-out</option>
+                        <option value="quote">Quote</option>
+                        <option value="spares">Spares</option>
+                        <option value="emergency-call-out">Emergency Call-out</option>
+                    </select>
+                    <br>
+                    <label for="message-label">Message:</label>
+                    <textarea class="text-input" name="message" id="message-label" placeholder="Request a quote/callout" rows="10" cols="20"></textarea>
+                    <br>
+                    <label for="callout-date">Date required</label>
+                    <input class="text-input" id="callout-date" type="date" name="callout_date"/>
+                    <br>
+                    <input class="quote-button" type="submit" value="Request Quote/Callout"/>
+                    <br>
+                    <input class="clear-button" type="reset" value="Clear Form"/>
+                </form>
+            </div>
+        </div>
+    </div>
 </section>
 
         
