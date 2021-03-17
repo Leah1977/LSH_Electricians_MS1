@@ -68,13 +68,18 @@
 
 - Gold
 - Grey
+- White
 
 #### My Header and footer will use the two main colors
 
  - Gold
  - Grey
+ - White
 
 ### Typography
+
+- Exo
+- Sans-serir
 
 #### I will use the following fonts throughout the website for consistency in style.
  * Roboto
@@ -128,6 +133,15 @@ Image 17 "Electrical wire"
 Photo by <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="/s/photos/electrical-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Steve Johnson on Unsplash
 
+Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Edward Cisneros on Unsplash
+
+Testimonial Image 2. Photo by <a href="https://unsplash.com/@gabiontheroad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriella Clare Marino</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Gabriella Clare Marino on Unsplash
+
+Video  
+
+Video by Kapaw from Pexels  
 
 
 
