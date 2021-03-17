@@ -392,6 +392,13 @@ option {
     
  }
 
+#video {
+    height: 400px;
+    width: 50%;
+    margin-left: 25%;
+}
+ 
+
 @media screen and (max-width: 1393px) {
     #services {
         width: 100%;
