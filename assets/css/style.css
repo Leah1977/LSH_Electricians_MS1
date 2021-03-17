@@ -167,7 +167,7 @@ i {
 /* ---------------------------------------------------------------Form*/
 
 
-.form-heading {
+#form-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
@@ -181,6 +181,7 @@ i {
     text-align: center;
     color: rgba(60, 60, 60, 0.4);
     margin-top: 20px;
+
 }
     
 #form-info h3 {
@@ -193,7 +194,7 @@ i {
 
 
 
-.form-section {
+#form-section {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
@@ -206,14 +207,15 @@ i {
   
 }
 
-.contact-form {
+#contact-form {
     margin-top: 10px;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.9);
     max-width: 100%;
     position: relative;
-    padding: 30px;
+    padding: 20px;
     clear: both;
+    
 
 }
 
@@ -231,7 +233,7 @@ i {
 }
 
 option { 
-    background-color: greenyellow;
+    background-color: rgba(60, 60, 60, 0.9);
 }
 
 
@@ -339,7 +341,9 @@ option {
     position: relative;
 }
 
+.rounded
 
+.float-start
 
 @keyframes hero-zoom {
     from{
@@ -374,18 +378,17 @@ option {
 
 #photo {
     clear: both;
-    line-height: 3;
+    line-height: 0;
     column-count: 4;
-    column-gap: 5px;
-    
-    padding-top: 20px;
-    padding-bottom: 20px;
+    column-gap: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
 
 }
 
 #photo img {
-    width: 400px;
-    height: 150px;
+    width: 100%;
+
     
  }
 
