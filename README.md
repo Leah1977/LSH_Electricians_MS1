@@ -72,7 +72,45 @@
 
 ### The home page is made up of a header.  The header includes a logo and two links for quick contact to be made through email or phone.  The header will repeat on all pages.
 
+### There is a navagational bar with working links to all four pages.  This will appear on all four pages.
 
+### There is a Covid-19 notice to appear on the home page.  This also shows on the services and contact pages.
+
+### The home page includes a large image.  The image is responsive to encourage the customer to focus on the overlay text box. The text box displays a call-now button in blue to draw the customers eye again.
+
+### The footer has three sections.  An about section telling you about the company.  An emergency call out section with phone link.  The last section is to connect the customer to our social links.
+
+## Services Pages
+
+### The services page has a section on the list of sevices we provide
+ 
+** Emergency call out
+** Insurance and Testing
+** Domestic Electrician
+** Commercial Electrician
+** Products 
+** Gallery with link to Gallery page.
+
+### Followed by a Form with a drop down select menu, to enable the customer to direct their query.
+
+
+##Contact Pages
+
+### The contact page includes a map of Dublin provided by Google maps. This displays the service in which LSH Electricians work.
+
+### Contact and address information for the company.
+
+## Gallery page
+
+### The gallery page displays some photos and a video of work LSH Electricians provides.
+
+### This page includes a Testimonial section so customers can read our reviews.
+
+## Additional Features
+
+### As our website progresses I would like to include a search option and a spares/shop section.
+
+####
 
 ### Surface:
 
