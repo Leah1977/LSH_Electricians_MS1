@@ -138,7 +138,11 @@
  * Exo
  * Sans Serif as a back up
 
-###Accreditations
+
+##Technologies used/Accreditations
+
+## In this project I used the following to help build my website.
+
 
 ## In this project I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
 
@@ -147,6 +151,11 @@
 ## I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
   
 ## I have used [hover.css](href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
+
+## google maps link from www.google.com. ("https://www.google.com/maps/embed")
+
+##Accreditations
+
 
 ###Thanks to all the photograhpers and websites Unsplash, Pexels and Pixabay for allowing the use of following photos and video.
 
@@ -168,66 +177,86 @@
 ####Image by <a href="https://pixabay.com/users/image4you-2459255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Harry Strauss</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Pixabay</a>
 ####Image from Harry Strauss on Pixabay
 
-
-
-
-Image 10 "Fusebox" Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+####Image 10 "Fusebox" Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Markus Spiske on Unsplash
 
-Image11 "Ligths" Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+####Image11 "Ligths" Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Patrick Tomasso on Unsplash  
 
-Image 12 "volt" Photo by <a href="https://unsplash.com/@shirishsuwal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shirish Suwal</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+####Image 12 "volt" Photo by <a href="https://unsplash.com/@shirishsuwal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shirish Suwal</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Shirish Suwal on Unsplash  
 
-Image 13 "Tool" Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+####Image 13 "Tool" Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Mika Baumeister on Unsplash 
 
-Image 14 "lightbub" Photo by <a href="https://unsplash.com/@daniele_franchi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniele Franchi</a> on <a href="/s/photos/electrical-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+####Image 14 "lightbub" Photo by <a href="https://unsplash.com/@daniele_franchi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniele Franchi</a> on <a href="/s/photos/electrical-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Daniele Franchi on Unsplash
 
-Image 15 "security lights" Photo by <a href="https://unsplash.com/@switch_dtp_fotografie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucas van Oort</a> on <a href="/s/photos/security-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+####Image 15 "security lights" Photo by <a href="https://unsplash.com/@switch_dtp_fotografie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucas van Oort</a> on <a href="/s/photos/security-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Lucas van Oort on Unsplash  
 
-Image 16 "Plug socket" Photo by <a href="https://unsplash.com/@hamishkale_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hamish Kale</a> on <a href="/s/photos/plug-socket?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>Photo by Hamish Kale on Unsplash
+####Image 16 "Plug socket" Photo by <a href="https://unsplash.com/@hamishkale_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hamish Kale</a> on <a href="/s/photos/plug-socket?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>Photo by Hamish Kale on Unsplash
 
-Image 17 "Electrical wire"
+####Image 17 "Electrical wire"
 Photo by <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="/s/photos/electrical-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Steve Johnson on Unsplash
 
-Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+####Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Edward Cisneros on Unsplash
 
-Testimonial Image 2. Photo by <a href="https://unsplash.com/@gabiontheroad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriella Clare Marino</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+####Testimonial Image 2. Photo by <a href="https://unsplash.com/@gabiontheroad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriella Clare Marino</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Gabriella Clare Marino on Unsplash
 
-Video  
+####Video  
 
 Video by Kapaw from Pexels  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### google maps link from www.google.com. ("https://www.google.com/maps/embed")
 
 ## Further References
 #### Confident Coding by Rob Percival
 #### Confident Webdsign by Kenny Wood
 #### Patreon 
 #### YouTube 
+
+## Accreditation
+
+#### Much thanks to my fantastic mentor for giving such great report and encouragement throughtout my first Milestone Project.
+
+#### Much thanks to Code Institute Tutors for pointing me in the right direction when I was going off course.
+
+
+##Testing
+
+###Implement the user stories.
+
+### User Story 1
+
+**From the home page
+**Click on services in the navagational bar.
+**Scroll to Insurance and Testing to see that we meet all safey standards.
+**Scroll further to fill out form and request a call-back.
+**Alternative options click on Phone or email link for direct enquiry.
+
+
+### User Story 2
+
+**On the home page click the blue call now button for direct line.
+**Alterantively click on the services page in the navagational bar.
+**Fill out the form and select "Emergency Call-out" from the drop-down select option.
+**Choose the date you would like the call-out on this form also.
+
+### User Story 3
+
+**On the home page click on the services in the navagational bar.
+**Read through all the registered and certified services we provide.
+**Click on the Gallery page to read testimonials, provide customer feeback on our services.
+**Fill out our form to stary the process today!
+
+We needed a qualified electrician to check our electrics and certify them all for insurance purposes.
+#### I want to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
+
+
+
 
 ##Debugging HTML in index.html
 
@@ -427,11 +456,7 @@ CSS debugging
 
 ## Testing Section
 
-## Accreditation
 
-#### Much thanks to my fantastic mentor for giving such great report and encouragement throughtout my first Milestone Project.
-
-#### Much thanks to Code Institute Tutors for pointing me in the right direction when I was going off course.
 
 #### Photos supplied by 
 
