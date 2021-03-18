@@ -9,45 +9,40 @@
 
 
 
-#### This website provides information on an electrical service for Domestic and Commercial clients.  
-#### We provide a range of services covering all your electrical needs.
+#### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
+
+#### We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  We quote for all job sizes.  We specialize in emergency call-outs.  Providing you with the service you need when you need it.
+
 #### This website demonstrates the services we provide and enables you to book a call out or request a quote.
 
-# My first Milestone project - L S H Electricians
 
 
-## Welcome! 
+## **UX**
 
-### This site was built using [GitHub Pages] (https://pages.github.com/)/.
-
-### Click here for a link to the live project on GitHub
-
-#### This website provides information on an electrical service for Domestic and Commercial clients.  
-#### We provide a range of services covering all your electrical needs.
-#### This website demonstrates the services we provide and enables you to book a call out or request a quote.
-
-## UX
-
-### Strategy
+### **Strategy**
 
 #### This website is for owners of properties, residential or commercial who are looking to repair or update their electrics.
 #### I want to provide a service that is easy to navigate. 
-#### Making it clear and quick to provide information and request a service.
+#### Making it clear and quick to provide information and request a quote or call-out.
 
-### User Story 1
+### **User Story 1**
 
 #### I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
 
-### User Story 2
+### **User Story 2**
 
-#### I needed an electrician for an emergency call out.  I wanted to find someone fast, efficient and reliable – quickly.
+#### I needed an electrician for an emergency call out.  I wanted to find someone fast, efficient and reliable – quickly.  I also needed the someone to call out at a time that was convenient to me.
 
-### User story 3.
+### **User story 3**
 
 #### We needed a qualified electrician to check our electrics and certify them all for insurance purposes.
-#### I want to be able to go onto a website and leave with progress step.
+#### I want to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
 
-### Scope.
+### With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
+
+
+### **Scope**
+
 
 #### Essentials will include
 
@@ -59,8 +54,25 @@
 ### Skeleton:
 
 #### I have used Balsamique to draw up 3 page wireframes for Mobile, iPad and Desktop.
+
+#### Click on the following link to view my *wireframes* for this project.
+
+#### I have included wireframes for mobile, ipad and desktop. I plan to build my website from a mobile first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
+
+###Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:c27adb82-5b5d-435e-b787-3104825d224f)
+
 #### I will design the website to adjust to differents sized screens to ensure optimum viewing.
 #### I will make sure all links are active and working.
+
+## Features
+
+### This project will include four separate pages.  A home page, a services page, a contact page and a gallery page.
+
+## Home page
+
+### The home page is made up of a header.  The header includes a logo and two links for quick contact to be made through email or phone.  The header will repeat on all pages.
+
+
 
 ### Surface:
 
@@ -69,6 +81,7 @@
 - Gold
 - Grey
 - White
+- Blue and Green will be used for the buttons so that they will stand out.
 
 #### My Header and footer will use the two main colors
 
@@ -79,7 +92,8 @@
 ### Typography
 
 - Exo
-- Sans-serir
+- Roboto
+- Sans-serif for back up.
 
 #### I will use the following fonts throughout the website for consistency in style.
  * Roboto
@@ -87,6 +101,16 @@
  * Sans Serif as a back up
 
 ###Accreditations
+
+## In this project I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
+
+## In this project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
+
+## I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
+  
+## I have used [hover.css](href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
+
+###Thanks to all the photograhpers and websites Unsplash, Pexels and Pixabay for allowing the use of following photos and video.
 
 ####Light bulbs photo
 ####Photo by Diz Play on Unsplash
