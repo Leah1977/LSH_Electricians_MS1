@@ -73,6 +73,7 @@ h2 {
 
 .menucontainer { 
     font-size: 0;
+    padding-bottom: 5px;
 }
 
 
@@ -91,8 +92,10 @@ h2 {
     padding: 0;
 }
 
+/*-----------------------------------------------------------------Navigational Links*/
+
 .menuitem {
-    height: 60px;
+    height: 70px;
     text-align: center;
     padding: 0;
 }
@@ -101,7 +104,7 @@ h2 {
     width: 100%;
     text-decoration: none;
     color: rgb(32, 32, 32);
-    height: 60px;
+    height: 70px;
 }
 
 .menuitem a i {
@@ -126,7 +129,7 @@ h2 {
 
 .hvr-sweep-to-bottom:before {
     background: rgba(0, 0, 0, 0.2);
-    height: 60px;
+    height: 70px;
 }
 .active {
     border-bottom: 2px solid black;
@@ -139,13 +142,26 @@ h2 {
 /* ---------------------------------------------------------------Alert */
 
 .alert {
+    font-family: "Roboto" sans-serif;
+    font-weight: 400;
     position: relative;
-    padding: .75rem 1.25rem;
-    margin-top: .50rem;
-    margin-bottom: 1rem;
+    line-height: 20px;
+    padding: 10px;
+    color: #212529;
+    background-color: rgba(252, 206, 1, 0.24);
+    margin-bottom: 5px;
     border: 1px solid transparent;
-    border-radius: 1.25rem;
+    border-radius: 1rem;
+    text-align: center;
+    
 }
+
+
+    
+    
+    
+   
+    
 /* ---------------------------------------------------------------Services*/
 
 i {
@@ -329,7 +345,7 @@ option {
 /* ---------------------------------------------------------------Images*/
 
 #hero-image {
-    height: 600px;
+    height: 560px;
     width: 100%;
     background: no-repeat center center;
     animation-name: hero-zoom;
@@ -339,7 +355,7 @@ option {
 }
 
 #hero-outer {
-    height: 600px;
+    height: 560px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -483,10 +499,8 @@ footer {
     color: #fafafa;
     text-align: center;
     min-height: 80px;
-    margin-top: 20px;
-    
- 
-    
+    padding: 0;
+     
 }
 
 .call-out { 
@@ -495,7 +509,6 @@ footer {
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    
     font-size: 12px;
     color: #fafafa;
     background-color: #8f8f8f;
@@ -507,8 +520,6 @@ footer {
     -webkit-transition: all 0.35s ease-in-out;
 }
 
-
-
 .call-out:hover {
     background: gold;
     color: #fafafa;
@@ -517,7 +528,7 @@ footer {
 }
 
 .social-links {
-    padding-bottom: 15px;
+    padding-bottom: 25px;
     text-align: center;
 }
 
@@ -527,9 +538,9 @@ footer {
     height: 32px;
     padding: 12px 0;
     border-radius: 50%;
-    margin: 3%;
+    margin: 15%;
     font-size: 13px;
-    line-height: 7px;
+    line-height: 10px;
     text-align: center;
     color: #fafafa;
     background: #8f8f8f;
@@ -543,7 +554,5 @@ footer {
     background: gold;
 }
 
-#footer-details {
-    padding: 20px;
-}
+
 
