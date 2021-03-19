@@ -79,7 +79,6 @@ h2 {
 .navbar-text {
         text-align: center;
       
-        
 }
 
 
@@ -93,7 +92,7 @@ h2 {
 }
 
 .menuitem {
-    height: 100px;
+    height: 60px;
     text-align: center;
     padding: 0;
 }
@@ -102,20 +101,22 @@ h2 {
     width: 100%;
     text-decoration: none;
     color: rgb(32, 32, 32);
-    height: 120px;
+    height: 60px;
 }
 
 .menuitem a i {
-    padding-top: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     display: block;
     color: rgb(32, 32, 32);
-    font-size: 26px;
+    font-size: 16px;
 }
 
 .menuitem span {
     display: block;
     width: 100%;
     padding-top: 10px;
+    padding-bottom: 10px;
     text-align: center;
     text-transform: uppercase;
     font-size: 16px;
@@ -125,10 +126,10 @@ h2 {
 
 .hvr-sweep-to-bottom:before {
     background: rgba(0, 0, 0, 0.2);
-    height: 100px;
+    height: 60px;
 }
 .active {
-    border-bottom: 3px solid black;
+    border-bottom: 2px solid black;
 
 }
 
@@ -140,7 +141,7 @@ h2 {
 .alert {
     position: relative;
     padding: .75rem 1.25rem;
-    margin-top: 2rem;
+    margin-top: .50rem;
     margin-bottom: 1rem;
     border: 1px solid transparent;
     border-radius: 1.25rem;
@@ -400,7 +401,12 @@ option {
     width: 50%;
     margin-left: 25%;
 }
- 
+/* ---------------------------------------------------------Footer */ 
+.testimonials {}
+
+
+/* ---------------------------------------------------------Media Queries*/
+
 
 @media screen and (max-width: 1393px) {
     #services {
