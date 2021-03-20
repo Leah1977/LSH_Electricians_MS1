@@ -458,3 +458,39 @@ CSS debugging
 
 #### Much thanks to Code Institute Tutors for pointing me in the right direction when I was going off course.
 
+html
+
+Error: Bad value assets/images/LSH Electricians Logo.png for attribute src on element img: Illegal character in path segment: space is not allowed.
+
+From line 24, column 13; to line 24, column 144
+
+          <img src="assets/images/LSH Electricians Logo.png" alt="Company Logo Image" width="50" height="50" class="d-inline-block align-top">↩     
+
+Error: Element p not allowed as child of element span in this context. (Suppressing further errors from this subtree.)
+
+From line 28, column 17; to line 28, column 19
+
+          <p><stron
+
+Contexts in which element p may be used:
+Where flow content is expected.
+Content model for element span:
+Phrasing content.
+Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+
+From line 65, column 1; to line 65, column 33
+
+eader>  ↩↩<section class="container-fluid">↩    <
+
+
+Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+
+From line 63, column 1; to line 63, column 20
+
+r>   ↩   ↩<section id="photo">↩     
+
+Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+
+From line 79, column 1; to line 79, column 9
+
+section>↩↩<section>↩    <
