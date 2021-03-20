@@ -121,7 +121,7 @@ h2 {
     display: block;
     width: 100%;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     text-align: center;
     text-transform: uppercase;
     font-size: 16px;
@@ -165,20 +165,24 @@ h2 {
 /* ---------------------------------------------------------------Alert */
 
 .alert {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     position: relative;
     line-height: 20px;
     padding: 10px;
     color: #212529;
-    background-color: rgba(252, 206, 1, 0.24);
+    background-color: rgba(105, 104, 100, 0.911);
     margin-bottom: 5px;
     border: 1px solid transparent;
-    border-radius: 1rem;
+    border-radius: none;
     text-align: center;
     
 }
 
+.alert a {
+    color: #ffc107;
+    text-decoration: underline;
+}
 
     
     
@@ -205,6 +209,24 @@ i {
 
 #services h2 {
     width: 100%;
+
+
+}
+
+/*-----------------------------------------------------------------Testimonials*/
+
+.testimonials {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.media {
+    text-align: center;
+    margin: 10px;
+    line-height: 50px;
+
+}
 
 }
 /* ---------------------------------------------------------------Form*/
@@ -362,7 +384,18 @@ option {
 
 .address {
     display: inline-block;
-    padding-top: 40px;
+    color: grey;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    width: 400px;
+    height: 300px;
+    padding-left: 10px;
+    margin-bottom: 40px;
+    top: 400px;
+    right: 800px;
+    
+}
 }
 
 /* ---------------------------------------------------------------Images*/
@@ -473,7 +506,7 @@ option {
         clear: both;
         float: center;
         margin: 0 auto;
-        margin-bottom: 20px;
+        margin-bottom: 5px;
         line-height: 5px;
     }
 
@@ -491,14 +524,17 @@ option {
     }
 
     #services {
-        width: 100%;
-        height: 1200px;
-        margin: 0 auto;
-        padding-left: 5%;
+        width: 75%;
+        padding-left: 30px;
+        text-align: left;
         padding-bottom: 10px;
-        
-        
+       
+           
     }
+    
+ .serviceslist li{
+      list-style-type: none;
+ }
 
         
 }
@@ -506,14 +542,16 @@ option {
 
 
 @media(min-width: 993px) {
+
     .contact-form {
- 
-    padding-top: 30px;
-    min-height: 240px;
-    margin: 0 auto;
-    max-width: 50%;
+        
+        min-height: 240px;
+        margin: 20px;
+        max-width: 50%;
     }
 }
+
+  
 /* ---------------------------------------------------------Footer */
 
 footer {
