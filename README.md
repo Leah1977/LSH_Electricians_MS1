@@ -201,6 +201,9 @@ Photo by Lucas van Oort on Unsplash
 Photo by <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="/s/photos/electrical-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Steve Johnson on Unsplash
 
+#### Image for wireframe Photo by Royalty-free stock photo ID: 1318378229
+#### Background with uniformed electrician with tools and electrical equipment and blue background. By Davizro Photography www.shutterstock.com
+
 #### Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Edward Cisneros on Unsplash
 
@@ -598,7 +601,7 @@ css Testing
 
 ## Acknowledgements
 
-#### Much thanks to my fantastic mentor Nishant Kumar for giving such great report and encouragement throughtout my first Milestone Project.
+#### Much thanks to my fantastic mentor Nishant Kumar for giving such great support and encouragement throughtout my first Milestone Project.
 
 #### Much thanks to Code Institute Tutors for pointing me in the right direction when I was going off course.
 
