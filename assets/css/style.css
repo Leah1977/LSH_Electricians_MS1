@@ -159,7 +159,7 @@ h2 {
 .btn-call:active:focus {
 
     background-color: #ffc107;
-    border-color: 2px solid black;
+    border: 2px solid black;
     color: #555555;
 }
 /* ---------------------------------------------------------------Alert */
@@ -174,7 +174,6 @@ h2 {
     background-color: rgba(105, 104, 100, 0.911);
     margin-bottom: 5px;
     border: 1px solid transparent;
-    border-radius: none;
     text-align: center;
     
 }
@@ -236,7 +235,7 @@ i {
 
 }
 
-}
+
 /* ---------------------------------------------------------------Form*/
 
 
@@ -396,15 +395,16 @@ option {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
-    width: 400px;
+    width: 600px;
     height: 300px;
     padding-left: 10px;
-    margin-bottom: 40px;
-    top: 400px;
-    right: 800px;
+    margin: 0 auto;
+    
+    clear: left;
+   
     
 }
-}
+
 
 /* ---------------------------------------------------------------Images*/
 
@@ -464,21 +464,32 @@ option {
     column-gap: 0;
     padding-top: 40px;
     padding-bottom: 40px;
+    
 
 }
 
 #photos img {
     width: 100%;
+    
 
     
  }
 
+ .galleryheading {
+     width: 100%;
+ }
+
 #video {
     height: 400px;
-    width: 50%;
-    margin-left: 25%;
+    width: 70%;
+    margin-left: 15%;
 }
-/* ---------------------------------------------------------Footer */ 
+/* ---------------------------------------------------------Map */ 
+
+#map {
+    margin: 0 auto;
+    
+}
 
 
 
@@ -502,16 +513,21 @@ option {
 
     #cover-text {
         left: 10px;
+        float: none;
 
     }
 
+    
+    #map {
+        width: 50%;
+    }
     
 }
 
 @media screen and (max-width:943px) {
     #nav {
         clear: both;
-        float: center;
+        float: none;
         margin: 0 auto;
         margin-bottom: 5px;
         line-height: 5px;
@@ -582,7 +598,7 @@ footer {
 
 .call-out { 
     
-    float: center;
+    float: none;
     width: 20px;
     height: 20px;
     border-radius: 50px;
