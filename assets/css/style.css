@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-
-
 *{
     margin: 0;
     padding: 0;
@@ -39,7 +37,7 @@ body {
     background-color: silver;
 }
 
-/*-----------------------------------------------------------------Special Paddings/Margins/Text*/
+/*-----------------------------------------------Special Paddings/Margins/Text*/
 
 h1,
 h2,
@@ -66,7 +64,7 @@ h2 {
 .uppercase {
     text-transform: uppercase;
 }
-/*-----------------------------------------------------------------Navigational Bar*/
+/*------------------------------------------------------------Navigational Bar*/
 
 
 .list-inline-item:not(:last-child) {
@@ -79,12 +77,9 @@ h2 {
     padding-bottom: 5px;
 }
 
-
 .navbar-text {
-        text-align: center;
-      
+        text-align: center;   
 }
-
 
 #nav {
     margin: 0;
@@ -95,7 +90,7 @@ h2 {
     padding: 0;
 }
 
-/*-----------------------------------------------------------------Navigational Links*/
+/*---------------------------------------------------------Navigational Links*/
 
 .menuitem {
     height: 70px;
@@ -138,9 +133,6 @@ h2 {
 
 }
 
-
-/* ---------------------------------------------------------------Logo */
-
 /*-----------------------------------------------------------------Button*/
 
 .btn-call {
@@ -162,6 +154,7 @@ h2 {
     border: 2px solid black;
     color: #555555;
 }
+
 /* ---------------------------------------------------------------Alert */
 
 .alert {
@@ -181,13 +174,8 @@ h2 {
 .alert a {
     color: #ffc107;
     text-decoration: underline;
-}
-
-    
-    
-    
-   
-    
+}    
+      
 /* ---------------------------------------------------------------Services*/
 
 i {
@@ -209,7 +197,6 @@ i {
 
 #services h2 {
     width: 100%;
-
 
 }
 
@@ -247,8 +234,6 @@ i {
     text-align: center;
 
 }
-
-
 #form-info h2 {
     text-align: center;
     color: rgba(60, 60, 60, 0.4);
@@ -260,10 +245,8 @@ i {
     text-align: center;
     color: rgba(60, 60, 60, 0.4);
     margin-top: 20px;   
-    
 
 }
-
 
 
 #form-section {
@@ -274,8 +257,7 @@ i {
     background-size: cover;
     background-position: center;
     height: auto;
-    width: auto;
-   
+    width: auto;   
   
 }
 
@@ -286,12 +268,9 @@ i {
     max-width: 100%;
     position: relative;
     padding: 20px;
-    clear: both;
-    
+    clear: both;   
 
 }
-
-
 
 .text-input {
     background: rgba(60, 60, 60, 0.4);
@@ -301,7 +280,6 @@ i {
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 4px;
-
 }
 
 option { 
@@ -387,9 +365,6 @@ option {
     background-color: #fafafa;
     color: gray;
 }
-/* ---------------------------------------------------------------Contact Details*/
-
-
 
 /* ---------------------------------------------------------------Images*/
 
@@ -409,7 +384,6 @@ option {
     overflow: hidden;
     position: relative;
 }
-
 
 
 @keyframes hero-zoom {
@@ -450,14 +424,10 @@ option {
     padding-top: 40px;
     padding-bottom: 40px;
     
-
 }
 
 #photos img {
-    width: 100%;
-    
-
-    
+    width: 100%;   
  }
 
  .galleryheading {
@@ -469,14 +439,12 @@ option {
     width: 70%;
     margin-left: 15%;
 }
-/* ---------------------------------------------------------Map */ 
+/* -----------------------------------------------------------------Map */ 
 
 #map {
     margin: 0 auto;
     
 }
-
-
 
 /* ---------------------------------------------------------Media Queries*/
 
@@ -500,10 +468,7 @@ option {
         left: 10px;
         float: none;
 
-    }
-
-    
-   
+    }   
     
 }
 
@@ -561,9 +526,7 @@ option {
         min-height: 240px;
         margin: 20px;
         max-width: 50%;
-    }
-
-    
+    }    
 }
 
   
