@@ -494,3 +494,66 @@ Warning: Section lacks heading. Consider using h2-h6 elements to add identifying
 From line 79, column 1; to line 79, column 9
 
 section>↩↩<section>↩    <
+
+Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+
+From line 64, column 1; to line 64, column 21
+
+r>   ↩   ↩<section id="photos">↩     
+
+Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
+
+From line 80, column 1; to line 80, column 9
+
+
+Error: Text not allowed in element iframe in this context.
+
+From line 79, column 360; to line 79, column 361
+
+ng="lazy"><h1>Sorr
+
+Content model for element iframe:
+Nothing.
+Error: Text not allowed in element iframe in this context.
+
+From line 79, column 362; to line 79, column 407
+
+="lazy"><h1>Sorry, your browser doesn't support iframes!</h1><
+
+Content model for element iframe:
+Nothing.
+Error: Text not allowed in element iframe in this context.
+
+From line 79, column 408; to line 79, column 410
+
+t iframes!</h1></if
+
+Content model for element iframe:
+Nothing.
+Error: Text not allowed in element iframe in this context.
+
+From line 79, column 411; to line 79, column 412
+
+frames!</h1></ifra
+
+Content model for element iframe:
+Nothing.
+
+
+css Testing
+
+.btn-call:hover, .btn-call:active, .btn-call:focus, .btn-call:active:focus	Value Error : border-color 2px is not a border-color value : 2px solid black
+177	.alert	Too many values or values are not recognized : none
+239		Parse Error }
+408		Parse Error }
+517	#cover-text	Value Error : margin left is not a margin value : left
+531	#nav	Value Error : float center is not a float value : center
+602	.call-out	Value Error : float center is not a float value : center
+
+## <p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
