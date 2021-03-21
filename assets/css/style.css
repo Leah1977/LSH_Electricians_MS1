@@ -496,7 +496,7 @@ option {
 
     #services {
         width: 75%;
-        padding-left: 30px;
+        padding: 30px;
         text-align: left;
         padding-bottom: 10px;
        
