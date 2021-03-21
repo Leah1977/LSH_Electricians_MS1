@@ -389,21 +389,6 @@ option {
 }
 /* ---------------------------------------------------------------Contact Details*/
 
-.address {
-    display: inline-block;
-    color: grey;
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    width: 600px;
-    height: 300px;
-    padding-left: 10px;
-    margin: 0 auto;
-    
-    clear: left;
-   
-    
-}
 
 
 /* ---------------------------------------------------------------Images*/
@@ -518,9 +503,7 @@ option {
     }
 
     
-    #map {
-        width: 50%;
-    }
+   
     
 }
 
