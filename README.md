@@ -3,9 +3,9 @@
 
 ## **Welcome!** 
 
-### This site was built using [GitHub Pages](https://pages.github.com/)/.
+#### This site was built using [GitHub Pages](https://pages.github.com/)/.
 
-### Click here for a link to the live project on GitHub [LSH_Electricians_MS1](https://leah1977.github.io/LSH_Electricians_MS1/)
+#### Click here for a link to the live project on GitHub [LSH_Electricians_MS1](https://leah1977.github.io/LSH_Electricians_MS1/)
 
 
 
@@ -15,8 +15,6 @@
 #### We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  We quote for all job sizes.  We specialize in emergency call-outs.  Providing you with the service you need when you need it.
 
 #### This website demonstrates the services we provide and enables you to book a call out or request a quote.
-
-
 
 ## **UX**
 
@@ -39,10 +37,10 @@
 #### We needed a qualified electrician to check our electrics and certify them all for insurance purposes.
 #### I want to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
 
-### With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
+#### With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
 
 
-### **Scope**
+## **Scope**
 
 
 #### Essentials will include
@@ -51,8 +49,12 @@
 •	Emergency
 •	Insurance
 •	Guarantee
+-   A form for request call backs and quotes
+-   A gallery page to display work
+-   Contact details
+ 
 
-### Skeleton:
+## Skeleton:
 
 #### I have used Balsamique to draw up 3 page wireframes for Mobile, iPad and Desktop.
 
@@ -72,7 +74,7 @@
 
 ## Home page
 
-### The home page is made up of a header.  The header includes a logo and two links for quick contact to be made through email or phone.  The header will repeat on all pages.
+#### The home page is made up of a header.  The header includes a logo and two links for quick contact to be made through email or phone.  The header will repeat on all pages.
 
 #### There is a navagational bar with working links to all four pages.  This will appear on all four pages.
 
@@ -84,7 +86,7 @@
 
 ## Services Pages
 
-### The services page has a section on the list of sevices we provide
+#### The services page has a section on the list of sevices we provide
  
 ** Emergency call out **
 ** Insurance and Testing **
@@ -113,7 +115,7 @@
 #### As our website progresses I would like to include a search option and a spares/shop section.
 
 
-### Surface:
+## Surface:
 
 #### I will use the colors 
 
@@ -144,20 +146,17 @@
 #### In this project I used the following to help build my website.
 
 
-### In this project I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
+#### In this project I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
 
-### In this project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
+#### In this project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
 
-### I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
+#### I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
   
-### I have used [hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
+#### I have used [hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
 
-### google maps link from www.google.com. ("https://www.google.com/maps/embed")
+#### google maps link from www.google.com. ("https://www.google.com/maps/embed")
 
-
-
-
-### Thanks to all the photograhpers and websites Unsplash, Pexels and Pixabay for allowing the use of following photos and video.
+#### Thanks to all the photograhpers and websites Unsplash, Pexels and Pixabay for allowing the use of following photos and video.
 
 #### Light bulbs photo
 #### Photo by Diz Play on Unsplash
@@ -228,26 +227,63 @@ Video by Kapaw from Pexels
 
 ### User Story 1
 
-**From the home page**
-**Click on services in the navagational bar.**
-**Scroll to Insurance and Testing to see that we meet all safey standards.**
-**Scroll further to fill out form and request a call-back.**
-**Alternative options click on Phone or email link for direct enquiry.**
+### **From the home page**
+### **Click on services in the navagational bar.**
+
+![User Story 1 Step 1](assets/images/userstory1.png)
+
+
+### **Scroll to Insurance and Testing to see that we meet all safey standards.**
+
+![User Story 1 Step 2](assets/images/userstory1b.png)
+
+### **Scroll further to fill out form and request a call-back.**
+
+![User Story 1 Step 3](assets/images/userstory1c.png)
+
+![User Story 1 Step 4](assets/images/userstory1d.png)
+
+### **Alternative options click on Phone or email link for direct enquiry.**
+
+![User Story 1 Step 5](assets/images/userstory1e.png)
 
 
 ### User Story 2
 
-**On the home page click the blue call now button for direct line.**
-**Alterantively click on the services page in the navagational bar.**
-**Fill out the form and select "Emergency Call-out" from the drop-down select option.**
-**Choose the date you would like the call-out on this form also.**
+### **On the home page click the call now button for direct phone line.**
+
+![User Story 2 Step 1](assets/images/userstory2a.png)
+
+### **Alterantively click on the services page in the navagational bar.**
+
+![User Story 2 Step 2](assets/images/userstory1.png)
+
+### **Fill out the form and select "Emergency Call-out" from the drop-down select option.**
+
+![User Story 2 Step 3](assets/images/userstory2b.png)
+
+### **Choose the date you would like the call-out on this form also.**
+
+![User Story 2 Step 4](assets/images/userstory2c.png)
+
 
 ### User Story 3
 
-**On the home page click on the services in the navagational bar.**
-**Read through all the registered and certified services we provide.**
-**Click on the Gallery page to read testimonials, provide customer feeback on our services.**
-**Fill out our form to stary the process today!**
+### **On the home page click on the services in the navagational bar.**
+
+![User Story 3 Step 1](assets/images/userstory1.png)
+
+### **Read through all the registered and certified services we provide.**
+
+![User Story 3 Step 1](assets/images/userstory3a.png)
+
+### **Click on the Gallery page to read testimonials, provide customer feeback on our services.**
+
+![User Story 3 Step 2](assets/images/userstory3b.png)
+
+### **Fill out our form to start the process today!**
+
+![User Story 3 Step 3](assets/images/userstory2b.png)
 
 
 ## Project Display
@@ -269,167 +305,103 @@ Video by Kapaw from Pexels
 
 ### Tested the site using Lighthouse 
 
-![Lighthhouse Review](assets/images/LighthouseMS1.png)
+![Lighthhouse Review](assets/images/lighthousems1.png)
 
 ## Debugging HTML in index.html
 
-#### 1.  Duplicate attribute of a class.
+###     Duplicate attribute of a class.
 ####    Fix duplicate attribute by removing extra class reference.
 
-#### 2.  Missue of aria-label
+###     Missue of aria-label
 ####    Fix use of aria-label, removed in this instance, as not required.
 
 ####    Amend same errors on all html pages.
 
 ## Debugging HTML in services.html
 
-#### 1.  Duplicate attribute of a class.
+###     Duplicate attribute of a class.
 ####    Fix duplicate attribute by removing extra class reference.
 
-#### 2.  Missue of aria-label
+###     Missue of aria-label
 ####    Fix use of aria-label, removed in this instance, as not required.
 
-####    Use of p element in a span.
+###     Use of p element in a span.
 ####    Replace with h3 element.
 
-####    Stray end tag
-        Fix by deleting stray end tag. Remove </btn>
+###     Stray end tag
+####    Fix by deleting stray end tag. Remove </btn>
 
-####    ul element used as child element of a span in error
+###     ul element used as child element of a span in error
+####    removed as child element
 
-####    unclosed element for blockquote
+###     unclosed element for blockquote
+####    closed element
 
-####    bad value reference for phone
 
-####    duplicate ID reference
+###     section lacks heading
+####    Assign heading to section
 
-####    section lacks heading
-        Assign heading to section
+##      Debugging on contacts page
 
-####    debugging on contacts page
-
-####    bad attribute applied for iframe
+###     bad attribute applied for iframe
 ####    adjust value attribute from % to figure
 
-####    text not allowed in this style in iframe attribute          warning
+###     text not allowed in this style in iframe attribute          
 
-html code checking on gallery page
+##      Debugging on gallery page
 
-####    incorrect placement of quotation marks
+###     incorrect placement of quotation marks
 ####    correct placement
 
-####    Error: Duplicate attribute alt.
+###     Error: Duplicate attribute alt.
 ####    Remove duplicate attribute.
 
-####    Warning: Section lacks heading. 
-↩        ↩<section id="photo">↩    <
+###     Warning: Section lacks heading. 
 
-Error: An img element must have an alt attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
+## CSS debugging
 
-From line 107, column 25; to line 107, column 202
-
-          <img src="https://browser-magenta-swan-etqsvzb9.ws-eu03.gitpod.io/workspace/MS1Project/assets/images/MS1%20girl2%20%282%29.jpeg" class="rounded-circle mr-3" height=100 width=100>↩     
-
-Error: End tag div seen, but there were open elements.
-
-From line 113, column 25; to line 113, column 30
-
-          </div>↩     
-
-Error: Unclosed element blockquote.
-
-From line 112, column 29; to line 112, column 40
-
-          <blockquote>↩     
-
-Error: Unclosed element blockquote.
-
-From line 109, column 29; to line 109, column 59
-
-          <blockquote class="blockquote">      
-
-Error: An img element must have an alt attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-
-From line 119, column 25; to line 119, column 190
-
-          <img src="https://browser-magenta-swan-etqsvzb9.ws-eu03.gitpod.io/workspace/MS1Project/assets/images/girl-image.png" class="rounded-circle mr-3" height=100 width=100>↩     
-
-Error: End tag div seen, but there were open elements.
-
-From line 125, column 25; to line 125, column 30
-
-          </div>↩     
-
-Error: Unclosed element blockquote.
-
-From line 124, column 29; to line 124, column 40
-
-          <blockquote>↩     
-
-Error: Unclosed element blockquote.
-
-From line 121, column 29; to line 121, column 59
-
-          <blockquote class="blockquote">      
-
-Error: An img element must have an alt attribute, except under certain conditions. For details, consult guidance on providing text alternatives for images.
-
-From line 131, column 25; to line 131, column 185
-
-          <img src="https://browser-magenta-swan-etqsvzb9.ws-eu03.gitpod.io/workspace/MS1Project/assets/images/rosie.jpg" class="rounded-circle mr-3" height=100 width=100>↩     
-
-Error: End tag for body seen, but there were unclosed elements.
-
-From line 200, column 1; to line 200, column 7
-
-ter>↩    ↩</body>↩</htm
-
-Error: Unclosed element div.
-
-From line 69, column 9; to line 69, column 37
-
->↩        <div class="container-fluid">↩     
-
-Error: Unclosed element section.
-
-From line 68, column 1; to line 68, column 32
-
->↩</div>↩↩<section class="galleryheading">↩     
-
-
-
-
-CSS debugging
-
-####	h2	Value Error : text-transform "Exo" is not a text-transform value : "Exo",sans-serif
+### 	h2	Value Error : text-transform "Exo" is not a text-transform value :          "Exo",sans-serif
 ####    removed extra quotation marks
 
-####	h2	Value Error : letter-spacing uppercase is not a letter-spacing value : uppercase
+### 	h2	Value Error : letter-spacing uppercase is not a letter-spacing              value : uppercase
 ####    amended letter spacing value
 
-####	.name	Parse Error sans-serif"; font-weight: 100;
+### 	.name	Parse Error sans-serif"; font-weight: 100;
 ####    removed extra quotation marks
 
 
-####	.services-list	Value Error : background-color none is not a background-color value : none
+### 	.services-list	Value Error : background-color none is not a          background-color value : none
 ####    removed background-color value
 
-####	#photo img	4px is not a border-image value : 4px solid black
+### 	#photo img	4px is not a border-image value : 4px solid black
 ####    amended value
 
-####	#photo img	Property padding-block doesn't exist : 5px
+### 	#photo img	Property padding-block doesn't exist : 5px
 ####    removed padding-block as not required
 
-####	#photo img	Property margin-block-start doesn't exist : auto
+### 	#photo img	Property margin-block-start doesn't exist : auto
 ####    removed margin-block-start as not required.
 
-####	#photo img	Property margin-block-end doesn't exist : auto
-####    removed margin-block-end as not required.
+###     Call out button is covering text.
+####     Fixed error by adding padding to the css.
 
-####	.call-out	Parse Error -0-transition: all 0.35s ease-in-out;
-####    -0-transition not required
+###     Logo not displaying in image format.
+####    Incorrect file path.  Changed to the relative path.
 
+###     HeroImage not loading.
+####    Incorrect file path.  Changed to the relative path. 
 
+###     Overlay not responsive. Missing half the writing when the screen size           reduced.
+####    Added a query css to incorporate overlay to make it responsive.
+
+###     Background colour blue when hovering over navbar item.
+####    Left space between rgba and brackets in background color for hover              class.  Removed space and grey colour was restored.
+
+###     Form not centering on page/overlapping footer.
+####    Adjust padding and css styling to fix centering issue and overlapping of footer.
+
+###     Large area of white space appearing below gallery on services.html page.
+####    Fix max-width on query to remove white space.
 
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
@@ -438,148 +410,13 @@ CSS debugging
             alt="Valid CSS!" />
     </a>
 </p>
-## Wireframe link
-
-## Screenshots of website
-
-## Bug Fixes Section
-
-### *   Call out button is covering text.
-###     Fixed error by adding padding to the css.
-
-### *   Logo not displaying in image format.
-###     Incorrect file path.  Changed to the relative path.
-
-### *   HeroImage not loading.
-###     Incorrect file path.  Changed to the relative path. 
-
-### *   Overlay not responsive. Missing half the writing when the screen size           reduced.
-###     Added a query css to incorporate overlay to make it responsive.
-
-### *   Background colour blue when hovering over navbar item.
-###     Left space between rgba and brackets in background color for hover              class.  Removed space and grey colour was restored.
-
-### *   Form not centering on page/overlapping footer.
-        Adjust padding and css styling to fix centering issue and overlapping of footer.
-
-### *   Large area of white space appearing below gallery on services.html page.
-        Fix max-width on query to remove white space.
 
 ## Deployment Section
 
-###This project is deployed using GitHub
 
-###Please follow the following guidelines
+### I used the programme [Gitpod](www.gitpod.io) in the developing of this project.  I pushed it to GitHub using the CLI which is built into Gitpod.
 
-
-
-
-
-html
-
-Error: Bad value assets/images/LSH Electricians Logo.png for attribute src on element img: Illegal character in path segment: space is not allowed.
-
-From line 24, column 13; to line 24, column 144
-
-          <img src="assets/images/LSH Electricians Logo.png" alt="Company Logo Image" width="50" height="50" class="d-inline-block align-top">↩     
-
-Error: Element p not allowed as child of element span in this context. (Suppressing further errors from this subtree.)
-
-From line 28, column 17; to line 28, column 19
-
-          <p><stron
-
-Contexts in which element p may be used:
-Where flow content is expected.
-Content model for element span:
-Phrasing content.
-Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
-
-From line 65, column 1; to line 65, column 33
-
-eader>  ↩↩<section class="container-fluid">↩    <
-
-
-Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
-
-From line 63, column 1; to line 63, column 20
-
-r>   ↩   ↩<section id="photo">↩     
-
-Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
-
-From line 79, column 1; to line 79, column 9
-
-section>↩↩<section>↩    <
-
-Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
-
-From line 64, column 1; to line 64, column 21
-
-r>   ↩   ↩<section id="photos">↩     
-
-Warning: Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections.
-
-From line 80, column 1; to line 80, column 9
-
-
-Error: Text not allowed in element iframe in this context.
-
-From line 79, column 360; to line 79, column 361
-
-ng="lazy"><h1>Sorr
-
-Content model for element iframe:
-Nothing.
-Error: Text not allowed in element iframe in this context.
-
-From line 79, column 362; to line 79, column 407
-
-="lazy"><h1>Sorry, your browser doesn't support iframes!</h1><
-
-Content model for element iframe:
-Nothing.
-Error: Text not allowed in element iframe in this context.
-
-From line 79, column 408; to line 79, column 410
-
-t iframes!</h1></if
-
-Content model for element iframe:
-Nothing.
-Error: Text not allowed in element iframe in this context.
-
-From line 79, column 411; to line 79, column 412
-
-frames!</h1></ifra
-
-Content model for element iframe:
-Nothing.
-
-
-css Testing
-
-.btn-call:hover, .btn-call:active, .btn-call:focus, .btn-call:active:focus	Value Error : border-color 2px is not a border-color value : 2px solid black
-177	.alert	Too many values or values are not recognized : none
-239		Parse Error }
-408		Parse Error }
-517	#cover-text	Value Error : margin left is not a margin value : left
-531	#nav	Value Error : float center is not a float value : center
-602	.call-out	Value Error : float center is not a float value : center
-
-## <p>
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!" />
-    </a>
-</p>
-
-## Deployment section
-
-#### I used the programme [Gitpod](www.gitpod.io) in the developing of this project.  I pushed it to GitHub using the CLI which is built into Gitpod.
-
-### To deploy this project to GitHub from its Gitpod repository I followed these steps.
+### To deploy this project to GitHub from its Gitpod repository - please follow these steps.
 
 1. Log into http://www.github.com
 2. Click on "Your Repositories" from the dropdown menu and select LSH_Electricians_MS1.
