@@ -9,6 +9,7 @@
 
 
 
+
 #### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
 
 #### We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  We quote for all job sizes.  We specialize in emergency call-outs.  Providing you with the service you need when you need it.
@@ -19,7 +20,7 @@
 
 ## **UX**
 
-### **Strategy**
+## **Strategy**
 
 #### This website is for owners of properties, residential or commercial who are looking to repair or update their electrics.
 #### I want to provide a service that is easy to navigate. 
@@ -61,8 +62,9 @@
 
 #### Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:b7a6a01a-f045-44d7-b5c8-d94d470f1787)
 
-#### I will design the website to adjust to differents sized screens to ensure optimum viewing.
-#### I will make sure all links are active and working.
+![Desktop Image](assets/images/wireframems1desktop.png)
+![Mobile Image](assets/images/wireframems1mobile.png)
+
 
 ## Features
 
@@ -94,7 +96,7 @@
 #### Followed by a Form with a drop down select menu, to enable the customer to direct their query.
 
 
-##Contact Pages
+## Contact Pages
 
 #### The contact page includes a map of Dublin provided by Google maps. This displays the service in which LSH Electricians work.
 
@@ -137,12 +139,14 @@
 
 ## Technologies used/Accreditations
 
+#### Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
+
 #### In this project I used the following to help build my website.
 
 
 ### In this project I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
 
-###s project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
+### In this project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
 
 ### I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
   
@@ -150,7 +154,7 @@
 
 ### google maps link from www.google.com. ("https://www.google.com/maps/embed")
 
-## Accreditations
+
 
 
 ### Thanks to all the photograhpers and websites Unsplash, Pexels and Pixabay for allowing the use of following photos and video.
@@ -249,6 +253,20 @@ Video by Kapaw from Pexels
 ### The display changes to accomodate smaller screensize.  On a phone some items have been removed to focus on the mobile friendly application.  For example the form reduces in size, so it can be displayed fully on a smaller device.
 
 ### The navigational bar also displays in a two by two format to accomodate the smaller screen size.
+
+#### I will design the website to adjust to differents sized screens to ensure optimum viewing.
+#### I will make sure all links are active and working.
+
+### Here is a demonstrating of how my website looks on different screensizes using [Am I Responsive Website](http://ami.responsivedesign.is/)
+
+![Am I responsive](assets/images/responsivedesignms1.png)
+
+
+## Testing
+
+### Tested the site using Lighthouse 
+
+![Lighthhouse Review](assets/images/LighthouseMS1.png)
 
 ## Debugging HTML in index.html
 
@@ -452,11 +470,7 @@ CSS debugging
 
 
 
-## Acknowledgements
 
-#### Much thanks to my fantastic mentor for giving such great report and encouragement throughtout my first Milestone Project.
-
-#### Much thanks to Code Institute Tutors for pointing me in the right direction when I was going off course.
 
 html
 
@@ -557,3 +571,35 @@ css Testing
             alt="Valid CSS!" />
     </a>
 </p>
+
+## Deployment section
+
+#### I used the programme [Gitpod](www.gitpod.io) in the developing of this project.  I pushed it to GitHub using the CLI which is built into Gitpod.
+
+### To deploy this project to GitHub from its Gitpod repository I followed these steps.
+
+1. Log into http://www.github.com
+2. Click on "Your Repositories" from the dropdown menu and select LSH_Electricians_MS1.
+3. Go to the list of options and select Settings.
+4. Scroll down to GitHub pages.
+5. Under source click the drop down menu and select branch: master.
+6. Your page then refreshes and your site is deployed.
+7. Scroll back down to GitHub pages and you are now provided with a link to your deployed website.
+
+### To clone this project into Gitpod you should follow these steps.
+
+1. Open your github accound or create one.
+2. Use the Chrome browser.
+3. Install the extension for Gitpod.
+4. Log into your gitpod account.
+5. Navigate to the Project GigHub repository.
+6. Under the Repository LSH_Electricians_MS1, click download.
+7. This will trigger a new gitpod workspace which you can work on.
+
+## Acknowledgements
+
+#### Much thanks to my fantastic mentor Nishant Kumar for giving such great report and encouragement throughtout my first Milestone Project.
+
+#### Much thanks to Code Institute Tutors for pointing me in the right direction when I was going off course.
+
+#### Thanks also to support from the Slack Community. 
