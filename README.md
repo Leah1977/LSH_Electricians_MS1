@@ -1,26 +1,41 @@
 # Milestone Project 1 - LSH Electricians
 
+## Table of Contents.
+
+1.  Introduction
+2.  UX
+3.  Project Goals
+4.  Strategy
+5.  Scope
+6.  Skeleton
+7.  Features
+8.  Surface
 
 
-## **Welcome!** 
+## **1. Welcome!** 
 
 #### This site was built using [GitHub Pages](https://pages.github.com/)/.
 
 #### Click here for a link to the live project on GitHub [LSH_Electricians_MS1](https://leah1977.github.io/LSH_Electricians_MS1/)
 
 
+
+## **2. UX**
+
+##  3. Project Goals.
+
 #### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
 
-#### We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  We quote for all job sizes.  We specialize in emergency call-outs.  Providing you with the service you need when you need it.
+#### We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  
+We quote for all job sizes.  
+We specialize in emergency call-outs.  
+Providing you with the service you need when you need it.
 
 #### This website demonstrates the services we provide and enables you to book a call out or request a quote.
 
 
-# **UX**
 
-
-
-## **Strategy**
+## **4. Strategy**
 ---
 
 #### This website is for owners of properties, residential or commercial who are looking to repair or update their electrics.
@@ -40,33 +55,55 @@
 
 #### I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
 
+### What I look for on a website when looking for an electrician.
+ 
+1. Easy to navigate.
+2. Easy to find contact details.
+3. Clearly displays the work they carry out.
+4. Do they comply with safety standards.
+
 ### **User Story 2**
 
 #### I needed an electrician for an emergency call out.  I wanted to find someone fast, efficient and reliable – quickly.  I also needed the someone to call out at a time that was convenient to me.
+
+### What I look for on a website when looking for an electrician.
+
+1. Do they have an emergency call out option.
+2. What times are they available?
+3. Are they reliable?
+4. What do other customers say about them.
 
 ### **User story 3**
 
 #### We needed a qualified electrician to check our electrics and certify them all for insurance purposes.
 #### I want to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
 
+### What I look for on a website when looking for an electrician.
+
+1. Do they work with Safe Electric.
+2. Are they registered and certified electricians.
+3. Are they reliable?
+4. Do they get good reviews?
+
+
 #### With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
 
 
-## **Scope**
-
+## 5. Scope
 
 #### Essentials will include
 
-•	Call out
-•	Emergency
-•	Insurance
-•	Guarantee
--   A form for request call backs and quotes
--   A gallery page to display work
--   Contact details
+*	Call out
+*	Emergency
+*	Insurance
+*	Guarantee
+*   A form for request call backs and quotes
+*   A gallery page to display work
+*   Contact details
  
 
-## Skeleton:
+## 6. Skeleton:
+---
 
 #### I have used Balsamique to draw up 3 page wireframes for Mobile, iPad and Desktop.
 
@@ -80,11 +117,16 @@
 ![Mobile Image](assets/images/wireframems1mobile.png)
 
 
-## Features
+## 7. Features
+---
+#### This project will include four separate pages.  
 
-#### This project will include four separate pages.  A home page, a services page, a contact page and a gallery page.
+* Home page
+* Services page
+* Contact page
+* Gallery page.
 
-## Home page
+**Home page**
 
 #### The home page is made up of a header.  The header includes a logo and two links for quick contact to be made through email or phone.  The header will repeat on all pages.
 
@@ -96,21 +138,21 @@
 
 #### The footer has three sections.  An about section telling you about the company.  An emergency call out section with phone link.  The last section is to connect the customer to our social links.
 
-## Services Pages
+**Services Pages**
 
 #### The services page has a section on the list of sevices we provide
  
-** Emergency call out **
-** Insurance and Testing **
-** Domestic Electrician **
-** Commercial Electrician **
-** Products **
-** Gallery with link to Gallery page. **
+* Emergency call out
+* Insurance and Testing
+* Domestic Electrician
+* Commercial Electrician
+* Products
+* Gallery with link to Gallery page.
 
 #### Followed by a Form with a drop down select menu, to enable the customer to direct their query.
 
 
-## Contact Pages
+**Contact Pages**
 
 #### The contact page includes a map of Dublin provided by Google maps. This displays the service in which LSH Electricians work.
 
@@ -122,19 +164,18 @@
 
 #### This page includes a Testimonial section so customers can read our reviews.
 
-## Additional Features
-
-#### As our website progresses I would like to include a search option and a spares/shop section.
 
 
-## Surface:
 
-#### I will use the colors 
+## 8. Surface:
+
+#### I will use the colors in the main body
 
 - Gold
 - Grey
 - White
-- Blue and Green will be used for the buttons so that they will stand out.
+ 
+### I have decided on these colors as I wanted something that would 
 
 #### My Header and footer will use the two main colors
 
@@ -149,6 +190,10 @@
  * Roboto
  * Exo
  * Sans Serif as a back up
+
+## Additional Features
+
+#### As our website progresses I would like to include a search option and a spares/shop section.
 
 
 ## Technologies used/Accreditations
@@ -299,13 +344,14 @@ Video by Kapaw from Pexels
 
 
 ## Project Display
+---
 
 ### This project is responsive to appear on different screen sizes.
 ### The display changes to accomodate smaller screensize.  On a phone some items have been removed to focus on the mobile friendly application.  For example the form reduces in size, so it can be displayed fully on a smaller device.
 
 ### The navigational bar also displays in a two by two format to accomodate the smaller screen size.
 
-#### I will design the website to adjust to differents sized screens to ensure optimum viewing.
+#### I will design the website to adjust to different sized screens to ensure optimum viewing.
 #### I will make sure all links are active and working.
 
 ### Here is a demonstrating of how my website looks on different screensizes using [Am I Responsive Website](http://ami.responsivedesign.is/)
@@ -314,13 +360,14 @@ Video by Kapaw from Pexels
 
 
 ## Testing
+--- 
 
 ### Tested the site using Lighthouse 
 
 ![Lighthhouse Review](assets/images/lighthousems1.png)
 
 ## Debugging HTML in index.html
-
+---
 ###     Duplicate attribute of a class.
 ####    Fix duplicate attribute by removing extra class reference.
 
@@ -330,6 +377,7 @@ Video by Kapaw from Pexels
 ####    Amend same errors on all html pages.
 
 ## Debugging HTML in services.html
+---
 
 ###     Duplicate attribute of a class.
 ####    Fix duplicate attribute by removing extra class reference.
@@ -354,14 +402,14 @@ Video by Kapaw from Pexels
 ####    Assign heading to section
 
 ##      Debugging on contacts page
-
+---
 ###     bad attribute applied for iframe
 ####    adjust value attribute from % to figure
 
 ###     text not allowed in this style in iframe attribute          
 
 ##      Debugging on gallery page
-
+---
 ###     incorrect placement of quotation marks
 ####    correct placement
 
@@ -372,6 +420,8 @@ Video by Kapaw from Pexels
 
 ## CSS debugging
 
+---
+
 ### 	h2	Value Error : text-transform "Exo" is not a text-transform value :          "Exo",sans-serif
 ####    removed extra quotation marks
 
@@ -380,7 +430,6 @@ Video by Kapaw from Pexels
 
 ### 	.name	Parse Error sans-serif"; font-weight: 100;
 ####    removed extra quotation marks
-
 
 ### 	.services-list	Value Error : background-color none is not a          background-color value : none
 ####    removed background-color value
@@ -425,6 +474,8 @@ Video by Kapaw from Pexels
 
 ## Deployment Section
 
+---
+
 
 ### I used the programme [Gitpod](www.gitpod.io) in the developing of this project.  I pushed it to GitHub using the CLI which is built into Gitpod.
 
@@ -449,6 +500,7 @@ Video by Kapaw from Pexels
 7. This will trigger a new gitpod workspace which you can work on.
 
 ## Acknowledgements
+---
 
 #### Much thanks to my fantastic mentor Nishant Kumar for giving such great support and encouragement throughtout my first Milestone Project.
 
