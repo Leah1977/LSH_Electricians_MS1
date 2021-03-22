@@ -10,6 +10,12 @@
 6.  Skeleton
 7.  Features
 8.  Surface
+9.  Project Display
+10. Technologies / Accreditations
+11. Testing
+12. Debugging
+13. Deployment Section
+14. Acknowledgements
 
 
 ## **1. Welcome!** 
@@ -20,7 +26,7 @@
 
 
 
-## **2. UX**
+## 2. UX
 
 ##  3. Project Goals.
 
@@ -168,6 +174,7 @@ Providing you with the service you need when you need it.
 
 
 ## 8. Surface:
+---
 
 #### I will use the colors in the main body
 
@@ -195,8 +202,24 @@ Providing you with the service you need when you need it.
 
 #### As our website progresses I would like to include a search option and a spares/shop section.
 
+## 9. Project Display
+---
 
-## Technologies used/Accreditations
+### This project is responsive to appear on different screen sizes.
+### The display changes to accomodate smaller screensize.  On a phone some items have been removed to focus on the mobile friendly application.  For example the form reduces in size, so it can be displayed fully on a smaller device.
+
+### The navigational bar also displays in a two by two format to accomodate the smaller screen size.
+
+#### I will design the website to adjust to different sized screens to ensure optimum viewing.
+#### I will make sure all links are active and working.
+
+### Here is a demonstrating of how my website looks on different screensizes using [Am I Responsive Website](http://ami.responsivedesign.is/)
+
+![Am I responsive](assets/images/responsivedesignms1.png)
+
+
+## 10. Technologies used/Accreditations
+---
 
 #### Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
 
@@ -278,6 +301,9 @@ Video by Kapaw from Pexels
 - YouTube 
 
 
+## 11. Testing
+---
+
 ## Testing
 
 ### Implement the user stories.
@@ -342,34 +368,18 @@ Video by Kapaw from Pexels
 
 ![User Story 3 Step 3](assets/images/userstory2b.png)
 
-
-## Project Display
----
-
-### This project is responsive to appear on different screen sizes.
-### The display changes to accomodate smaller screensize.  On a phone some items have been removed to focus on the mobile friendly application.  For example the form reduces in size, so it can be displayed fully on a smaller device.
-
-### The navigational bar also displays in a two by two format to accomodate the smaller screen size.
-
-#### I will design the website to adjust to different sized screens to ensure optimum viewing.
-#### I will make sure all links are active and working.
-
-### Here is a demonstrating of how my website looks on different screensizes using [Am I Responsive Website](http://ami.responsivedesign.is/)
-
-![Am I responsive](assets/images/responsivedesignms1.png)
-
-
-## Testing
 --- 
 
 ### Tested the site using Lighthouse 
 
 ![Lighthhouse Review](assets/images/lighthousems1_3.png)
 
-###
-
-## Debugging HTML in index.html
+##      12.  Debugging
 ---
+
+##      Debugging HTML in index.html
+---
+
 ###     Duplicate attribute of a class.
 ####    Fix duplicate attribute by removing extra class reference.
 
@@ -405,6 +415,7 @@ Video by Kapaw from Pexels
 
 ##      Debugging on contacts page
 ---
+
 ###     bad attribute applied for iframe
 ####    adjust value attribute from % to figure
 
@@ -412,6 +423,7 @@ Video by Kapaw from Pexels
 
 ##      Debugging on gallery page
 ---
+
 ###     incorrect placement of quotation marks
 ####    correct placement
 
@@ -474,7 +486,7 @@ Video by Kapaw from Pexels
     </a>
 </p>
 
-## Deployment Section
+## 13.  Deployment Section
 
 ---
 
@@ -501,7 +513,7 @@ Video by Kapaw from Pexels
 6. Under the Repository LSH_Electricians_MS1, click download.
 7. This will trigger a new gitpod workspace which you can work on.
 
-## Acknowledgements
+## 14.  Acknowledgements
 ---
 
 #### Much thanks to my fantastic mentor Nishant Kumar for giving such great support and encouragement throughtout my first Milestone Project.
