@@ -364,7 +364,9 @@ Video by Kapaw from Pexels
 
 ### Tested the site using Lighthouse 
 
-![Lighthhouse Review](assets/images/lighthousems1.png)
+![Lighthhouse Review](assets/images/lighthousems1_3.png)
+
+###
 
 ## Debugging HTML in index.html
 ---
