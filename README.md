@@ -59,9 +59,9 @@ Providing you with the service you need when you need it.
 
 ### **User Story 1**
 
-#### I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
+#### As a website user, I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
 
-### What I look for on a website when looking for an electrician.
+### What I expect to find on a website when looking for an electrician.
  
 1. Easy to navigate.
 2. Easy to find contact details.
@@ -70,9 +70,9 @@ Providing you with the service you need when you need it.
 
 ### **User Story 2**
 
-#### I needed an electrician for an emergency call out.  I wanted to find someone fast, efficient and reliable – quickly.  I also needed the someone to call out at a time that was convenient to me.
+#### As a website user, I needed an electrician for an emergency call out.  I wanted to find someone fast, efficient and reliable – quickly.  I also needed the someone to call out at a time that was convenient to me.
 
-### What I look for on a website when looking for an electrician.
+### What I expect to find on a website when looking for an electrician.
 
 1. Do they have an emergency call out option.
 2. What times are they available?
@@ -81,8 +81,8 @@ Providing you with the service you need when you need it.
 
 ### **User story 3**
 
-#### We needed a qualified electrician to check our electrics and certify them all for insurance purposes.
-#### I want to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
+#### As a website user, I needed a qualified electrician to check our electrics and certify them all for insurance purposes.
+#### I expect to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
 
 ### What I look for on a website when looking for an electrician.
 
@@ -317,42 +317,17 @@ Video by Kapaw from Pexels
 
 ### **From the home page**
 ### **Click on services in the navagational bar.**
-
-![User Story 1 Step 1](assets/images/userstory1.png)
-
-
 ### **Scroll to Insurance and Testing to see that we meet all safey standards.**
-
-![User Story 1 Step 2](assets/images/userstory1b.png)
-
 ### **Scroll further to fill out form and request a call-back.**
-
-![User Story 1 Step 3](assets/images/userstory1c.png)
-
-![User Story 1 Step 4](assets/images/userstory1d.png)
-
 ### **Alternative options click on Phone or email link for direct enquiry.**
-
-![User Story 1 Step 5](assets/images/userstory1e.png)
 
 
 ### User Story 2
 
 ### **On the home page click the call now button for direct phone line.**
-
-![User Story 2 Step 1](assets/images/userstory2a.png)
-
 ### **Alterantively click on the services page in the navagational bar.**
-
-![User Story 2 Step 2](assets/images/userstory1.png)
-
 ### **Fill out the form and select "Emergency Call-out" from the drop-down select option.**
-
-![User Story 2 Step 3](assets/images/userstory2b.png)
-
 ### **Choose the date you would like the call-out on this form also.**
-
-![User Story 2 Step 4](assets/images/userstory2c.png)
 
 
 ### User Story 3
