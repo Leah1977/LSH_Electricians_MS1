@@ -137,7 +137,7 @@ h2, h4 {
 
 .heading {
     float: center;
-    font-size: 30px;
+    font-size: 25px;
     padding: none;
 }
 
@@ -228,20 +228,16 @@ i {
 
 }
 
-/*-----------------------------------------------------------------Testimonials*/
+/*----------------------------------------------------------------Testimonials*/
 
-.testimonials {
+#testimonials {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+ 
 }
 
-.testimonials h2 {
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    
-}
+
 
 .media {
     text-align: center;
@@ -249,7 +245,17 @@ i {
     line-height: 50px;
 
 }
+/*----------------------------------------------------------------Contact*/
 
+.address {
+    padding-top: 20px;
+    
+}
+
+.address p {
+    line-height: normal;
+    padding-top: 10px;
+}
 
 /* ---------------------------------------------------------------Form*/
 
@@ -257,8 +263,8 @@ i {
 #form-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    margin-top: 25px;
-    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
     text-align: center;
 
 }
@@ -280,7 +286,7 @@ i {
 #form-section {
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    margin-top: 25px;
+    margin-top: 15px;
     margin-bottom: 20px;
     background-size: cover;
     background-position: center;
@@ -368,9 +374,9 @@ option {
     border-radius: 4px;
     padding: 15px 32px 15px 32px;
     text-align: center;
-    background-color: gold;
-    display: inline-block;
-    font-size: 100%;
+    background-color: red;
+    display: block;
+    font-size: 80%;
 }
 
 .quote-button {
@@ -378,20 +384,20 @@ option {
     border-radius: 4px;
     padding: 15px 32px 15px 32px;
     text-align: center;
-    background-color: gold;
-    display: inline-block;
-    font-size: 100%;
+    background-color: green;
+    display: block;
+    font-size: 80%;
     
 }
 
 .clear-button:hover {
-    background-color: #fafafa;
-    color: gray;
+    background-color: #555555 ;
+    color: #fafafa;
 }
 
 .quote-button:hover {
-    background-color: #fafafa;
-    color: gray;
+    background-color: #555555;
+    color: #fafafa;
 }
 
 /* ---------------------------------------------------------------Images*/
@@ -542,6 +548,33 @@ option {
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
+}
+
+    #hero-image {
+    height: 500px;
+    width: 100%;
+    background: no-repeat center center;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    
+}
+
+#hero-outer {
+    height: 50%;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
 }
 
