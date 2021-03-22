@@ -223,6 +223,9 @@ Providing you with the service you need when you need it.
 
 #### Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
 
+![Code used for header was adapted from the diploma course](assets/images/Codeinstituteheader.png)
+
+
 #### In this project I used the following to help build my website.
 
 
@@ -231,6 +234,8 @@ Providing you with the service you need when you need it.
 #### In this project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
 
 #### I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
+
+![code used and adapted from Bootstrap for modal](assets/images/bootstrapcodemodal.png)
   
 #### I have used [hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
 
