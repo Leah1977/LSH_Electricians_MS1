@@ -117,7 +117,7 @@ Providing you with the service you need when you need it.
 
 #### I have included wireframes for mobile, ipad and desktop. I plan to build my website from a mobile first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
 
-#### Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:b7a6a01a-f045-44d7-b5c8-d94d470f1787)
+#### Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets/wireframes)
 
 ![Desktop Image](assets/images/wireframems1desktop.png)
 ![Mobile Image](assets/images/wireframems1mobile.png)
