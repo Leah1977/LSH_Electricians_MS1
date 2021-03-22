@@ -186,6 +186,7 @@ i {
 #services {
 
     margin: 10px;
+    padding-left: 10px;
     
 }
 
@@ -395,7 +396,7 @@ option {
     }
 }
 
-#cover-text, cover-text h2 {
+#cover-text, cover-text h3 {
     color: #000000;
 
 }
