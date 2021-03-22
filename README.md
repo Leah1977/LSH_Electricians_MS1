@@ -1,13 +1,12 @@
 # Milestone Project 1 - LSH Electricians
 
 
+
 ## **Welcome!** 
 
 #### This site was built using [GitHub Pages](https://pages.github.com/)/.
 
 #### Click here for a link to the live project on GitHub [LSH_Electricians_MS1](https://leah1977.github.io/LSH_Electricians_MS1/)
-
-
 
 
 #### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
@@ -16,13 +15,26 @@
 
 #### This website demonstrates the services we provide and enables you to book a call out or request a quote.
 
-## **UX**
+
+# **UX**
+
+
 
 ## **Strategy**
+---
 
 #### This website is for owners of properties, residential or commercial who are looking to repair or update their electrics.
 #### I want to provide a service that is easy to navigate. 
 #### Making it clear and quick to provide information and request a quote or call-out.
+#### I will research what may be required for this websit by asking the following questions to selection of people.
+
+* Would you use a website to look for an electrician?
+* What would be your main need for an electrician?
+* Would you like a quote?
+* What services would you look for?
+* Would you like to see previous work completed in a gallery section?
+* Would you like to read reviews from customers?
+
 
 ### **User Story 1**
 
