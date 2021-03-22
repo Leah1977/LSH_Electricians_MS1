@@ -49,7 +49,7 @@ h4 {
 h2, h4 {
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #555555;
+    color: #fafafa;
     text-align: center;
 
 }
@@ -133,6 +133,23 @@ h2, h4 {
 
 }
 
+/*-----------------------------------------------------------------Heading*/
+
+.heading {
+    float: center;
+    font-size: 30px;
+    padding: none;
+}
+
+a i {
+    color: #fafafa;
+
+    }
+
+.contact-details {
+    color: #fafafa;
+}
+
 /*-----------------------------------------------------------------Button*/
 
 .btn-call {
@@ -163,7 +180,7 @@ h2, h4 {
     position: relative;
     line-height: 20px;
     padding: 10px;
-    color: #212529;
+    color: #fafafa;
     background-color: rgba(105, 104, 100, 0.911);
     margin-bottom: 5px;
     border: 1px solid transparent;
@@ -180,24 +197,34 @@ h2, h4 {
 
 i {
     color:#ffcd05;
-    clear: both;
+    clear: left;
     }
 
 #services {
 
-    margin: 10px;
-    padding-left: 10px;
+  text-align: center;
+  padding: 0, auto;
+ 
     
 }
 
 
-.servicesblock {
+.services-list {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
     padding-top: 10px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
-#services h2 {
+.services-list li{
+      list-style-type: none;
+  
+ }
+
+#services h2, h4 {
     width: 100%;
+    color: #525252;
 
 }
 
@@ -431,7 +458,7 @@ option {
     width: 100%;   
  }
 
- .galleryheading {
+.gallery-heading {
      width: 100%;
  }
 
@@ -455,8 +482,8 @@ option {
     #services {
         width: 100%;
         margin: 0 auto;
-        padding-left: 5%;
-        
+        padding: 10px;
+                
     }
 
     #hero-image {
@@ -498,13 +525,12 @@ option {
     #services {
         width: 75%;
         padding: 30px;
-        text-align: left;
+        text-align: center;
         padding-bottom: 10px;
-       
-           
+                  
     }
     
- .serviceslist li{
+ .services-list li{
       list-style-type: none;
  }
 
@@ -538,9 +564,14 @@ footer {
     color: #fafafa;
     text-align: center;
     min-height: 80px;
-    padding: 5px;
-    margin-top: 5px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+
      
+}
+
+a.call-out {
+    color: #fafafa;
 }
 
 .call-out { 
@@ -549,22 +580,21 @@ footer {
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    font-size: 12px;
-    color: #fafafa;
+    font-size: 14px;
     background-color: #8f8f8f;
     text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
 }
 
+
 .call-out:hover {
-    background: gold;
-    color: #fafafa;
+    background:  #ffcd05;
+    color: #343a40;
     text-decoration: none;
-    
 }
 
 .social-links {
