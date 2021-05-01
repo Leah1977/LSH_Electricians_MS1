@@ -49,7 +49,6 @@ h4 {
 h2, h4 {
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #fafafa;
     text-align: center;
 
 }
@@ -186,7 +185,8 @@ a i {
 .alert {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
-    line-height: 10px;
+    line-height: 20px;
+    left: 370px;
     color: #fafafa;
     background-color: rgba(105, 104, 100, 0.911);
     margin-bottom: 5px;
@@ -250,8 +250,7 @@ i {
 .media {
     text-align: center;
     margin: 10px;
-    line-height: 50px;
-
+ 
 }
 /*----------------------------------------------------------------Contact*/
 
@@ -270,12 +269,13 @@ i {
 
 #form-heading {
     font-family: "Exo", sans-serif;
-    font-weight: 300;
-    margin-top: 5px;
-    margin-bottom: 10px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 20px;
     text-align: center;
-
+    clear: both;
 }
+
 #form-info h2 {
     text-align: center;
     color: rgba(60, 60, 60, 0.4);
@@ -292,19 +292,23 @@ i {
 
 
 .center-form {
-    padding-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin: 0 auto;
-    max-width: 70%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 50%;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.9);
+    clear: both;
 }
 
 .text-input {
     background: rgba(60, 60, 60, 0.4);
     color: #fafafa;
-    width: 50%;
+    width: 95%;
     height: auto;
-    margin: 5px 0 20px 0;
+    margin: 10px 5px 20px 10px;
     border: 1px solid #fafafa;
     border-radius: 4px;
 }
@@ -323,6 +327,8 @@ option {
 }
 
 #email-field {
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
     padding: 10px;
     border-radius: 10px;
     border-color: rgb(32, 32, 32);
@@ -347,6 +353,8 @@ option {
 }
 
 #message-label {
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
     padding: 10px;
     border-radius: 10px;
     border-color: rgb(32, 32, 32);
@@ -364,22 +372,31 @@ option {
 
 .clear-button {
     margin-top: 10px;
+    margin-bottom: 10px;
     border-radius: 4px;
     padding: 15px 32px 15px 32px;
     text-align: center;
-    background-color: rgb(76, 0, 255);
-    display: block;
-    font-size: 80%;
+    color: white;
+    background-color: rgb(243, 35, 35);
+    display: inline-flex;
+    font-size: 100%;
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
 }
 
 .quote-button {
+
     margin-top: 10px;
+    margin-bottom: 10px;
     border-radius: 4px;
     padding: 15px 32px 15px 32px;
     text-align: center;
+    color: white;
     background-color: green;
-    display: block;
-    font-size: 80%;
+    display: inline-flex;
+    font-size: 100%;
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
     
 }
 
@@ -535,7 +552,14 @@ option {
 
   #photos {
       column-count: 3;
-  }      
+  }  
+  
+  .center-form {
+        
+    min-height: 240px;
+    margin: 10px;
+    max-width: 70%;
+ }    
 }
 
 @media screen and (max-width: 800px) {
@@ -569,18 +593,16 @@ option {
         transform: scale(1.1);
     }
 }
-}
 
-
-@media(min-width: 993px) {
-
-    .contact-form {
+.center-form {
         
-        min-height: 240px;
-        margin: 20px;
-        max-width: 50%;
-    }    
+    min-height: 240px;
+    margin: 10px;
+    max-width: 100%;
+  }    
 }
+
+
 
   
 /* ---------------------------------------------------------Footer */
@@ -592,6 +614,7 @@ footer {
     min-height: 80px;
     padding-top: 40px;
     padding-bottom: 30px;
+   
 
      
 }
