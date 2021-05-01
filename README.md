@@ -2,23 +2,27 @@
 
 ## Table of Contents.
 
-1.  [Introduction] (#introduction)
-2.  [UX] (#ux)
-3.  [Project-Goals] (#project-goals)
-4.  [Strategy] (#strategy)
-5.  [Scope] (#scope)
-6.  [Skeleton] (#skeleton)
-7.  [Features] (#features)
-8.  [Surface] (#surface)
-9.  [Project-Display] (#project-display)
-10. [Technologies] (#technologies)
-11. [Testing] (#testing)
-12. [Debugging] (#testing)
-13. [Deployment] (#deployment)
-14. [Acknowledgements] (#acknowledgements)
+1.  [Introduction](#introduction)
+2.  [UX](#ux)
+3.  [Project-Goals](#project-goals)
+4.  [Strategy](#strategy)
+5.  [Scope](#scope)
+6.  [Skeleton](#skeleton)
+7.  [Features](#features)
+8.  [Surface](#surface)
+9.  [Project-Display](#project-display)
+10. [Technologies](#technologies)
+11. [Testing](#testing)
+12. [Debugging](#testing)
+13. [Deployment](#deployment)
+14. [Acknowledgements](#acknowledgements)
 
 
-## 1. Welcome!
+
+## Introduction
+
+
+## Welcome!
 
 #### This site was built using [GitHub Pages](https://pages.github.com/)/.
 
@@ -26,22 +30,22 @@
 
 
 
-## 2. UX
+## UX
 
-##  3. Project-Goals.
+## Project Goals.
 
 #### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
 
 #### We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  
-We quote for all job sizes.  
-We specialize in emergency call-outs.  
-Providing you with the service you need when you need it.
+#### We quote for all job sizes.  
+#### We specialize in emergency call-outs.  
+#### Providing you with the service you need when you need it.
 
 #### This website demonstrates the services we provide and enables you to book a call out or request a quote.
 
 
 
-## 4. Strategy
+## Strategy
 ---
 
 #### This website is for owners of properties, residential or commercial who are looking to repair or update their electrics.
@@ -95,7 +99,7 @@ Providing you with the service you need when you need it.
 #### With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
 
 
-## 5. Scope
+## Scope
 
 #### Essentials will include
 
@@ -108,7 +112,7 @@ Providing you with the service you need when you need it.
 *   Contact details
  
 
-## 6. Skeleton:
+## Skeleton:
 ---
 
 #### I have used Balsamique to draw up 3 page wireframes for Mobile, iPad and Desktop.
@@ -123,7 +127,7 @@ Providing you with the service you need when you need it.
 ![Mobile Image](assets/images/wireframems1mobile.png)
 
 
-## 7. Features
+## Features
 ---
 #### This project will include four separate pages.  
 
@@ -173,7 +177,7 @@ Providing you with the service you need when you need it.
 
 
 
-## 8. Surface:
+## Surface:
 ---
 
 #### I will use the colors in the main body
@@ -202,7 +206,7 @@ Providing you with the service you need when you need it.
 
 #### As our website progresses I would like to include a search option and a spares/shop section.
 
-## 9. Project Display
+## Project Display
 ---
 
 ### This project is responsive to appear on different screen sizes.
@@ -218,7 +222,7 @@ Providing you with the service you need when you need it.
 ![Am I responsive](assets/images/responsivedesignms1.png)
 
 
-## 10. Technologies-used
+## Technologies-used
 ---
 
 #### Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
@@ -305,8 +309,6 @@ Video by Kapaw from Pexels
 - Patreon 
 - YouTube 
 
-
-## 11. Testing
 ---
 
 ## Testing
@@ -354,7 +356,7 @@ Video by Kapaw from Pexels
 
 ![Lighthhouse Review](assets/images/lighthousems1_3.png)
 
-##      12.  Debugging
+##  Debugging
 ---
 
 ##      Debugging HTML in index.html
@@ -466,7 +468,7 @@ Video by Kapaw from Pexels
     </a>
 </p>
 
-## 13.  Deployment Section
+## Deployment Section
 
 ---
 
@@ -493,7 +495,7 @@ Video by Kapaw from Pexels
 6. Under the Repository LSH_Electricians_MS1, click download.
 7. This will trigger a new gitpod workspace which you can work on.
 
-## 14.  Acknowledgements
+## Acknowledgements
 ---
 
 #### Much thanks to my fantastic mentor Nishant Kumar for giving such great support and encouragement throughtout my first Milestone Project.
