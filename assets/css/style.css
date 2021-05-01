@@ -54,6 +54,10 @@ h2, h4 {
 
 }
 
+h3 {
+    color:rgba(60, 60, 60, 0.9);
+}
+
 .general-sub {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -75,6 +79,10 @@ h2, h4 {
     font-size: 0;
     margin: 10px;
     padding-bottom: 5px;
+}
+
+.navbar {
+    padding: 0;
 }
 
 .navbar-text {
@@ -129,16 +137,17 @@ h2, h4 {
     height: 70px;
 }
 .active {
-    border-bottom: 2px solid black;
+    border: 2px solid black;
 
 }
 
 /*-----------------------------------------------------------------Heading*/
 
 .heading {
-    float: center;
+    
     font-size: 25px;
-    padding: none;
+    padding: 10px;
+    color: black;
 }
 
 a i {
@@ -176,16 +185,15 @@ a i {
 
 .alert {
     font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    position: relative;
-    line-height: 20px;
-    padding: 10px;
+    font-weight: 300;
+    line-height: 10px;
     color: #fafafa;
     background-color: rgba(105, 104, 100, 0.911);
     margin-bottom: 5px;
     border: 1px solid transparent;
     text-align: center;
-    
+
+
 }
 
 .alert a {
@@ -203,7 +211,7 @@ i {
 #services {
 
   text-align: center;
-  padding: 0, auto;
+  padding: 0;
  
     
 }
@@ -283,33 +291,18 @@ i {
 }
 
 
-#form-section {
-    font-family: "Exo", sans-serif;
-    font-weight: 300;
-    margin-top: 15px;
-    margin-bottom: 20px;
-    background-size: cover;
-    background-position: center;
-    height: auto;
-    width: auto;   
-  
-}
-
-#contact-form {
-    margin-top: 10px;
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.9);
-    max-width: 100%;
-    position: relative;
-    padding: 20px;
-    clear: both;   
-
 }
 
 .text-input {
     background: rgba(60, 60, 60, 0.4);
     color: #fafafa;
-    width: 100%;
+    width: 50%;
     height: auto;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
@@ -374,7 +367,7 @@ option {
     border-radius: 4px;
     padding: 15px 32px 15px 32px;
     text-align: center;
-    background-color: red;
+    background-color: rgb(76, 0, 255);
     display: block;
     font-size: 80%;
 }
@@ -560,7 +553,7 @@ option {
     
 }
 
-#hero-outer {
+    #hero-outer {
     height: 50%;
     width: 100%;
     overflow: hidden;

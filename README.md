@@ -32,6 +32,20 @@
 
 ## UX
 
+## Skeleton:
+---
+
+#### I have used Balsamique to draw up 3 page wireframes for Mobile, iPad and Desktop.
+
+#### Click on the following link to view my *wireframes* for this project.
+
+#### I have included wireframes for mobile, ipad and desktop. I plan to build my website from a mobile first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
+
+#### Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets/wireframes)
+
+![Desktop Image](assets/images/wireframems1desktop.png)
+![Mobile Image](assets/images/wireframems1mobile.png)
+
 ## Project Goals.
 
 #### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
@@ -112,19 +126,7 @@
 *   Contact details
  
 
-## Skeleton:
----
 
-#### I have used Balsamique to draw up 3 page wireframes for Mobile, iPad and Desktop.
-
-#### Click on the following link to view my *wireframes* for this project.
-
-#### I have included wireframes for mobile, ipad and desktop. I plan to build my website from a mobile first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
-
-#### Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets/wireframes)
-
-![Desktop Image](assets/images/wireframems1desktop.png)
-![Mobile Image](assets/images/wireframems1mobile.png)
 
 
 ## Features

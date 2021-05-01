@@ -16,26 +16,13 @@
 
 <body>
 <header>
-     <nav class="navbar navbar-light bg-light">
+    <!-- logo and navbar -->
+    <nav class="navbar navbar-light bg-light">
         <div class="container-fluid">
             <a class="navbar-brand col-md-4" id="logo" href="index.html">
             <img src="assets/images/LSH_Electricians_Logo.png" alt="Company Logo Image" width="50" height="50" class="d-inline-block align-top">
             <span class="heading"<h1><strong>LSH Electricians</strong></h1></span>
             </a>
-            <span class="navbar-text ml-auto d-none d-sm-inline">
-            <strong>Call today for a great quote.</strong>
-            <br>
-            <a class="call-out" target="_blank" href="contact.html">
-            <i class="fa fa-envelope" aria-hidden="true"></i>
-            <span class="contact-details"> lsh@electricians.ie</span>
-            <span class="sr-only">Email us on lsh@electricians.ie</span>
-            </a> 
-            <a class="call-out" target="_blank" href="contact.html">
-            <i class="fa fa-phone" aria-hidden="true"></i>
-            <span class="contact-details"> 555-2345678</span>
-            <span class="sr-only">Call our phone number 555-2345678</span>
-            </a>   
-            </span>
         </div>
     </nav>
     
@@ -59,18 +46,7 @@
     </div>
 </header>
 
-<section class="container-fluid">
-    <div class="row">
-    <div class="col-12 d-none d-sm-inline">
-        <div class="alert alert-warning">
-            <h2><strong>Covid-19</strong></h2> Our company works in full compliance with new Covid-19 regulations. 
-            <br>
-            <a href="#">See here for more information.</a>
-        </div>
-    </div>
-    </div>
-</section>
-
+<!-- services -->
 <div id="services">
     <div class="container-fluid">
         <div class="row">
@@ -150,20 +126,21 @@
     </div>
 </div>
 
+<!-- cotact form -->
 
 <div class="container-fluid">
     <div class="row form-info">
         <div class="col">
             <h2 class="uppercase text-center" id="form-heading">Need a quote or call-out</h2>
             <h4 class="uppercase text-center">Fill out the form below.</h4>
-            <div id="form-section">
-                <form id="contact-form">
+            <div class="center-form">
+                <form>
                     <label for="name-field">Name:</label>
                     <input class="text-input" id="name-field" type="text" name="name" required/>
                     <br>
                     <label for="email-field">Email:</label>
                     <input class="text-input" id="email-field" type="email" name="user_email" placeholder="Email Address" required/>
-                    <br>
+                                                                                                                                                             <br>
                     <label for="phone">Phone:</label>
                     <input class="text-input" id="phone" type="number"/>
                     <br>
@@ -180,9 +157,13 @@
                     <br>
                     <label for="callout-date">Date required</label>
                     <input class="text-input" id="callout-date" type="date" name="callout_date"/>
-                    <br>
-                    <input class="clear-button" type="reset" value="Clear Form"/>
-                    <input class="quote-button" type="submit" value="Request Quote/Callout"/>
+                    <div class="form-row text-center">
+                        <div class="col">
+                            <input class="clear-button" type="reset" value="Clear Form"/>
+                            <input class="quote-button" type="submit" value="Request Quote/Callout"/>
+                        </div>
+                    </div>
+                     
                 </form>
             </div>
         </div>
@@ -190,6 +171,7 @@
 </div>
    
 <footer class="container-fluid">
+    <!-- About information -->
         <div id="footer-details" class="row">
             <div class="col-sm-4">
                 <h4 class="uppercase general-sub">About</h4>
@@ -198,6 +180,7 @@
                     an outstanding and efficient service.  We are fully insured and comply with all health and safety regulations.
                 </p>
             </div>
+            <!-- Emergency call out details -->
             <div class="col-sm-4">
                 <h4 class="uppercase general-sub">Emergency Call Out</h4>
                 <p class="inline-block">
@@ -211,7 +194,7 @@
                     </a>    
                 </p>
             </div>
-
+            <!-- social links -->
             <div class="col-sm-4">
                 <h4 class="uppercase general-sub">Social</h4>
                 <ul class="list-inline social-links">
