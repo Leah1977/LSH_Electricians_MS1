@@ -2,23 +2,23 @@
 
 ## Table of Contents.
 
-1.  Introduction
-2.  UX
-3.  Project Goals
-4.  Strategy
-5.  Scope
-6.  Skeleton
-7.  Features
-8.  Surface
-9.  Project Display
-10. Technologies / Accreditations
-11. Testing
-12. Debugging
-13. Deployment Section
-14. Acknowledgements
+1.  [Introduction] (#introduction)
+2.  [UX] (#ux)
+3.  [Project-Goals] (#project-goals)
+4.  [Strategy] (#strategy)
+5.  [Scope] (#scope)
+6.  [Skeleton] (#skeleton)
+7.  [Features] (#features)
+8.  [Surface] (#surface)
+9.  [Project-Display] (#project-display)
+10. [Technologies] (#technologies)
+11. [Testing] (#testing)
+12. [Debugging] (#testing)
+13. [Deployment] (#deployment)
+14. [Acknowledgements] (#acknowledgements)
 
 
-## **1. Welcome!** 
+## 1. Welcome!
 
 #### This site was built using [GitHub Pages](https://pages.github.com/)/.
 
@@ -28,7 +28,7 @@
 
 ## 2. UX
 
-##  3. Project Goals.
+##  3. Project-Goals.
 
 #### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
 
@@ -41,7 +41,7 @@ Providing you with the service you need when you need it.
 
 
 
-## **4. Strategy**
+## 4. Strategy
 ---
 
 #### This website is for owners of properties, residential or commercial who are looking to repair or update their electrics.
@@ -57,7 +57,7 @@ Providing you with the service you need when you need it.
 * Would you like to read reviews from customers?
 
 
-### **User Story 1**
+### User Story 1
 
 #### As a website user, I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
 
@@ -68,7 +68,7 @@ Providing you with the service you need when you need it.
 3. Clearly displays the work they carry out.
 4. Do they comply with safety standards.
 
-### **User Story 2**
+### User Story 2
 
 #### As a website user, I needed an electrician for an emergency call out.  I wanted to find someone fast, efficient and reliable – quickly.  I also needed the someone to call out at a time that was convenient to me.
 
@@ -79,7 +79,7 @@ Providing you with the service you need when you need it.
 3. Are they reliable?
 4. What do other customers say about them.
 
-### **User story 3**
+### User story 3
 
 #### As a website user, I needed a qualified electrician to check our electrics and certify them all for insurance purposes.
 #### I expect to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
@@ -218,7 +218,7 @@ Providing you with the service you need when you need it.
 ![Am I responsive](assets/images/responsivedesignms1.png)
 
 
-## 10. Technologies used/Accreditations
+## 10. Technologies-used
 ---
 
 #### Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
