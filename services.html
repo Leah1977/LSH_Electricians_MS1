@@ -15,36 +15,35 @@
 </head>
 
 <body>
-<header>
-    <!-- logo and navbar -->
-    <nav class="navbar navbar-light bg-light">
-        <div class="container-fluid">
-            <a class="navbar-brand col-md-4" id="logo" href="index.html">
-            <img src="assets/images/LSH_Electricians_Logo.png" alt="Company Logo Image" width="50" height="50" class="d-inline-block align-top">
-            <span class="heading"<h1><strong>LSH Electricians</strong></h1></span>
-            </a>
+    <header>
+        <!--logo and navbar -->
+        <nav class="navbar navbar-light bg-light">
+            <div class="container-fluid row no-gutters">
+                <a class="navbar-brand col-md-4" id="logo" href="index.html">
+                <img src="assets/images/LSH_Electricians_Logo.png" alt="Company Logo Image" width="50" height="50" class="d-inline-block align-top">
+                <h1>LSH Electricians</h1>
+                </a>
+            </div>
+        <div class="container-fluid row no-gutters">
+            <div class="col">
+                <ul id="nav" class="list-inline menucontainer">
+                    <li class="col-6 col-sm-3 ui-menu-color-home list-inline-item menuitem">
+                    <a href="index.html" class="hvr-sweep-to-bottom"><i class="fa fa-home" aria-hidden="true"></i><span> Home</span></a>
+                    </li>
+                    <li class="col-6 col-sm-3 ui-menu-color-services list-inline-item menuitem">
+                    <a href="services.html" class="hvr-sweep-to-bottom active"><i class="fa fa-bolt" aria-hidden="true"></i><span> Services</span></a>
+                    </li>
+                    <li class="col-6 col-sm-3 ui-menu-color-contact list-inline-item menuitem">
+                    <a href="contact.html" class="hvr-sweep-to-bottom"><i class="fa fa-comment" aria-hidden="true"></i><span> Contact</span></a>
+                    </li>
+                    <li class="col-6 col-sm-3 ui-menu-color-gallery list-inline-item menuitem">
+                    <a href="gallery.html" class="hvr-sweep-to-bottom"><i class="fa fa-photo" aria-hidden="true"></i><span> Gallery</span></a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </nav>
-    
-    <div class="row no-gutters">
-        <div class="col">
-            <ul id="nav" class="list-inline menucontainer">
-                <li class="col-6 col-sm-3 ui-menu-color-home list-inline-item menuitem">
-                <a href="index.html" class="hvr-sweep-to-bottom"><i class="fa fa-home" aria-hidden="true"></i><span> Home</span></a>
-                </li>
-                <li class="col-6 col-sm-3 ui-menu-color-services list-inline-item menuitem">
-                <a href="services.html" class="hvr-sweep-to-bottom active"><i class="fa fa-bolt" aria-hidden="true"></i><span> Services</span></a>
-                </li>
-                <li class="col-6 col-sm-3 ui-menu-color-contact list-inline-item menuitem">
-                <a href="contact.html" class="hvr-sweep-to-bottom"><i class="fa fa-comment" aria-hidden="true"></i><span> Contact</span></a>
-                </li>
-                <li class="col-6 col-sm-3 ui-menu-color-gallery list-inline-item menuitem">
-                <a href="gallery.html" class="hvr-sweep-to-bottom"><i class="fa fa-photo" aria-hidden="true"></i><span> Gallery</span></a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</header>
+        </nav>
+    </header> 
 
 <!-- services -->
 <article class = "container">
@@ -136,7 +135,7 @@
             <h2 class="uppercase text-center" id="form-heading">Need a quote or call-out</h2>
             <h4 class="uppercase text-center">Fill out the form below.</h4>
             <div class="center-form">
-                <form>
+                <form class="bg-color-form">
                     <label for="name-field"> Name:</label>
                     <input class="text-input" id="name-field" type="text" name="name" required/>
                     <br>

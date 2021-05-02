@@ -16,9 +16,7 @@ body {
     background-color: #676767;
 }
 
-.bg-color-form {
-    background-color: #676767;
-}
+
 
 .ui-menu-color-home {
     background-color: #ffcd05;
@@ -102,7 +100,7 @@ h3 {
 .menuitem {
     height: 70px;
     text-align: center;
-    padding: 0;
+    padding-bottom: 5px;
 }
 
 .menuitem a {
@@ -123,12 +121,13 @@ h3 {
     display: block;
     width: 100%;
     padding-top: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     text-align: center;
     text-transform: uppercase;
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 1.5px;
+    
 }
 
 .hvr-sweep-to-bottom:before {
@@ -184,16 +183,16 @@ a i {
 
 .alert {
     font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    line-height: 20px;
-    left: 370px;
+    font: 12px;
+    margin: 0 0 5px;
+    display: block;
     color: #fafafa;
     background-color: rgba(105, 104, 100, 0.911);
-    margin-bottom: 5px;
     border: 1px solid transparent;
     text-align: center;
-
-
+    padding: 0;
+    max-width: 100%;
+    
 }
 
 .alert a {
@@ -212,7 +211,6 @@ i {
 
   text-align: center;
   padding: 0;
- 
     
 }
 
@@ -273,7 +271,7 @@ i {
     margin-top: 10px;
     margin-bottom: 20px;
     text-align: center;
-    clear: both;
+   
 }
 
 #form-info h2 {
@@ -292,11 +290,8 @@ i {
 
 
 .center-form {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin: 0 auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding: 10px;
+    margin: 10px auto;
     max-width: 50%;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.9);
@@ -313,10 +308,6 @@ i {
     border-radius: 4px;
 }
 
-option { 
-    background-color: rgba(60, 60, 60, 0.9);
-}
-
 
 #name-field {
     padding: 10px;
@@ -326,6 +317,9 @@ option {
    
 }
 
+#name-field::before {
+    padding-left: 10px;
+}
 #email-field {
     font-family: "Exo", sans-serif;
     font-weight: 400;
@@ -463,15 +457,16 @@ option {
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 4;
-    column-gap: 0;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    column-count: 3;
+    column-gap: 1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     
 }
 
 #photos img {
-    width: 100%;   
+    width: 100%;
+    padding: 15px;   
  }
 
 .gallery-heading {
