@@ -24,7 +24,7 @@ body {
 
 .ui-menu-color-services {
     background-color: silver;
-    color: grey;
+    
 }
 
 .ui-menu-color-contact {
@@ -518,6 +518,7 @@ i {
         margin: 0 auto;
         margin-bottom: 5px;
         line-height: 5px;
+        display: block;
     }
 
      #hero-image {
@@ -594,8 +595,9 @@ i {
     min-height: 240px;
     margin: 10px;
     max-width: 100%;
-  }    
-}
+  } 
+  
+ }
 
 
 
