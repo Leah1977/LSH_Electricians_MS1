@@ -245,8 +245,6 @@ i {
  
 }
 
-
-
 .media {
     text-align: center;
     margin: 10px;
@@ -257,7 +255,6 @@ i {
 .contact {
     padding-top: 20px;
     display: inline-block;
-    
 }
 
 .contact p {
@@ -610,9 +607,7 @@ i {
     margin: 10px;
     max-width: 100%;
   } 
-
-  
-  
+ 
  }
 
  @media screen and (max-width: 575px) {
@@ -623,9 +618,57 @@ i {
 
 .ui-menu-color-gallery {
     background-color: #ffcd05;
+ }
+
+ h1 {
+     font-size: 25px;
+
+ }
+
+
+.menuitem {
+    height: 40px;
+    text-align: center;
+    padding-bottom: 10px;
 }
 
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: rgb(32, 32, 32);
+    height: 40px;
+}
 
+.menuitem a i {
+    padding-top: 5px;
+    display: inline-flexbox;
+    color: rgb(32, 32, 32);
+    font-size: 10px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    
+}
+
+.hvr-sweep-to-bottom:before {
+    background: rgba(0, 0, 0, 0.2);
+    height: 40px;
+}
+.active {
+    border: 2px solid black;
+
+}
+
+}
 
   
 /* ---------------------------------------------------------Footer */
@@ -637,6 +680,7 @@ footer {
     min-height: 80px;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin: 0;
        
 }
 
