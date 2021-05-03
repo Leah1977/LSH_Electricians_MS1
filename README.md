@@ -1,21 +1,29 @@
 # Milestone Project 1 - LSH Electricians
 
+### Click here for a link to the live project on GitHub [LSH_Electricians_MS1](https://leah1977.github.io/LSH_Electricians_MS1/)
+
+### This is a User Centric Frontend Development Project for Milestone 1.
+
+### The project features four static pages where customers can see the services LSH Electricians provide.
+
+### The project targets potential and returning customers in need of electrical services.
+
 ## Table of Contents.
 
 1.  [Introduction](#introduction)
 2.  [UX](#ux)
-3.  [Project-Goals](#project-goals)
-4.  [Strategy](#strategy)
-5.  [Scope](#scope)
-6.  [Skeleton](#skeleton)
-7.  [Features](#features)
-8.  [Surface](#surface)
-9.  [Project-Display](#project-display)
-10. [Technologies](#technologies)
-11. [Testing](#testing)
-12. [Debugging](#testing)
-13. [Deployment](#deployment)
-14. [Acknowledgements](#acknowledgements)
+    - [Project-Goals](#project-goals)
+    - [Strategy](#strategy)
+    - [Scope](#scope)
+    - [Skeleton](#skeleton)
+    - [Features](#features)
+    - [Design](#design)
+3.  [Project-Display](#project-display)
+4.  [Technologies](#technologies)
+5.  [Testing](#testing)
+6.  [Debugging](#testing)
+7.  [Deployment](#deployment)
+8.  [Acknowledgements](#acknowledgements)
 
 
 
@@ -24,48 +32,48 @@
 
 ## Welcome!
 
-#### This site was built using [GitHub Pages](https://pages.github.com/)/.
+### This site was built using [GitHub Pages](https://pages.github.com/)/.
 
-#### Click here for a link to the live project on GitHub [LSH_Electricians_MS1](https://leah1977.github.io/LSH_Electricians_MS1/)
+### I have created a mobile first project
 
+### Here is a demonstrating of how my website looks on different screensizes using [Am I Responsive Website](http://ami.responsivedesign.is/)
 
+![Am I responsive](assets/images/responsivedesignms1.png)
 
 ## UX
 
 ## Skeleton:
 ---
 
-#### I have used Balsamique to draw up 3 page wireframes for Mobile, iPad and Desktop.
+### I have used Balsamique to draw up 3 page wireframes for Mobile, iPad and Desktop.
 
-#### Click on the following link to view my *wireframes* for this project.
+### I have included wireframes for mobile, ipad and desktop. I plan to build my website from a mobile first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
 
-#### I have included wireframes for mobile, ipad and desktop. I plan to build my website from a mobile first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
-
-#### Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets/wireframes)
+### Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets/wireframes)
 
 ![Desktop Image](assets/images/wireframems1desktop.png)
 ![Mobile Image](assets/images/wireframems1mobile.png)
 
 ## Project Goals.
 
-#### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
+### This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
 
-#### We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  
-#### We quote for all job sizes.  
-#### We specialize in emergency call-outs.  
-#### Providing you with the service you need when you need it.
+### We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  
+### We quote for all job sizes.  
+### We specialize in emergency call-outs.  
+### Providing you with the service you need when you need it.
 
-#### This website demonstrates the services we provide and enables you to book a call out or request a quote.
+### This website demonstrates the services we provide and enables you to book a call out or request a quote.
 
 
 
 ## Strategy
 ---
 
-#### This website is for owners of properties, residential or commercial who are looking to repair or update their electrics.
-#### I want to provide a service that is easy to navigate. 
-#### Making it clear and quick to provide information and request a quote or call-out.
-#### I will research what may be required for this websit by asking the following questions to selection of people.
+### This website is for owners of properties, residential or commercial who are looking to repair or update their electrics.
+### I want to provide a service that is easy to navigate. 
+### Making it clear and quick to provide information and request a quote or call-out.
+### I will research what may be required for this websit by asking the following questions to a selection of people.
 
 * Would you use a website to look for an electrician?
 * What would be your main need for an electrician?
@@ -75,9 +83,9 @@
 * Would you like to read reviews from customers?
 
 
-### User Story 1
+## User Story 1
 
-#### As a website user, I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
+### As a website user, I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
 
 ### What I expect to find on a website when looking for an electrician.
  
@@ -86,9 +94,9 @@
 3. Clearly displays the work they carry out.
 4. Do they comply with safety standards.
 
-### User Story 2
+## User Story 2
 
-#### As a website user, I needed an electrician for an emergency call out.  I wanted to find someone fast, efficient and reliable – quickly.  I also needed the someone to call out at a time that was convenient to me.
+### As a website user, I needed an electrician for an emergency call out.  I wanted to find someone fast, efficient and reliable – quickly.  I also needed the someone to call out at a time that was convenient to me.
 
 ### What I expect to find on a website when looking for an electrician.
 
@@ -97,10 +105,10 @@
 3. Are they reliable?
 4. What do other customers say about them.
 
-### User story 3
+## User story 3
 
-#### As a website user, I needed a qualified electrician to check our electrics and certify them all for insurance purposes.
-#### I expect to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
+### As a website user, I needed a qualified electrician to check our electrics and certify them all for insurance purposes.
+### I expect to be able to go onto a website and leave knowing that I will be looked after by a reliable electrician.
 
 ### What I look for on a website when looking for an electrician.
 
@@ -110,12 +118,12 @@
 4. Do they get good reviews?
 
 
-#### With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
+### With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
 
 
 ## Scope
 
-#### Essentials will include
+### Essentials will include
 
 *	Call out
 *	Emergency
@@ -125,10 +133,6 @@
 *   A gallery page to display work
 *   Contact details
  
-
-
-
-
 ## Features
 ---
 #### This project will include four separate pages.  
@@ -138,21 +142,21 @@
 * Contact page
 * Gallery page.
 
-**Home page**
+## Home page
 
-#### The home page is made up of a header.  The header includes a logo and two links for quick contact to be made through email or phone.  The header will repeat on all pages.
+### The home page is made up of a header.  The header includes a logo and two links for quick contact to be made through email or phone.  The header will repeat on all pages.
 
-#### There is a navagational bar with working links to all four pages.  This will appear on all four pages.
+### There is a navagational bar with working links to all four pages.  This will appear on all four pages.
 
-#### There is a Covid-19 notice to appear on the home page.  This also shows on the services and contact pages.
+### There is a Covid-19 notice to appear on the home page. 
 
-#### The home page includes a large image.  The image is responsive to encourage the customer to focus on the overlay text box. The text box displays a call-now button in blue to draw the customers eye again.
+### The home page includes a large image.  The image is responsive to encourage the customer to focus on the overlay text box. The text box displays a call-now button in blue to draw the customers eye again.
 
-#### The footer has three sections.  An about section telling you about the company.  An emergency call out section with phone link.  The last section is to connect the customer to our social links.
+### The footer has three sections.  An about section telling you about the company.  An emergency call out section with phone link.  The last section is to connect the customer to our social links.
 
-**Services Pages**
+## Services Pages
 
-#### The services page has a section on the list of sevices we provide
+### The services page has a section on the list of sevices we provide
  
 * Emergency call out
 * Insurance and Testing
@@ -161,44 +165,38 @@
 * Products
 * Gallery with link to Gallery page.
 
-#### Followed by a Form with a drop down select menu, to enable the customer to direct their query.
+### Followed by a Form with a drop down select menu, to enable the customer to direct their query.
 
+## Contact Pages
 
-**Contact Pages**
+### The contact page includes a map of Dublin provided by Google maps. This displays the service in which LSH Electricians work.
 
-#### The contact page includes a map of Dublin provided by Google maps. This displays the service in which LSH Electricians work.
-
-#### Contact and address information for the company.
+### Contact and address information for the company.
 
 ## Gallery page
 
-#### The gallery page displays some photos and a video of work LSH Electricians provides.
+### The gallery page displays some photos and a video of work LSH Electricians provides.
 
-#### This page includes a Testimonial section so customers can read our reviews.
+### This page includes a Testimonial section so customers can read our reviews.
 
-
-
-
-## Surface:
+# Design:
 ---
 
-#### I will use the colors in the main body
+## Color Scheme
 
-- Gold
-- Grey
-- White
- 
-### I have decided on these colors as I wanted something that would 
+### I will use the colors in the main body, header and footer
 
-#### My Header and footer will use the two main colors
+![Color Scheme](assets/images/colorsms1.png)
 
- - Gold
- - Grey
- - White
+### My main primary color will be yellow.  I will use variations of this color to add warmth to the pages.  I have used this color when I want something to stand out and catch the viewers attention.
 
-### Typography
+### I have chose variations of white and grey to contrast against the yellow color.  Further enhancing the features.
 
-#### I will use the following fonts throughout the website for consistency in style.
+### I used [Coolers](http://www.coolers.co) to generate my colours for the project. I then used variations within the project.
+
+## Typography
+
+### I will use the following fonts throughout the website for consistency in style.
 
  * Roboto
  * Exo
@@ -206,7 +204,7 @@
 
 ## Additional Features
 
-#### As our website progresses I would like to include a search option and a spares/shop section.
+### As our website progresses I would like to include a search option and a spares/shop section.
 
 ## Project Display
 ---
@@ -216,91 +214,86 @@
 
 ### The navigational bar also displays in a two by two format to accomodate the smaller screen size.
 
-#### I will design the website to adjust to different sized screens to ensure optimum viewing.
-#### I will make sure all links are active and working.
-
-### Here is a demonstrating of how my website looks on different screensizes using [Am I Responsive Website](http://ami.responsivedesign.is/)
-
-![Am I responsive](assets/images/responsivedesignms1.png)
-
+### I will design the website to adjust to different sized screens to ensure optimum viewing.
+### I will make sure all links are active and working.
 
 ## Technologies-used
 ---
 
-#### Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
+### Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
 
 ![Code used for header was adapted from the diploma course](assets/images/Codeinstituteheader.png)
 
 
-#### In this project I used the following to help build my website.
+### In this project I used the following to help build my website.
 
 
-#### In this project I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
+### In this project I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
 
-#### In this project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
+### In this project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
 
-#### I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
+### I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
 
 ![code used and adapted from Bootstrap for modal](assets/images/bootstrapcodemodal.png)
   
-#### I have used [hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
+### I have used [hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
 
-#### google maps link from www.google.com. ("https://www.google.com/maps/embed")
+### google maps link from www.google.com. ("https://www.google.com/maps/embed")
 
-#### Thanks to all the photograhpers and websites Unsplash, Pexels and Pixabay for allowing the use of following photos and video.
+### Thanks to all the photograhpers and websites Unsplash, Pexels and Pixabay for allowing the use of following photos and video.
 
-#### Light bulbs photo
-#### Photo by Diz Play on Unsplash
+### Light bulbs photo
+### Photo by Diz Play on Unsplash
 
-#### <span>Photo by <a href="https://unsplash.com/@dizplay?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Diz Play</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+### <span>Photo by <a href="https://unsplash.com/@dizplay?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Diz Play</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-#### Fuse box photo
-#### Photo by Ralph (Ravi) Kayden on Unsplash
+### Fuse box photo
+### Photo by Ralph (Ravi) Kayden on Unsplash
 
-#### <span>Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+### <span>Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-#### Photo by Nathan Dumlao on Unsplash
+### Photo by Nathan Dumlao on Unsplash
 
-#### <span>Photo by <a href="https://unsplash.com/@thkelley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Kelley</a> on <a href="https://unsplash.com/s/photos/electric?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>#
-#### Photo by Thomas Kelley on Unsplash
+### <span>Photo by <a href="https://unsplash.com/@thkelley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Kelley</a> on <a href="https://unsplash.com/s/photos/electric?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>#
+### Photo by Thomas Kelley on Unsplash
 
-#### Image by <a href="https://pixabay.com/users/image4you-2459255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Harry Strauss</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Pixabay</a>
-#### Image from Harry Strauss on Pixabay
+### Image by <a href="https://pixabay.com/users/image4you-2459255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Harry Strauss</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Pixabay</a>
+### Image from Harry Strauss on Pixabay
 
-#### Image 10 "Fusebox" Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Image 10 "Fusebox" Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Markus Spiske on Unsplash
 
-#### Image11 "Ligths" Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Image11 "Ligths" Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Patrick Tomasso on Unsplash  
 
-#### Image 12 "volt" Photo by <a href="https://unsplash.com/@shirishsuwal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shirish Suwal</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Image 12 "volt" Photo by <a href="https://unsplash.com/@shirishsuwal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shirish Suwal</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Shirish Suwal on Unsplash  
 
-#### Image 13 "Tool" Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Image 13 "Tool" Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Mika Baumeister on Unsplash 
 
-#### Image 14 "lightbub" Photo by <a href="https://unsplash.com/@daniele_franchi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniele Franchi</a> on <a href="/s/photos/electrical-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Image 14 "lightbub" Photo by <a href="https://unsplash.com/@daniele_franchi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniele Franchi</a> on <a href="/s/photos/electrical-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Daniele Franchi on Unsplash
 
-#### Image 15 "security lights" Photo by <a href="https://unsplash.com/@switch_dtp_fotografie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucas van Oort</a> on <a href="/s/photos/security-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Image 15 "security lights" Photo by <a href="https://unsplash.com/@switch_dtp_fotografie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucas van Oort</a> on <a href="/s/photos/security-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Lucas van Oort on Unsplash  
 
-#### Image 16 "Plug socket" Photo by <a href="https://unsplash.com/@hamishkale_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hamish Kale</a> on <a href="/s/photos/plug-socket?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>Photo by Hamish Kale on Unsplash
+### Image 16 "Plug socket" Photo by <a href="https://unsplash.com/@hamishkale_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hamish Kale</a> on <a href="/s/photos/plug-socket?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>Photo by Hamish Kale on Unsplash
 
-#### Image 17 "Electrical wire"
+### Image 17 "Electrical wire"
 Photo by <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="/s/photos/electrical-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Steve Johnson on Unsplash
 
-#### Image for wireframe Photo by Royalty-free stock photo ID: 1318378229
-#### Background with uniformed electrician with tools and electrical equipment and blue background. By Davizro Photography www.shutterstock.com
+### Image for wireframe Photo by Royalty-free stock photo ID: 1318378229
+### Background with uniformed electrician with tools and electrical equipment and blue background. By Davizro Photography www.shutterstock.com
 
-#### Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Edward Cisneros on Unsplash
 
-#### Testimonial Image 2. Photo by <a href="https://unsplash.com/@gabiontheroad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriella Clare Marino</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### Testimonial Image 2. Photo by <a href="https://unsplash.com/@gabiontheroad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriella Clare Marino</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Gabriella Clare Marino on Unsplash
 
-#### Video  
+### Video  
 
 Video by Kapaw from Pexels  
 
@@ -357,6 +350,15 @@ Video by Kapaw from Pexels
 ### Tested the site using Lighthouse 
 
 ![Lighthhouse Review](assets/images/lighthousems1_3.png)
+
+## Logo
+
+### Tested the logo on all pages. Clicking on the logo will return you to the home page.
+
+## Navigational Bar
+
+### Tested all links on all pages. All links work as intended. This allows the user to move from one page to another with ease.
+### On mobile devices the navagational collapses and is displayed as a hamburger sign.  I used Bootstrap for this.
 
 ##  Debugging
 ---
