@@ -34,7 +34,7 @@
 
 ### This site was built using [GitHub Pages](https://pages.github.com/)/.
 
-### I have created a mobile first project
+### I have created a mobile first user centric frontend project
 
 ### Here is a demonstrating of how my website looks on different screensizes using [Am I Responsive Website](http://ami.responsivedesign.is/)
 
