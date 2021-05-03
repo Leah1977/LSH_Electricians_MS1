@@ -96,6 +96,9 @@ h3 {
 }
 
 /*---------------------------------------------------------Navigational Links*/
+#logo {
+    float: left;
+}
 
 .menuitem {
     height: 70px;
@@ -483,6 +486,7 @@ i {
 #map {
     margin: 0 auto;
     
+    
 }
 
 /* ---------------------------------------------------------Media Queries*/
@@ -613,15 +617,13 @@ i {
 /* ---------------------------------------------------------Footer */
 
 footer {
-    background-color: #525252;
+    background-color: #555555;
     color: #fafafa;
     text-align: center;
     min-height: 80px;
-    padding-top: 40px;
-    padding-bottom: 30px;
-   
-
-     
+    padding-top: 20px;
+    padding-bottom: 20px;
+       
 }
 
 a.call-out {

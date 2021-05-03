@@ -366,13 +366,11 @@ Video by Kapaw from Pexels
 ##      Debugging HTML in index.html
 ---
 
-###     Duplicate attribute of a class.
-####    Fix duplicate attribute by removing extra class reference.
+###     Title displaying above Logo on all pages. Trying to position Title in the center of the Navbar or to the right of the logo.
 
-###     Missue of aria-label
-####    Fix use of aria-label, removed in this instance, as not required.
+###     Map not responsive on all screen sizes.
+###     Adjusted height to be set at 400px and width to be 100% of the screen size. This is responsive now on all screen sizes.
 
-####    Amend same errors on all html pages.
 
 ## Debugging HTML in services.html
 ---
@@ -410,13 +408,9 @@ Video by Kapaw from Pexels
 ##      Debugging on gallery page
 ---
 
-###     incorrect placement of quotation marks
-####    correct placement
+###     Title of gallery section was displaying left of all images.
+###     Inserted a section container and gave it the title of gallery to display above the images.
 
-###     Error: Duplicate attribute alt.
-####    Remove duplicate attribute.
-
-###     Warning: Section lacks heading. 
 
 ## CSS debugging
 
