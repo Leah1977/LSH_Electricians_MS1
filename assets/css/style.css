@@ -13,7 +13,7 @@ body {
 /*-----------------------------------------------------------------Colours*/
 
 .bg-color-name-info{
-    background-color: #676767;
+    background-color: #676767da;
 }
 
 
@@ -52,7 +52,7 @@ h2, h4 {
 }
 
 h3 {
-    color:rgba(60, 60, 60, 0.9);
+    color: #676767;
 }
 
 .general-sub {
@@ -188,7 +188,6 @@ a i {
     display: block;
     color: #fafafa;
     background-color: rgba(105, 104, 100, 0.911);
-    border: 1px solid transparent;
     text-align: center;
     padding: 0;
     max-width: 100%;
@@ -230,7 +229,7 @@ i {
 
 #services h2, h4 {
     width: 100%;
-    color: #525252;
+    color: #676767;
 
 }
 
@@ -252,14 +251,15 @@ i {
 }
 /*----------------------------------------------------------------Contact*/
 
-.address {
+.contact {
     padding-top: 20px;
+    display: inline-block;
     
 }
 
-.address p {
-    line-height: normal;
-    padding-top: 10px;
+.contact p {
+    line-height: 1.5em;
+    padding-top: 5px;
 }
 
 /* ---------------------------------------------------------------Form*/
@@ -513,12 +513,13 @@ i {
 
 @media screen and (max-width:943px) {
     #nav {
-        clear: both;
+        
         float: none;
         margin: 0 auto;
         margin-bottom: 5px;
         line-height: 5px;
         display: block;
+          
     }
 
      #hero-image {
@@ -555,7 +556,9 @@ i {
     min-height: 240px;
     margin: 10px;
     max-width: 70%;
- }    
+ }   
+ 
+ 
 }
 
 @media screen and (max-width: 800px) {
@@ -580,6 +583,11 @@ i {
     position: relative;
 }
 
+#map {
+    display: block;
+    height: 300px;
+    margin-top: 20px;
+}
 
 @keyframes hero-zoom {
     from{
