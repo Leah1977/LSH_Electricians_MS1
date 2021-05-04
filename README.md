@@ -527,6 +527,11 @@ The form appears to the left on an ipad.  It should be centered.
 
 Amend media query for iPad so that the form appears in the center.
 
+Tested index.html W3C Markup Validation Service - no errors or warnings to show.
+Tested services.html W3C Markup Validation Service - no errors or warnings to show.
+Tested gallery.html W3C Markup Validation Service - no errors or warnings to show.
+Tested contact.html W3C Markup Validation Service - no errors or warnings to show.
+
 ##  Debugging
 ---
 
@@ -536,6 +541,8 @@ Amend media query for iPad so that the form appears in the center.
 * Title displaying above Logo on all pages. Trying to position Title in the center of the Navbar or to the right of the logo.
 
 * Added the bootstrap class "float-right" to the h1 element
+
+
 
 ### Debugging HTML in services.html
 ---
@@ -549,6 +556,7 @@ Amend media query for iPad so that the form appears in the center.
 
 * Added a max-width to prevent the form from displaying full width on desktop.
 
+Tested services .html W3C Markup Validation Service - no errors or warnings to show.
 
 ## Debugging on contacts page
 ---
@@ -581,6 +589,9 @@ Amend media query for iPad so that the form appears in the center.
 * Large area of white space appearing below gallery on services.html page.
 * Fix max-width on query to remove white space.
 
+Tested on W3C CSS Validator
+
+Valid CSS!
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -588,6 +599,8 @@ Amend media query for iPad so that the form appears in the center.
             alt="Valid CSS!" />
     </a>
 </p>
+            
+
 
 
 
