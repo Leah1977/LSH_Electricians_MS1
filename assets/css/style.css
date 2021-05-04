@@ -519,8 +519,8 @@ i {
   .center-form {
         
     min-height: 240px;
-    margin: 10px;
-    max-width: 70%;
+    margin: 10px auto;
+    max-width: 60%;
    }   
 }
 
@@ -563,8 +563,8 @@ i {
 .center-form {
         
     min-height: 240px;
-    margin: 10px;
-    max-width: 100%;
+    margin: 10px auto;
+    max-width: 70%;
   } 
  
  }
