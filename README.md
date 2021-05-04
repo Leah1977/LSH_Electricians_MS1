@@ -408,7 +408,27 @@ No fix required
 
 ## Testing the Footer contact link
 
-Tested the footer contact link on all pages. Clicking on the phone link, link should change colour to indicate that it has been clicked.
+Tested the footer contact link on all pages. Clicking on the phone link, link should change colour when you hover over it and when clicked will redirect you to the home page.
+
+### Expected
+
+When you click on the phone link, it is expected that the link will change colour.  As this is a static website no further action will happen.
+
+### Testing
+
+Tested the phone link on each page by clicking on the phone link.
+
+### Result
+
+The site acted as expected, the link changed colour.
+
+### Fix
+
+No fix required.
+
+## Testing the social contact links in the footer
+
+Tested the social contact links on all pages. Clicking on a social link, link should change colour when you hover over it and when clicked will redirect you to the relevent page in a new window.
 
 ### Expected
 
@@ -443,7 +463,7 @@ Tested the close button by clicking on it.
 ### Result
 
 The site acted as expected and a modal appeared when I clicked on the call now button.
-The site acted as expected when I clicked on the submit button.
+The site acted as expected when I clicked on the submit button. Returns to home page after clicking on submit.
 The site acted as expected when I clicked on the close button, the modal closed and returned to the home page.
 
 ### Fix
@@ -468,11 +488,17 @@ Tested the form by filling out details for all sections.
 
 ### Result
 
-The site acted as expected and the form fills out as necessary.
+The Name field fills out as expected and if left blank a "Fill out this field" will pop up.
+The Email field fills out as expected. If an email address is not correctly entered a "Enter an email address" will pop up.
+The Phone field fills out but if letters are entered a "Enter a number" will pop up.
+The message section allows for a description of the job request.
+The date required calendar pops up and the user can select a date as required.
+
+The form appears to the left on an ipad.  It should be centered.
 
 ### Fix
 
-No fix required.
+Amend media query for iPad so that the form appears in the center.
 
 ##  Debugging
 ---
