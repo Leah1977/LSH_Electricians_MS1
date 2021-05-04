@@ -125,12 +125,12 @@ Essentials will include
 ---
 This project will include four separate pages.  
 
-* Home page
-* Services page
-* Contact page
-* Gallery page.
+* [index.html](#index.html)
+* [services.html](#services.html)
+* [contact.html](#contact.html)
+* [gallery.html](#gallery.html).
 
-## Home page
+## index.html
 
 The home page is made up of a header.  The header includes a logo, the company name and a navagational bar with four menu items.  The header will repeat on all pages.
 On small screen sizes the navagational bar will display two by two to accomodate the smaller screen size.
@@ -142,7 +142,7 @@ The home page includes a large image.  The image is responsive to encourage the 
 The footer has three sections.  An about section telling you about the company.  An emergency call out section with phone link.  The last section is to connect the customer to our social links.
 
 
-## Services Pages
+## services.html
 
 The services page has a section on the list of sevices we provide
  
@@ -155,13 +155,13 @@ The services page has a section on the list of sevices we provide
 
 Followed by a Form with a drop down select menu, to enable the customer to direct their query.
 
-## Contact Pages
+## contact.html
 
 The contact page includes a map of Dublin provided by Google maps. This displays the area in which LSH Electricians work.
 
 Contact and address information for the company.
 
-## Gallery page
+## gallery.html
 
 The gallery page displays a selection of photos and a video of work LSH Electricians provides.
 
