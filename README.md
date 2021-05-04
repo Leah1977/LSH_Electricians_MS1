@@ -18,6 +18,7 @@ The project targets potential and returning customers in need of electrical serv
     - [Features](#features)
     - [Design](#design)
 3.  [Project-Display](#project-display)
+4.  [Languages](#languages)
 4.  [Technologies](#technologies)
 5.  [Testing](#testing)
 6.  [Debugging](#testing)
@@ -107,9 +108,6 @@ I will research what may be required for this website by asking the following qu
 * What services would you look for?
 * Would you like to see previous work completed in a gallery section?
 * Would you like to read reviews from customers?
-
-
-
 
 ## Scope
 
@@ -207,7 +205,13 @@ The navigational bar also displays in a two by two format to accomodate the smal
 I will design the website to adjust to different sized screens to ensure optimum viewing.
 I will make sure all links are active and working.
 
-## Technologies-used
+## Languages Used
+
+* [HTML](http://wwww.html.com) Used for all four html pages as the main markup language for this project.
+* [CSS](http://www.css-tricks.com) Used to style the content of my website.
+* [JavaScript](http://www.javascript.com) Used through Bootstrap.
+
+## Technologies Used
 ---
 
 Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
@@ -356,23 +360,32 @@ Implement the user stories.
 
 ![Lighthhouse Review](assets/images/LighthouseMS1.png)
 
+## Tested html
+
+[W3C Markup Validation Service](https://validator.w3.org/)
+
+- Tested index.html W3C Markup Validation Service - no errors or warnings to show.
+- Tested services.html W3C Markup Validation Service - no errors or warnings to show.
+- Tested gallery.html W3C Markup Validation Service - no errors or warnings to show.
+- Tested contact.html W3C Markup Validation Service - no errors or warnings to show.
+
 ## Testing the Logo
 
 Tested the logo on all pages. Clicking on the logo will return you to the home page.
 
-### Expected
+**Expected**
 
 When you click on the logo, it is expected that the link will return you to the homepage.
 
-### Testing
+**Testing**
 
 Tested the logo on each page by clicking on the logo image.
 
-### Result
+**Result**
 
 The site acted as expected and returned to the home page.
 
-### Fix
+**Fix**
 
 No fix required.
 
@@ -381,55 +394,55 @@ No fix required.
 Tested all links on all pages. All links work as intended. This allows the user to move from one page to another with ease.
 On mobile devices, the navigational bar reduces in size and displays two by two to accomodate the smaller screen size.
 
-### Expected
+**Expected**
 
 When you click on the home menu item, it is expected that the link will return you to the home page.  It is expected that the home page will be highlighted with a border to confirm you are on the homepage.
 
-### Testing
+**Testing**
 
 Tested the home menu item on each page by clicking on the home menu item.
 
-### Result
+**Result**
 
 The site acted as expected and returned to the home page.  The menu item displays a black border, when on the home page.
 
-### Expected
+**Expected**
 
 When you click on the services menu item, it is expected that the link will direct you to the services page.  It is expected that the services page will be highlighted with a border to confirm you are on the services page.
 
-### Testing
+**Testing**
 
 Tested the service menu on each page by clicking on the services menu item.
 
-### Result
+**Result**
 
 The site acted as expected and directed me to the services page.  The services menu item had a black border around it when I was on the services page.
 
-### Expected
+**Expected**
 
 When you click on the contact menu item, it is expected that the link will direct you to the contact page.  It is expected that the contact page will be highlighted with a border to confirm you are on the contact page.
 
-### Testing
+**Testing**
 
 Tested the contact menu item on each page by clicking on the contact menu item.
 
-### Result
+**Result**
 
 The site acted as expected and directed me to the contact page.  The contact menu item had a black border around it when I was on the contact page.
 
-### Expected
+**Expected**
 
 When you click on the gallery menu item, it is expected that the link will return you to the gallery page.  It is expected that the gallery page will be highlighted with a border to confirm you are on the gallery page.
 
-### Testing
+**Testing**
 
 Tested the gallery menu item on each page by clicking on the gallery menu item.
 
-### Result
+**Result**
 
 The site acted as expected and directed me to the home page.  The gallery menu item had a black border around it when I was on the gallery page.
 
-### Fix
+**Fix**
 
 No fix required
 
@@ -437,19 +450,19 @@ No fix required
 
 Tested the footer contact link on all pages. Clicking on the phone link, link should change colour when you hover over it and when clicked will redirect you to the home page.
 
-### Expected
+**Expected**
 
 When you click on the phone link, it is expected that the link will change colour.  As this is a static website no further action will happen.
 
-### Testing
+**Testing**
 
 Tested the phone link on each page by clicking on the phone link.
 
-### Result
+**Result**
 
 The site acted as expected, the link changed colour.
 
-### Fix
+**Fix**
 
 No fix required.
 
@@ -457,19 +470,19 @@ No fix required.
 
 Tested the social contact links on all pages. Clicking on a social link, link should change colour when you hover over it and when clicked will redirect you to the relevent page in a new window.
 
-### Expected
+**Expected**
 
 When you hover over the social link, it is expected that the link will change colour. When you click on the social link you will be redirected to the relevent page in a new window.
 
-### Testing
+**Testing**
 
 Tested the social link on each page by clicking on the social links.
 
-### Result
+**Result**
 
 The site acted as expected, the link changed colour when you hover over it and redirects you to a new page when you click on it.
 
-### Fix
+**Fix**
 
 No fix required.
 
@@ -477,23 +490,23 @@ No fix required.
 
 Tested the modal on the home page. 
 
-### Expected
+**Expected**
 
 When you click on call now button, a modal will pop up.  The modal will have buttons to submit and close the page. It is expected that the submit button will be static.  It is expected the close button will close the modal and return you to the home page.
 
-### Testing
+**Testing**
 
 Tested the model on the home page by clicking on the call now button.
 Tested the submit button by clicking on it.
 Tested the close button by clicking on it.
 
-### Result
+**Result**
 
 The site acted as expected and a modal appeared when I clicked on the call now button.
 The site acted as expected when I clicked on the submit button. Returns to home page after clicking on submit.
 The site acted as expected when I clicked on the close button, the modal closed and returned to the home page.
 
-### Fix
+**Fix**
 
 No fix required.
 
@@ -503,17 +516,17 @@ Tested the form. Entered in details to each relevent section.
 Checked the submit button by clicking on it.
 Click on the Clear Form button to clear the form.
 
-### Expected
+**Expected**
 
 When you enter in your details they are displayed as entered.
 When you click on the submit button the form is submitted - this site is static.
 When you click on the clear form button, the form clears.
 
-### Testing
+**Testing**
 
 Tested the form by filling out details for all sections.
 
-### Result
+**Result**
 
 The Name field fills out as expected and if left blank a "Fill out this field" will pop up.
 The Email field fills out as expected. If an email address is not correctly entered a "Enter an email address" will pop up.
@@ -523,14 +536,10 @@ The date required calendar pops up and the user can select a date as required.
 
 The form appears to the left on an ipad.  It should be centered.
 
-### Fix
+**Fix**
 
 Amend media query for iPad so that the form appears in the center.
 
-Tested index.html W3C Markup Validation Service - no errors or warnings to show.
-Tested services.html W3C Markup Validation Service - no errors or warnings to show.
-Tested gallery.html W3C Markup Validation Service - no errors or warnings to show.
-Tested contact.html W3C Markup Validation Service - no errors or warnings to show.
 
 ##  Debugging
 ---
@@ -568,7 +577,7 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 * To solve this issue I change the width to 100% so that it would appear the full width of the screen on all devices.
 
 
-##      Debugging on gallery page
+## Debugging on gallery page
 ---
 
 * Title of gallery section was displaying left of all images.
@@ -589,9 +598,10 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 * Large area of white space appearing below gallery on services.html page.
 * Fix max-width on query to remove white space.
 
-Tested on W3C CSS Validator
+## Tested on W3C CSS Validator
 
-Valid CSS!
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
