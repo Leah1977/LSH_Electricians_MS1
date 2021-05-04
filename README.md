@@ -134,13 +134,12 @@ This project will include four separate pages.
 
 ## Home page
 
-The home page is made up of a header.  The header includes a logo and two links for quick contact to be made through email or phone.  The header will repeat on all pages.
-
-There is a navagational bar with working links to all four pages.  This will appear on all four pages.
+The home page is made up of a header.  The header includes a logo, the company name and a navagational bar with four menu items.  The header will repeat on all pages.
+On small screen sizes the navagational bar will display two by two to accomodate the smaller screen size.
 
 There is a Covid-19 notice to appear on the home page. 
 
-The home page includes a large image.  The image is responsive to encourage the customer to focus on the overlay text box. The text box displays a call-now button.
+The home page includes a large image.  The image is responsive to encourage the customer to focus on the overlay text box. The text box displays a call now button.  When you click on the call now button, a modal will appear.
 
 The footer has three sections.  An about section telling you about the company.  An emergency call out section with phone link.  The last section is to connect the customer to our social links.
 
@@ -160,15 +159,15 @@ Followed by a Form with a drop down select menu, to enable the customer to direc
 
 ## Contact Pages
 
-The contact page includes a map of Dublin provided by Google maps. This displays the service in which LSH Electricians work.
+The contact page includes a map of Dublin provided by Google maps. This displays the area in which LSH Electricians work.
 
 Contact and address information for the company.
 
 ## Gallery page
 
-The gallery page displays some photos and a video of work LSH Electricians provides.
+The gallery page displays a selection of photos and a video of work LSH Electricians provides.
 
-This page includes a Testimonial section so customers can read our reviews.
+This page includes a Testimonial section so potential customers can read the reviews of our clients.
 
 ## Design:
 ---
@@ -295,6 +294,34 @@ Video by Kapaw from Pexels
 - YouTube 
 
 ---
+## Deployment Section
+
+---
+
+
+I used the programme [Gitpod](www.gitpod.io) in the developing of this project.  I pushed it to GitHub using the CLI which is built into Gitpod.
+
+### To deploy this project to GitHub from its Gitpod repository - please follow these steps.
+
+1. Log into http://www.github.com
+2. Click on "Your Repositories" from the dropdown menu and select LSH_Electricians_MS1.
+3. Go to the list of options and select Settings.
+4. Scroll down to GitHub pages.
+5. Under source click the drop down menu and select branch: master.
+6. Your page then refreshes and your site is deployed.
+7. Scroll back down to GitHub pages and you are now provided with a link to your deployed website.
+
+### To clone this project into Gitpod you should follow these steps.
+
+1. Open your github accound or create one.
+2. Use the Chrome browser.
+3. Install the extension for Gitpod.
+4. Log into your gitpod account.
+5. Navigate to the Project GigHub repository.
+6. Under the Repository LSH_Electricians_MS1, click download.
+7. This will trigger a new gitpod workspace which you can work on.
+
+
 
 ## Testing
 
@@ -432,15 +459,15 @@ Tested the social contact links on all pages. Clicking on a social link, link sh
 
 ### Expected
 
-When you click on the phone link, it is expected that the link will change colour.  As this is a static website no further action will happen.
+When you hover over the social link, it is expected that the link will change colour. When you click on the social link you will be redirected to the relevent page in a new window.
 
 ### Testing
 
-Tested the phone link on each page by clicking on the phone link.
+Tested the social link on each page by clicking on the social links.
 
 ### Result
 
-The site acted as expected, the link changed colour.
+The site acted as expected, the link changed colour when you hover over it and redirects you to a new page when you click on it.
 
 ### Fix
 
@@ -562,32 +589,7 @@ Amend media query for iPad so that the form appears in the center.
     </a>
 </p>
 
-## Deployment Section
 
----
-
-
-I used the programme [Gitpod](www.gitpod.io) in the developing of this project.  I pushed it to GitHub using the CLI which is built into Gitpod.
-
-### To deploy this project to GitHub from its Gitpod repository - please follow these steps.
-
-1. Log into http://www.github.com
-2. Click on "Your Repositories" from the dropdown menu and select LSH_Electricians_MS1.
-3. Go to the list of options and select Settings.
-4. Scroll down to GitHub pages.
-5. Under source click the drop down menu and select branch: master.
-6. Your page then refreshes and your site is deployed.
-7. Scroll back down to GitHub pages and you are now provided with a link to your deployed website.
-
-### To clone this project into Gitpod you should follow these steps.
-
-1. Open your github accound or create one.
-2. Use the Chrome browser.
-3. Install the extension for Gitpod.
-4. Log into your gitpod account.
-5. Navigate to the Project GigHub repository.
-6. Under the Repository LSH_Electricians_MS1, click download.
-7. This will trigger a new gitpod workspace which you can work on.
 
 ## Acknowledgements
 ---
