@@ -31,7 +31,7 @@ The project targets potential and returning customers in need of electrical serv
 
 This site was built using [GitHub Pages](https://pages.github.com/)/.
 
-I have created a mobile-first user centric frontend project.
+I have created a mobile-first user-centric frontend project.
 
 Here is a demonstration of how my website looks on different screen sizes using [Am I Responsive Website](http://ami.responsivedesign.is/).
 
@@ -77,7 +77,7 @@ With these user stories in mind, I put together some wireframes.  I included all
 
 I have used Balsamique to draw up wireframes for Mobile, iPad and desktop.
 
-I have included wireframes for mobile, ipad and desktop. I plan to build my website from a mobile-first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
+I have included wireframes for mobile, iPad and desktop. I plan to build my website from a mobile-first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
 
 Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets/wireframes).
 
@@ -88,7 +88,7 @@ Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets
 
 This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
 
-We provide a range of services covering all your electrical needs.  From small electrical household jobs to large commercial builds.  
+We provide a range of services covering all your electrical needs, from small electrical household jobs to large commercial builds.  
 We quote for all job sizes.  
 We specialize in emergency call-outs.  
 We are providing you with the service you need when you need it.
@@ -113,11 +113,11 @@ I will research what may be required for this website by asking the following qu
 
 Essentials will include
 
-*	Call out
+*	Callout
 *	Emergency
 *	Insurance
 *	Guarantee
-*   A form for request call backs and quotes
+*   A form for request callbacks and quotes
 *   A gallery page to display work
 *   Contact details
  
@@ -132,28 +132,28 @@ This project will include four separate pages.
 
 ## index.html
 
-The home page is made up of a header.  The header includes a logo, the company name and a navagational bar with four menu items.  The header will repeat on all pages.
-On small screen sizes the navagational bar will display two by two to accomodate the smaller screen size.
+The home page is made up of a header.  The header includes a logo, the company name and a navigational bar with four menu items.  The header will repeat on all pages.
+On small screen sizes, the navigational bar will display two by two to accommodate the smaller screen size.
 
 There is a Covid-19 notice to appear on the home page. 
 
 The home page includes a large image.  The image is responsive to encourage the customer to focus on the overlay text box. The text box displays a call now button.  When you click on the call now button, a modal will appear.
 
-The footer has three sections.  An about section telling you about the company.  An emergency call out section with phone link.  The last section is to connect the customer to our social links.
+The footer has three sections. An about section telling you about the company.  An emergency call out section with a phone link.  The last section is to connect the customer to our social links.
 
 
 ## services.html
 
-The services page has a section on the list of sevices we provide
+The services page has a section on the list of services we provide
  
-* Emergency call out
+* Emergency call-out
 * Insurance and Testing
 * Domestic Electrician
 * Commercial Electrician
 * Products
-* Gallery with link to Gallery page.
+* Gallery with link to the Gallery page.
 
-Followed by a Form with a drop down select menu, to enable the customer to direct their query.
+Followed by a Form with a drop-down select menu, to enable the customer to direct their query.
 
 ## contact.html
 
@@ -172,13 +172,13 @@ This page includes a Testimonial section so potential customers can read the rev
 
 ## Colour Scheme
 
-I will use the colours in the main body, header and footer
+I will use the colours in the main body, header and footer.
 
 ![Color Scheme](assets/images/colorsms1.png)
 
 My main primary colour will be yellow.  I will use variations of this colour to add warmth to the pages.  I have used this colour when I want something to stand out and catch the viewers attention.
 
-I have chose variations of white and grey to contrast against the yellow colour.  Further enhancing the features.
+I have chosen variations of white and grey to contrast against the yellow colour.  Further enhancing the features.
 
 I used [Coolers](http://www.coolers.co) to generate my colours for the project. I then used variations within the project.
 
@@ -192,15 +192,15 @@ I will use the following fonts throughout the website for consistency in style.
 
 ## Additional Features
 
-As our website progresses I would like to include a search option and a spares/shop section.
+As our website progresses, I would like to include a search option and a spares/shop section.
 
 ## Project Display
 ---
 
 This project is responsive to appear on different screen sizes.
-The display changes to accomodate smaller screen size.  On a phone some items have been removed to focus on the mobile friendly application.  For example the form reduces in size, so it can be displayed fully on a smaller device.
+The display changes to accommodate a smaller screen size.  On a mobile, some items have been removed to focus on the mobile-friendly application.  For example, the form reduces in size, so it can be displayed fully on a smaller device.
 
-The navigational bar also displays in a two by two format to accomodate the smaller screen size. 
+The navigational bar also displays in a two by two format to accommodate the smaller screen size. 
 
 I will design the website to adjust to different sized screens to ensure optimum viewing.
 I will make sure all links are active and working.
@@ -214,18 +214,18 @@ I will make sure all links are active and working.
 ## Technologies Used
 ---
 
-Code used throughout this project was learned and implimented from the [Code Institute Diploma Programme](https://codeinstitue.net)
+Code used throughout this project was learned and implemented from the [Code Institute Diploma Programme](https://codeinstitue.net)
 
-![Code used for header was adapted from the diploma course](assets/images/Codeinstituteheader.png)
+![Code used for the header was adapted from the diploma course](assets/images/Codeinstituteheader.png)
 
 
-In this project I used the following to help build my website.
+In this project, I used the following to help build my website.
 
-* In this project I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
+* In this project, I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
 
-* In this project I have used [Google Fonts](https://fonts.googleapis.com/css2?)
+* In this project, I have used [Google Fonts](https://fonts.googleapis.com/css2?)
 
-* I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughtout this project.
+* I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughout this project.
 
 * ![code used and adapted from Bootstrap for modal](assets/images/bootstrapcodemodal.png)
   
@@ -233,7 +233,7 @@ In this project I used the following to help build my website.
 
 * Google maps link from www.google.com. ("https://www.google.com/maps/embed")
 
-* Thanks to all the photograhpers and websites Unsplash, Pexels and Pixabay for allowing the use of following photos and video.
+* Thanks to all the photographers and websites Unsplash, Pexels and Pixabay for allowing the use of the following photos and video.
 
 * Light bulbs photo
   Photo by Diz Play on Unsplash
@@ -274,11 +274,11 @@ Photo by Lucas van Oort on Unsplash
 
 * Image 16 "Plug socket" Photo by <a href="https://unsplash.com/@hamishkale_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hamish Kale</a> on <a href="/s/photos/plug-socket?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>Photo by Hamish Kale on Unsplash
 
-* Image 17 "Electrical wire"
+* Image 17 "Electrical wire."
 Photo by <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="/s/photos/electrical-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Steve Johnson on Unsplash
 
-* Image for wireframe Photo by Royalty-free stock photo ID: 1318378229 Background with uniformed electrician with tools and electrical equipment and blue background. By Davizro Photography www.shutterstock.com
+* Image for wireframe Photo by Royalty-free stock photo ID: 1318378229 Background with a uniformed electrician with tools and electrical equipment and blue background. By Davizro Photography www.shutterstock.com
 
 * Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Edward Cisneros on Unsplash
@@ -293,7 +293,7 @@ Video by Kapaw from Pexels
 
 ## Further References
 - Confident Coding by Rob Percival
-- Confident Webdsign by Kenny Wood
+- Confident Web design by Kenny Wood
 - Patreon 
 - YouTube 
 
@@ -303,27 +303,27 @@ Video by Kapaw from Pexels
 ---
 
 
-I used the programme [Gitpod](www.gitpod.io) in the developing of this project.  I pushed it to GitHub using the CLI which is built into Gitpod.
+I used the programme [Gitpod](www.gitpod.io) in the development of this project.  I pushed it to GitHub using the CLI, which is built into Gitpod.
 
 ### To deploy this project to GitHub from its Gitpod repository - please follow these steps.
 
-1. Log into http://www.github.com
+1. Log in to http://www.github.com
 2. Click on "Your Repositories" from the dropdown menu and select LSH_Electricians_MS1.
 3. Go to the list of options and select Settings.
 4. Scroll down to GitHub pages.
-5. Under source click the drop down menu and select branch: master.
-6. Your page then refreshes and your site is deployed.
-7. Scroll back down to GitHub pages and you are now provided with a link to your deployed website.
+5. Under source, click the drop-down menu and select branch: master.
+6. Your page then refreshes, and your site is deployed.
+7. Scroll back down to GitHub pages, and you are now provided with a link to your deployed website.
 
-### To clone this project into Gitpod you should follow these steps.
+### To clone this project into Gitpod, you should follow these steps.
 
-1. Open your github accound or create one.
+1. Open your Github account or create one.
 2. Use the Chrome browser.
 3. Install the extension for Gitpod.
 4. Log into your gitpod account.
-5. Navigate to the Project GigHub repository.
+5. Navigate to the Project GitHub repository.
 6. Under the Repository LSH_Electricians_MS1, click download.
-7. This will trigger a new gitpod workspace which you can work on.
+7. This will trigger a new gitpod workspace that you can work on.
 
 
 
@@ -334,25 +334,25 @@ Implement the user stories.
 ### User Story 1
 
 * From the home page
-* Click on services in the navagational bar.
-* Scroll to Insurance and Testing to see that we meet all safey standards.
-* Scroll further to fill out form and request a call-back.
-* Alternative options click on Phone or email link for direct enquiry.
+* Click on services in the navigational bar.
+* Scroll to Insurance and Testing to see that we meet all safety standards.
+* Scroll further to fill out the form and request a call-back.
 
 
 ### User Story 2
 
-* On the home page click the call now button for direct phone line.
-* Alternatively click on the services page in the navagational bar.
-* Fill out the form and select "Emergency Call-out" from the drop-down select option.
+* On the home page, click the call now button for adirect phone line.
+* Alternatively, click on the services page in the navig
+ational bar.
+* Fill out the form and select "Emergency Call-out" from the drop-down, select option.
 * Choose the date you would like the call-out on this form also.
 
 
 ### User Story 3
 
-* On the home page click on the services in the navagational bar.
+* On the home page, click on the services in the navigational bar.
 * Read through all the registered and certified services we provide.
-* Click on the Gallery page to read testimonials, provide customer feeback on our services.
+* Click on the Gallery page to read testimonials, provide customer feedback on our services.
 * Fill out our form to start the process today!
 --- 
 
@@ -360,7 +360,7 @@ Implement the user stories.
 
 ![Lighthhouse Review](assets/images/LighthouseMS1.png)
 
-## Tested html
+## Tested HTML
 
 [W3C Markup Validation Service](https://validator.w3.org/)
 
@@ -392,7 +392,7 @@ No fix required.
 ## Testing the Navigational Bar
 
 Tested all links on all pages. All links work as intended. This allows the user to move from one page to another with ease.
-On mobile devices, the navigational bar reduces in size and displays two by two to accomodate the smaller screen size.
+On mobile devices, the navigational bar reduces in size and displays two by two to accommodate the smaller screen size.
 
 **Expected**
 
@@ -432,11 +432,11 @@ The site acted as expected and directed me to the contact page.  The contact men
 
 **Expected**
 
-When you click on the gallery menu item, it is expected that the link will return you to the gallery page.  It is expected that the gallery page will be highlighted with a border to confirm you are on the gallery page.
+When you click on the gallery menu item, it is expected that the link will return you to the gallery page.  It is expected that the gallery page will be highlighted with a border, to confirm you are on the gallery page.
 
 **Testing**
 
-Tested the gallery menu item on each page by clicking on the gallery menu item.
+Tested the gallery menu item on each page by clicking on the Gallery menu item.
 
 **Result**
 
@@ -448,11 +448,11 @@ No fix required
 
 ## Testing the Footer contact link
 
-Tested the footer contact link on all pages. Clicking on the phone link, link should change colour when you hover over it and when clicked will redirect you to the home page.
+Tested the footer contact link on all pages. Clicking on the phone link, the link should change colour when you hover over it and when clicked will redirect you to the home page.
 
 **Expected**
 
-When you click on the phone link, it is expected that the link will change colour.  As this is a static website no further action will happen.
+When you click on the phone link, it is expected that the link will change colour.  As this is a static website, no further action will happen.
 
 **Testing**
 
@@ -468,11 +468,11 @@ No fix required.
 
 ## Testing the social contact links in the footer
 
-Tested the social contact links on all pages. Clicking on a social link, link should change colour when you hover over it and when clicked will redirect you to the relevent page in a new window.
+Tested the social contact links on all pages. Clicking on a social link, link should change colour when you hover over it and, when clicked, will redirect you to the relevant page in a new window.
 
 **Expected**
 
-When you hover over the social link, it is expected that the link will change colour. When you click on the social link you will be redirected to the relevent page in a new window.
+When you hover over the social link, it is expected that the link will change colour. When you click on the social link you will be redirected to the relevant page in a new window.
 
 **Testing**
 
@@ -480,7 +480,7 @@ Tested the social link on each page by clicking on the social links.
 
 **Result**
 
-The site acted as expected, the link changed colour when you hover over it and redirects you to a new page when you click on it.
+The site acted as expected, and the link changed colour when you hover over it and redirects you to a new page when you click on it.
 
 **Fix**
 
@@ -492,7 +492,7 @@ Tested the modal on the home page.
 
 **Expected**
 
-When you click on call now button, a modal will pop up.  The modal will have buttons to submit and close the page. It is expected that the submit button will be static.  It is expected the close button will close the modal and return you to the home page.
+When you click on the call now button, a modal will pop up.  The modal will have buttons to submit and close the page. It is expected that the submit button will be static.  It is expected the close button will close the modal and return you to the home page.
 
 **Testing**
 
@@ -502,7 +502,7 @@ Tested the close button by clicking on it.
 
 **Result**
 
-The site acted as expected and a modal appeared when I clicked on the call now button.
+The site acted as expected, and a modal appeared when I clicked on the call now button.
 The site acted as expected when I clicked on the submit button. Returns to home page after clicking on submit.
 The site acted as expected when I clicked on the close button, the modal closed and returned to the home page.
 
@@ -512,14 +512,14 @@ No fix required.
 
 ## Testing the form on the services page.
 
-Tested the form. Entered in details to each relevent section.
-Checked the submit button by clicking on it.
+Tested the form. Entered in details to each relevant section.
+I checked the submit button by clicking on it.
 Click on the Clear Form button to clear the form.
 
 **Expected**
 
-When you enter in your details they are displayed as entered.
-When you click on the submit button the form is submitted - this site is static.
+When you enter in your details, they are displayed as entered.
+When you click on the submit button, the form is submitted - this site is static.
 When you click on the clear form button, the form clears.
 
 **Testing**
@@ -528,13 +528,13 @@ Tested the form by filling out details for all sections.
 
 **Result**
 
-The Name field fills out as expected and if left blank a "Fill out this field" will pop up.
-The Email field fills out as expected. If an email address is not correctly entered a "Enter an email address" will pop up.
-The Phone field fills out but if letters are entered a "Enter a number" will pop up.
+The Name field fills out as expected, and if left blank, a "Fill out this field" will pop up.
+The Email field fills out as expected. If an email address is not correctly entered, a "Enter an email address" will pop up.
+The Phone field fills out, but if letters are entered, a "Enter a number" will pop up.
 The message section allows for a description of the job request.
-The date required calendar pops up and the user can select a date as required.
+The date required calendar pops up, and the user can select the date as required.
 
-The form appears to the left on an ipad.  It should be centered.
+The form appears to the left on an iPad.  It should be centered.
 
 **Fix**
 
@@ -565,6 +565,16 @@ Amend media query for iPad so that the form appears in the center.
 
 * Added a max-width to prevent the form from displaying full width on desktop.
 
+* Form was displaying to the left on the iPad screen size.
+* Adjusted the code by giving it a margin of 10px auto.  Also changed the max-width to 70% so it would not take up the whole width on an iPad screen size.
+
+`.center-form {
+        
+    min-height: 240px;
+    margin: 10px auto;
+    max-width: 70%;
+  }`
+
 Tested services .html W3C Markup Validation Service - no errors or warnings to show.
 
 ## Debugging on contacts page
@@ -574,29 +584,29 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 
 * The google map was not displaying correctly when on smaller screen sizes.
 
-* To solve this issue I change the width to 100% so that it would appear the full width of the screen on all devices.
+* To solve this issue, I change the width to 100% so that it would appear the full width of the screen on all devices.
 
 
-## Debugging on gallery page
+## Debugging on the Gallery page
 ---
 
 * Title of gallery section was displaying left of all images.
 
-* Inserted a section container and gave it the title of gallery to display above the images.
+* Inserted a section container and gave it the title of the Gallery to display above the images.
 
 
 ## CSS debugging
 
 ---
 
-* media query for menuitems in header was set too large for some devices.
-* add an extra media query to accomodate very small screen sizes so that the menuitems in the navagational bar display two by two.
+* media query for menu items in the header was set too large for some devices.
+* add an extra media query to accommodate very small screen sizes so that the menu items in the navigational bar display two by two.
 
 * Overlay not responsive. Missing half the writing when the screen size reduced.
-* Added a query css to incorporate overlay to make it responsive.
+* Added a media query in CSS to incorporate overlay to make it responsive.
 
 * Large area of white space appearing below gallery on services.html page.
-* Fix max-width on query to remove white space.
+* Fix max-width on media query to remove white space.
 
 ## Tested on W3C CSS Validator
 
@@ -617,7 +627,7 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 ## Acknowledgements
 ---
 
-Much thanks to my mentor Nishant Kumar for giving great support and encouragement throughtout my first Milestone Project.
+Much thanks to my mentor Nishant Kumar for giving great support and encouragement throughout my first Milestone Project.
 
 Much thanks to Code Institute Tutors for pointing me in the right direction when I was going off course.
 
