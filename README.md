@@ -18,7 +18,7 @@ I wanted to create a webpage that would allow the user to see what services we h
     - [Scope](#scope)
     - [Skeleton](#skeleton)
     - [Features](#features)
-    - [Design](#design)
+    - [Surface-Design](#surface-design)
 3.  [Project-Display](#project-display)
 4.  [Languages](#languages)
 4.  [Technologies](#technologies)
@@ -42,18 +42,36 @@ Here is a demonstration of how my website looks on different screen sizes using 
 
 ![Am I responsive](assets/images/responsivedesignms1.png)
 
+It is intended to be accessible on all screen sizes.  Taking into consideration that a user looking for an electrician would possibly use their mobile for looking for an electrical service.
+
 ## UX
+
+
+
+I hope to attract a variety of users, from individual property owners to business property owners.  I hope that users will become clients and reuse the website on a regular basis to book call-outs and services.
+
+## Project Goals.
+
+This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
+
+* To provide a website that is easy to navigate.
+
+* To provide a website that is professional and has clear contact details.
+
+* To provide the user positive feedback from other customers.
+
+* To demonstrate to the user that we comply with saftey standards and are fully insured.
+
+* To provide a clear range of services covering all your electrical needs, from small electrical household jobs to large commercial builds.  
+
+* To provide a form to allow the user to request a quote or call-back.  
+
 
 ## User Stories
 
-* As a website user, I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
+### As A First Time User:
 
-What I expect to find on a website when looking for an electrician.
- 
-1. Easy to navigate.
-2. Easy to find contact details.
-3. Displays the work they carry out.
-4. Do they comply with safety standards.
+* As a website user, I found myself constantly searching for a qualified electrician online but was unsure of what to ask for. I wanted to know did they meet all safety standards and was the work guaranteed.
 
 * As a website user, I needed an electrician for an emergency call out. I wanted to find someone fast, efficient and reliable – quickly. I also needed someone to call out at a time that was convenient to me.
 
@@ -74,6 +92,14 @@ What I look for on a website when looking for an electrician.
 3. Are they reliable?
 4. Do they get good reviews?
 
+### As a Regular User:
+
+As a business owner, I want to be able to contact an electrician as needed.  I want to know that I can leave my details and that the company will be in touch to sort out the problem.
+
+As a business owner, I want to be able to purchase items through the website.
+
+
+
 
 With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
 
@@ -89,16 +115,7 @@ Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets
 ![Desktop Image](assets/images/wireframems1desktop.png)
 ![Mobile Image](assets/images/wireframems1mobile.png)
 
-## Project Goals.
 
-This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
-
-We provide a range of services covering all your electrical needs, from small electrical household jobs to large commercial builds.  
-We quote for all job sizes.  
-We specialize in emergency call-outs.  
-We are providing you with the service you need when you need it.
-
-This website demonstrates the services we provide and enables you to book a call out or request a quote.
 
 ## Strategy
 ---
@@ -118,17 +135,23 @@ I will research what may be required for this website by asking the following qu
 
 Essentials will include
 
-*	Callout
-*	Emergency
-*	Insurance
-*	Guarantee
-*   A form for request callbacks and quotes
-*   A gallery page to display work
-*   Contact details
+*	Callout - I want the customer to be able to contact our company through phone or email.
+
+*	Emergency - I want the customer to be able to contact our company directly by the touch of a single button.
+
+*	Insurance - I want the customer to know that we are fully qualified and insured electricians.
+
+*	Guarantee - To ensure that the customer knows that we provide a high standard of work that we stand by.
+
+*   A form for request callbacks and quotes - to provide a clear form that we reply to.
+
+*   A gallery page to display work already carried out, showing our left of expertise and skills.
+
+*   Contact details - clearly demonstrate where we are based and how to contact us.
  
 ## Features
 ---
-This project will include four separate pages.  
+This project will include four separate pages.  I decided to separate the website into four separate pages.  The navbar and footer will be displayed on all pages for consistency.
 
 * [index.html](#index.html)
 * [services.html](#services.html)
@@ -137,12 +160,16 @@ This project will include four separate pages.
 
 ## index.html
 
-The home page is made up of a header.  The header includes a logo, the company name and a navigational bar with four menu items.  The header will repeat on all pages.
-On small screen sizes, the navigational bar will display two by two to accommodate the smaller screen size.
+The home page is made up of a header.  The header includes a logo, the logo when clicked on will take the user to the home page. The company name and a navigational bar with four menu items also appear in the header.  The header will repeat on all pages.
+On small screen sizes, the navigational bar will display as a burger icon, which will expand to a menu when clicked to accommodate the smaller screen size.
 
 There is a Covid-19 notice to appear on the home page. 
 
 The home page includes a large image.  The image is responsive to encourage the customer to focus on the overlay text box. The text box displays a call now button.  When you click on the call now button, a modal will appear.
+
+The home page includes a section telling you about our company and the services we provide.
+
+This page includes a Testimonial section so potential customers can read the reviews of our clients.
 
 The footer has three sections. An about section telling you about the company.  An emergency call out section with a phone link.  The last section is to connect the customer to our social links.
 
@@ -170,9 +197,9 @@ Contact and address information for the company.
 
 The gallery page displays a selection of photos and a video of work LSH Electricians provides.
 
-This page includes a Testimonial section so potential customers can read the reviews of our clients.
 
-## Design:
+
+## Surface Design:
 ---
 
 ## Colour Scheme
@@ -195,9 +222,18 @@ I will use the following fonts throughout the website for consistency in style.
  * Exo
  * Sans Serif as a back up
 
+## Icons
+
+I used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all my fonts and they can be seen accross the website, especially on the services page.
+
 ## Additional Features
 
-As our website progresses, I would like to include a search option and a spares/shop section.
+* As our website progresses, I would like to include a search option and a spares/shop section.
+
+* My form is static in this website and through further learning I would like to set it up so that the details can be saved and responded to.
+
+* I would like the call now button to connect directly so that the customer has direct contact with our company.
+
 
 ## Project Display
 ---
@@ -226,15 +262,19 @@ Code used throughout this project was learned and implemented from the [Code Ins
 
 In this project, I used the following to help build my website.
 
-* In this project, I have used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
+* [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
 
-* In this project, I have used [Google Fonts](https://fonts.googleapis.com/css2?)
+* [Google Fonts](https://fonts.googleapis.com/css2?)
 
-* I have used [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughout this project.
+* [Bootstrap](https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css) throughout this project.
 
-* ![code used and adapted from Bootstrap for modal](assets/images/bootstrapcodemodal.png)
+* [Balsamique](https://balsamiq.com/)
   
-* I have used [hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
+* [hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
+
+![code used and adapted from Bootstrap for modal](assets/images/bootstrapcodemodal.png)
+
+![code used and adapted from Bootstrap for navbar](assets/images/header.png)
 
 * Google maps link from www.google.com. ("https://www.google.com/maps/embed")
 
@@ -302,7 +342,10 @@ Video by Kapaw from Pexels
 - Confident Coding by Rob Percival
 - Confident Web design by Kenny Wood
 - Patreon 
-- YouTube 
+- [YouTube](https://www.youtube.com/) 
+- [W3Schools](https://www.w3schools.com/) used for information to help in css styling
+- [AmIResponsive](http://ami.responsivedesign.is/)
+
 
 ---
 ## Deployment Section
@@ -336,32 +379,7 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 
 ## Testing
 
-Implement the user stories.
 
-### User Story 1
-
-* From the home page
-* Click on services in the navigational bar.
-* Scroll to Insurance and Testing to see that we meet all safety standards.
-* Scroll further to fill out the form and request a call-back.
-
-
-### User Story 2
-
-* On the home page, click the call now button for adirect phone line.
-* Alternatively, click on the services page in the navig
-ational bar.
-* Fill out the form and select "Emergency Call-out" from the drop-down, select option.
-* Choose the date you would like the call-out on this form also.
-
-
-### User Story 3
-
-* On the home page, click on the services in the navigational bar.
-* Read through all the registered and certified services we provide.
-* Click on the Gallery page to read testimonials, provide customer feedback on our services.
-* Fill out our form to start the process today!
---- 
 
 ## Tested the site using Lighthouse 
 
@@ -547,6 +565,43 @@ The form appears to the left on an iPad.  It should be centered.
 
 Amend media query for iPad so that the form appears in the center.
 
+##Testing across various devices
+
+- Ensured the website was responsive on all pages through [Google Mobile Friendly](https://search.google.com/test/mobile-friendly)
+
+- Ensured the website was responsive on different mobiles using [BrowserStack](https://www.browserstack.com/)
+
+- Testing was also performed on Safari and Chrome
+
+- Testing was also carried out by several family members.
+
+
+Implement the user stories.
+
+### User Story 1
+
+* From the home page
+* Click on services in the navigational bar.
+* Scroll to Insurance and Testing to see that we meet all safety standards.
+* Scroll further to fill out the form and request a call-back.
+
+
+### User Story 2
+
+* On the home page, click the call now button for adirect phone line.
+* Alternatively, click on the services page in the navig
+ational bar.
+* Fill out the form and select "Emergency Call-out" from the drop-down, select option.
+* Choose the date you would like the call-out on this form also.
+
+
+### User Story 3
+
+* On the home page, click on the services in the navigational bar.
+* Read through all the registered and certified services we provide.
+* Click on the Gallery page to read testimonials, provide customer feedback on our services.
+* Fill out our form to start the process today!
+--- 
 
 ##  Debugging
 ---
