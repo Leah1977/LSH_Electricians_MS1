@@ -6,6 +6,8 @@ This is a User-Centric Frontend Development Project for Milestone 1.
 
 The project features four static pages where customers can see the services LSH Electricians provide.
 The project targets potential and returning customers in need of electrical services.
+I wanted to create a webpage that would allow the user to see what services we have a available and then to contact us with ease.
+
 
 ## Table of Contents.
 
@@ -32,6 +34,9 @@ The project targets potential and returning customers in need of electrical serv
 This site was built using [GitHub Pages](https://pages.github.com/)/.
 
 I have created a mobile-first user-centric frontend project.
+
+I have created a website that focuses on the users needs.  Providing the user with relevant information.  So that the user can contact us for a quote or service as required.
+I wanted to keep the website clearly laid out, so that the customer can easily navigate through the site.
 
 Here is a demonstration of how my website looks on different screen sizes using [Am I Responsive Website](http://ami.responsivedesign.is/).
 
@@ -285,6 +290,8 @@ Photo by Edward Cisneros on Unsplash
 
 * Testimonial Image 2. Photo by <a href="https://unsplash.com/@gabiontheroad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriella Clare Marino</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Photo by Gabriella Clare Marino on Unsplash
+
+* Photo by <a href="https://unsplash.com/@bulava92?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vladislav Bulatov</a> on <a href="https://unsplash.com/s/photos/electrical-wiring?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 * Video  
 
