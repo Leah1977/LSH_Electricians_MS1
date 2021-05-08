@@ -6,15 +6,16 @@
     border: 0;
 }
 
+/*-----------------------------------------------------------------Colours*/
+
 body {
     color: #676767;
 }
 
-h3 {
+h3, h2 {
     color: #676767;
 }
 
-/*-----------------------------------------------------------------Colours*/
 
 .bg-color-name-info{
     background-color: #676767da;
@@ -35,6 +36,7 @@ h2, h4 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
+    font-size: 150%;
 }
 
 .general-sub {
@@ -50,37 +52,38 @@ h2, h4 {
 
 /*------------------------------------------------------------Navigational Bar*/
 
-.nav-item {
+.nav-item a:hover {
     color:#ffcd05;
     font-family: "Exo", sans-serif;
     font-weight: 700;
+    font-size: large;
 
 }
-
-
-
-
-.navbar-nav {
-    padding-left: 60%;
-}
-
-
 
 
 /*---------------------------------------------------------Navigational Links*/
 
-
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #ffcd05;
+    font-family: "Exo", sans-serif;
+    font-weight: 600;
+    background-color: #676767;
+    font-size: 20px;
+    border-radius: 12px;
+    border: 1px solid black;
+   
+}
 
 /*-----------------------------------------------------------------Heading*/
 
-.heading {
-    color: black;
-    font-size: 25px;
+#header-name {
+    font-family: "Exo", sans-serif;
+    font-weight: 700;
+    color:rgba(60, 60, 60, 0.9);
+    text: uppercase;
+    letter-spacing: 1.5;
     padding: 10px;
-}
-
-a i {
-    color: #fafafa;
+    float: right;
 }
 
 .contact-details {
@@ -127,6 +130,41 @@ a i {
     color: #ffc107;
     text-decoration: underline;
 }    
+
+/* ---------------------------------------------------------------info-details*/
+
+#company-info {
+    background-color: rgba(60, 60, 60, 0.404);
+    display: inline-block;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    padding: 20px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+
+}
+
+#company-info p {
+   
+    display: flex-wrap;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    padding: 10px;
+    display: block;
+    max-height: 200px;
+  
+
+}
+
+.homepage-image {
+    
+    background-color: rgba(60, 60, 60, 0.404);
+    background: no-repeat center center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    
+}
       
 /* ---------------------------------------------------------------Services*/
 
@@ -135,9 +173,14 @@ i {
     color:#ffcd05;
 }
 
+#container {
+    background-color: rgba(235, 166, 37, 0.493);
+}
+
 #services {
     padding: 0;
     text-align: center;
+    
 }
 
 .services-list {
@@ -170,6 +213,9 @@ i {
     text-align: center;
 }
 
+hr {
+    
+}
 /*----------------------------------------------------------------Contact*/
 
 .contact {
@@ -361,7 +407,7 @@ i {
     width: 300px;
 }
 
-#photos {
+.photos {
     clear: both;
     column-count: 3;
     column-gap: 1px;
@@ -370,7 +416,7 @@ i {
     padding-top: 20px;
 }
 
-#photos img {
+.photos img {
     padding: 15px;   
     width: 100%;
  }
