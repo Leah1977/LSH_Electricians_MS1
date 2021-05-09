@@ -35,10 +35,11 @@ h4 {
     margin: 0;
 }
 
-h2, h3, {
+h2, h3 {
+    font-family: "Exo", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    text-align: center;
+    text-align: left;
     font-size: 150%;
     
 }
@@ -101,7 +102,7 @@ h4 {
 
 .contact-container {
     padding: 10px;
-    marging: 0 auto;
+    margin: 0 auto;
 }
 
 /*-----------------------------------------------------------------Button*/
@@ -213,7 +214,7 @@ hr {
 
 .services {
     background-color: #676767;
-    text: #fafafa;
+    color: #fafafa;
     margin: 0 auto;
     padding: 10px;
 
@@ -571,22 +572,15 @@ hr {
 
  @media screen and (max-width: 575px) {
    
- .ui-menu-color-contact {
-    background-color: silver;
-}
-
-.ui-menu-color-gallery {
-    background-color: #ffcd05;
- }
-
- h1 {
+h1 {
      font-size: 20px;
 
  }
 
 h2 {
-    font-size: 1em;
-    text-align: right;
+    font-family: "Exo", sans-serif;
+    font-size: 2rem;
+    text-align: left;
     margin: 0;
     padding-right: 10px;
 }
