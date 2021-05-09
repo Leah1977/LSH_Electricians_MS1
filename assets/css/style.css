@@ -13,7 +13,7 @@ body {
 }
 
 h3, h2 {
-    color: #676767;
+    color: #fafafa;
 }
 
 
@@ -32,7 +32,7 @@ h4 {
     margin: 0;
 }
 
-h2, h4 {
+h2, h3, h4 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
@@ -138,29 +138,26 @@ h2, h4 {
     padding: 20px;
     color: white;
     font-family: "Roboto", sans-serif;
+    
 
 }
 
-#company-info p {
-   
+
+
+.info-details {
+    padding: 10px;
+    width: 100%;
+    float: left;
+    clear: both;
     color: white;
     font-family: "Roboto", sans-serif;
-    padding: 10px;
-    display: block;
-    max-height: 200px;
-  
+    text-align: justify;
+    letter-spacing: 1.5px;
 
 }
 
-.homepage-image {
-    
-    background-color: rgba(60, 60, 60, 0.404);
-    background: no-repeat center center;
-    clear: both;
-    padding-top: 10px;
-    padding-left: 0px;
-       
-}
+
+
       
 /* ---------------------------------------------------------------Services*/
 
@@ -169,14 +166,11 @@ i {
     color:#ffcd05;
 }
 
-#container {
-    background-color: rgba(235, 166, 37, 0.493);
-}
+
 
 #services {
     padding: 0;
     text-align: center;
-    
 }
 
 .services-list {
@@ -193,7 +187,19 @@ i {
 
 #services h2, h4 {
     width: 100%;
-    color: #676767;
+    color: #fafafa;
+}
+
+hr {
+    border: 4px solid #ffcd05;
+    width: 30%;
+}
+
+.services {
+    background-color: #676767;
+    text: #fafafa;
+    
+    
 }
 
 /*----------------------------------------------------------------Testimonials*/
@@ -209,9 +215,7 @@ i {
     text-align: center;
 }
 
-hr {
-    
-}
+
 /*----------------------------------------------------------------Contact*/
 
 .contact {
@@ -554,9 +558,18 @@ hr {
  }
 
  h1 {
-     font-size: 25px;
+     font-size: 20px;
 
  }
+
+h2 {
+    font-size: 1em;
+    text-align: right;
+    margin: 0;
+    padding-right: 10px;
+}
+ 
+ 
 
 .menuitem {
     padding-bottom: 10px;
@@ -598,6 +611,7 @@ hr {
 .active {
     border: 2px solid black;
   }
+
 
 }
 
