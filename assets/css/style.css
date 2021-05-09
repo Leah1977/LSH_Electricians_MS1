@@ -12,13 +12,16 @@ body {
     color: #676767;
 }
 
-h3, h2 {
+h2 {
+    color: #676767;
+}
+
+h3, h4 {
     color: #fafafa;
 }
 
-
-.bg-color-name-info{
-    background-color: #676767da;
+p {
+    color: #fafafa;
 }
 
 
@@ -32,13 +35,21 @@ h4 {
     margin: 0;
 }
 
-h2, h3, h4 {
+h2, h3, {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
     font-size: 150%;
+    
 }
 
+h4 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: left;
+    font-size: 150%;
+
+}
 .general-sub {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -86,6 +97,11 @@ h2, h3, h4 {
 
 .contact-details {
     color: #fafafa;
+}
+
+.contact-container {
+    padding: 10px;
+    marging: 0 auto;
 }
 
 /*-----------------------------------------------------------------Button*/
@@ -177,27 +193,30 @@ i {
     list-style-type: none;
     padding-top: 10px;
     padding-bottom: 20px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
+    color: #fafafa;
 }
 
 .services-list li{
       list-style-type: none;
 }
 
-#services h2, h4 {
-    width: 100%;
-    color: #fafafa;
+.services-list a {
+    color: #ffcd05;
 }
 
 hr {
-    border: 4px solid #ffcd05;
-    width: 30%;
+    border: 3px solid #ffcd05;
+    width: 20%;
 }
 
 .services {
     background-color: #676767;
     text: #fafafa;
+    margin: 0 auto;
+    padding: 10px;
+
     
     
 }
@@ -215,17 +234,18 @@ hr {
     text-align: center;
 }
 
+.media-body p {
+    color: #676767;
+}
+
 
 /*----------------------------------------------------------------Contact*/
 
 .contact {
     display: inline-block;
     padding-top: 20px;
-}
-
-.contact p {
-    line-height: 1.5em;
-    padding-top: 5px;
+    padding-bottom: 20px;
+    background-color: #676767;
 }
 
 /* ---------------------------------------------------------------Form*/
@@ -392,7 +412,7 @@ hr {
 }
 
 #cover-text {
-    background-color: rgba(252, 206, 1, 0.705);
+    background-color: rgba(139, 124, 58, 0.705);
     font-family: "Exo", sans-serif;
     font-size: 100%;
     font-weight: 700;
@@ -406,6 +426,8 @@ hr {
     position: absolute;
     width: 300px;
 }
+
+
 
 .photos {
     clear: both;
@@ -542,7 +564,7 @@ hr {
         
     min-height: 240px;
     margin: 10px auto;
-    max-width: 70%;
+    max-width: 100%;
   } 
  
  }
@@ -569,50 +591,6 @@ h2 {
     padding-right: 10px;
 }
  
- 
-
-.menuitem {
-    padding-bottom: 10px;
-    text-align: center;
-    height: 40px;
-}
-
-.menuitem a {
-    color: rgb(32, 32, 32);
-    text-decoration: none;
-    height: 40px;
-    width: 100%;
-}
-
-.menuitem a i {
-    
-    color: rgb(32, 32, 32);
-    display: block;
-    font-size: 10px;
-    padding-top: 5px;
-}
-
-.menuitem span {
-    display: block;
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-align: center;
-    text-transform: uppercase;
-    width: 100%;
-  }
-
-.hvr-sweep-to-bottom:before {
-    background: rgba(0, 0, 0, 0.2);
-    height: 40px;
-  }
-.active {
-    border: 2px solid black;
-  }
-
-
 }
 
   
