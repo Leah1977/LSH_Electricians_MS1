@@ -392,6 +392,11 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 - Tested gallery.html W3C Markup Validation Service - no errors or warnings to show.
 - Tested contact.html W3C Markup Validation Service - no errors or warnings to show.
 
+## Tested the site for mobile friendly usage
+
+[Mobile-Friendly Test-Google Services](https://search.google.com/test/mobile-friendly)
+![Mobile friendly approved](assets/images/mobilefriendly.png)
+
 ## Tested the Logo
 
 Tested the logo on all pages. Clicking on the logo will return you to the home page.
