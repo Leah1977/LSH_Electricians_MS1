@@ -42,10 +42,9 @@ Here is a demonstration of how my website looks on different screen sizes using 
 
 ![Am I responsive](assets/images/homepagems1final.png)
 
-It is intended to be accessible on all screen sizes.  Taking into consideration that a user looking for an electrician would possibly use their mobile for looking for an electrical service.
+It is intended to be accessible on all screen sizes.  Although I am finding mobile devices are been used more often on a daily basis for searching for services.
 
 ## UX
-
 
 
 I hope to attract a variety of users, from individual property owners to business property owners.  I hope that users will become clients and reuse the website on a regular basis to book call-outs and services.
@@ -257,9 +256,6 @@ I will make sure all links are active and working.
 
 Code used throughout this project was learned and implemented from the [Code Institute Diploma Programme](https://codeinstitue.net)
 
-![Code used for the header was adapted from the diploma course](assets/images/Codeinstituteheader.png)
-
-
 In this project, I used the following to help build my website.
 
 * [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css) for all the great icons.
@@ -271,6 +267,8 @@ In this project, I used the following to help build my website.
 * [Balsamique](https://balsamiq.com/)
   
 * [hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css).
+
+![Code used for the header was adapted from bootstrap 4.5.2](assets/images/header.png)
 
 ![code used and adapted from Bootstrap for modal](assets/images/bootstrapcodemodal.png)
 
@@ -648,6 +646,9 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 
 * To solve this issue, I change the width to 100% so that it would appear the full width of the screen on all devices.
 
+* The map would not pass through the html validator as a result of using a %.  Although it did work as intended on the the website.
+
+![Map issue](assets/images/mapissue.png)
 
 
 ## Debugging on the Gallery page
@@ -668,14 +669,6 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 
 ` @media screen and (max-width: 575px) {
    
- .ui-menu-color-contact {
-    background-color: silver;
-}
-
-.ui-menu-color-gallery {
-    background-color: #ffcd05;
- }
-
  h1 {
      font-size: 20px;
 
