@@ -40,7 +40,7 @@ I wanted to keep the website clearly laid out, so that the customer can easily n
 
 Here is a demonstration of how my website looks on different screen sizes using [Am I Responsive Website](http://ami.responsivedesign.is/).
 
-![Am I responsive](assets/images/responsivedesignms1.png)
+![Am I responsive](assets/images/homepagems1final.png)
 
 It is intended to be accessible on all screen sizes.  Taking into consideration that a user looking for an electrician would possibly use their mobile for looking for an electrical service.
 
@@ -383,7 +383,7 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 
 ## Tested the site using Lighthouse 
 
-![Lighthhouse Review](assets/images/LighthouseMS1.png)
+![Lighthhouse Review](assets/images/Lighthouse1a.png)
 
 ## Tested HTML
 
@@ -394,7 +394,7 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 - Tested gallery.html W3C Markup Validation Service - no errors or warnings to show.
 - Tested contact.html W3C Markup Validation Service - no errors or warnings to show.
 
-## Testing the Logo
+## Tested the Logo
 
 Tested the logo on all pages. Clicking on the logo will return you to the home page.
 
@@ -414,7 +414,7 @@ The site acted as expected and returned to the home page.
 
 No fix required.
 
-## Testing the Navigational Bar
+## Tested the Navigational Bar
 
 Tested all links on all pages. All links work as intended. This allows the user to move from one page to another with ease.
 On mobile devices, the navigational bar reduces in size and displays two by two to accommodate the smaller screen size.
@@ -471,7 +471,7 @@ The site acted as expected and directed me to the home page.  The gallery menu i
 
 No fix required
 
-## Testing the Footer contact link
+## Tested the Footer contact link
 
 Tested the footer contact link on all pages. Clicking on the phone link, the link should change colour when you hover over it and when clicked will redirect you to the home page.
 
@@ -491,7 +491,7 @@ The site acted as expected, the link changed colour.
 
 No fix required.
 
-## Testing the social contact links in the footer
+## Tested the social contact links in the footer
 
 Tested the social contact links on all pages. Clicking on a social link, link should change colour when you hover over it and, when clicked, will redirect you to the relevant page in a new window.
 
@@ -511,7 +511,7 @@ The site acted as expected, and the link changed colour when you hover over it a
 
 No fix required.
 
-## Testing the modal
+## Tested the modal
 
 Tested the modal on the home page. 
 
@@ -535,7 +535,7 @@ The site acted as expected when I clicked on the close button, the modal closed 
 
 No fix required.
 
-## Testing the form on the services page.
+## Tested the form on the services page.
 
 Tested the form. Entered in details to each relevant section.
 I checked the submit button by clicking on it.
@@ -649,6 +649,7 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 * To solve this issue, I change the width to 100% so that it would appear the full width of the screen on all devices.
 
 
+
 ## Debugging on the Gallery page
 ---
 
@@ -656,16 +657,43 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 
 * Inserted a section container and gave it the title of the Gallery to display above the images.
 
+![gallery-header](assets/images/gallerytitle.png)
 
 ## CSS debugging
 
 ---
 
 * media query for menu items in the header was set too large for some devices.
-* add an extra media query to accommodate very small screen sizes so that the menu items in the navigational bar display two by two.
+* added an extra small media query for small screen sizes
+
+` @media screen and (max-width: 575px) {
+   
+ .ui-menu-color-contact {
+    background-color: silver;
+}
+
+.ui-menu-color-gallery {
+    background-color: #ffcd05;
+ }
+
+ h1 {
+     font-size: 20px;
+
+ }
+
+h2 {
+    font-size: 1em;
+    text-align: right;
+    margin: 0;
+    padding-right: 10px;
+}
+ 
+} ` 
 
 * Overlay not responsive. Missing half the writing when the screen size reduced.
 * Added a media query in CSS to incorporate overlay to make it responsive.
+
+![Mobile home page](assets/images/mobilehomepage.png)
 
 * Large area of white space appearing below gallery on services.html page.
 * Fix max-width on media query to remove white space.
@@ -694,6 +722,8 @@ Much thanks to my mentor Nishant Kumar for giving great support and encouragemen
 Much thanks to Code Institute Tutors for pointing me in the right direction when I was going off course.
 
 Thanks also to support from the Slack Community. 
+
+Thanks also to the support of my husband and family supporting me through this project and providing invaluable feedback.
 
 
 
