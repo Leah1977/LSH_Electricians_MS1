@@ -40,7 +40,6 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
-    font-size: 150%;
     
 }
 
@@ -49,8 +48,6 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: left;
-    font-size: 150%;
-    
 }
 
 h4 {
@@ -58,8 +55,8 @@ h4 {
     letter-spacing: 2px;
     text-align: left;
     font-size: 150%;
-
 }
+
 .general-sub {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -177,7 +174,7 @@ h4 {
     clear: both;
     color: white;
     font-family: "Roboto", sans-serif;
-    text-align: justify;
+    text-align: left;
     letter-spacing: 1.5px;
 
 }
@@ -588,8 +585,8 @@ h1 {
 
 h2 {
     font-family: "Exo", sans-serif;
-    font-size: 2rem;
-    text-align: left;
+    text-align: center;
+    font-size: 18px;
     margin: 0;
     padding-right: 10px;
 }
