@@ -79,8 +79,6 @@ h4 {
 }
 
 
-/*---------------------------------------------------------Navigational Links*/
-
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
     color: #ffcd05;
     font-family: "Exo", sans-serif;
@@ -91,6 +89,14 @@ h4 {
     border: 1px solid black;
    
 }
+
+/*-----------------------------------------------------------------Logo*/
+
+.logo {
+    height: 60px;
+    width: 60px;
+}
+
 
 /*-----------------------------------------------------------------Heading*/
 
@@ -520,7 +526,15 @@ hr {
     min-height: 240px;
     margin: 10px auto;
     max-width: 60%;
-   }   
+   }  
+
+}
+
+@media screen and (min-width: 992px) {
+   
+   .navbar-expand-lg .navbar-collapse {
+       flex-direction: row-reverse;
+   }
 }
 
 @media screen and (max-width: 800px) {
@@ -568,12 +582,26 @@ hr {
  
  }
 
- @media screen and (max-width: 575px) {
+ @media screen and (max-width: 568px) {
    
 h1 {
      font-size: 20px;
 
  }
+
+ .logo {
+    height: 40px;
+    width: 40px;
+}
+
+#header-name {
+    font-family: "Exo", sans-serif;
+    font-weight: 700;
+    color:rgba(60, 60, 60, 0.9);
+    padding: 10px;
+    float: right;
+    font-size: 18px;
+}
 
 h2 {
     font-family: "Exo", sans-serif;
@@ -581,6 +609,73 @@ h2 {
     font-size: 18px;
     margin: 0;
     padding-right: 10px;
+}
+
+footer {
+    background-color: #555555;
+    color: #fafafa;
+    margin: 0;
+    min-height: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 12px;
+}
+
+a.call-out {
+    color: #fafafa;
+}
+
+.call-out { 
+    background-color: #8f8f8f;
+    border-radius: 50px;
+    float: none;
+    font-size: 12px;
+    height: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    width: 20px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+}
+
+
+.call-out:hover {
+    background:  #ffcd05;
+    color: #343a40;
+    text-decoration: none;
+}
+
+.social-links {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+.social-links li a i {
+    background: #8f8f8f;
+    border-radius: 50%;
+    color: #fafafa;
+    font-size: 10px;
+    height: 16px;
+    line-height: 8px;
+    margin: 15%;
+    padding: 12px auto;
+    text-align: center;
+    width: 16px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: gold;
+}
+
+p {
+    font-size: 12px;
 }
  
 }
