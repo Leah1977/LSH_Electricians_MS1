@@ -627,7 +627,9 @@ ational bar.
 
 This worked as I had intended.
 
-* Burger icon was diplaying below logo on small screens.  This was not how I intended it to look, so 
+* Burger icon was diplaying below logo on small screens.  This was not how I intended it to look, so I reduced the font size of the title on small screen sizes.
+
+
 
 ### Debugging HTML in services.html
 ---
