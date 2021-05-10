@@ -156,23 +156,15 @@ h4 {
 
 #company-info {
     background-color: rgba(60, 60, 60, 0.404);
-    color: white;
     font-family: "Roboto", sans-serif;
     padding: 20px;
-    color: white;
-    font-family: "Roboto", sans-serif;
     
-
 }
 
-
-
 .info-details {
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 100%;
-    float: left;
-    clear: both;
-    color: white;
     font-family: "Roboto", sans-serif;
     text-align: left;
     letter-spacing: 1.5px;
