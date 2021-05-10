@@ -35,7 +35,16 @@ h4 {
     margin: 0;
 }
 
-h2, h3 {
+h2 {
+    font-family: "Exo", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 150%;
+    
+}
+
+h3 {
     font-family: "Exo", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
