@@ -616,7 +616,18 @@ ational bar.
 
 * Added the bootstrap class "float-right" to the h1 element
 
+* Navbar was displaying too close to the logo and title.  After a lot of trial and error and some much needed mentoring.  Fixed the bug by reversing the text-direction.  Styled as a media query.
 
+@media screen and (min-width: 992px) {
+   
+   .navbar-expand-lg .navbar-collapse {
+       flex-direction: row-reverse;
+   }
+}
+
+This worked as I had intended.
+
+* Burger icon was diplaying below logo on small screens.  This was not how I intended it to look, so 
 
 ### Debugging HTML in services.html
 ---
