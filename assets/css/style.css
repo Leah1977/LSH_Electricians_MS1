@@ -265,7 +265,7 @@ hr {
 .contact-details {
     padding-top: 10px;
     padding-bottom: 10px;
-    width: 100%;
+    width: 50%;
     font-family: "Roboto", sans-serif;
     text-align: left;
     letter-spacing: 1.5px;
@@ -493,14 +493,13 @@ hr {
 
 /* -----------------------------------------------------------------Map */ 
 
-#map-info {
-    margin: 0;
-    padding: 0;
+#map iframe {
+    width: 100%;
+    height: 400px;
+  
 }
 
-.map-details {
-    background-color: #676767;
-}
+
 
 /* ---------------------------------------------------------Media Queries*/
 
@@ -596,10 +595,10 @@ hr {
     width: 100%;
 }
 
-#map {
-    display: block;
+#map iframe{
+    width: 100%;
     height: 300px;
-    margin-top: 20px;
+      
 }
 
 @keyframes hero-zoom {
@@ -668,6 +667,8 @@ footer {
 
 a.call-out {
     color: #fafafa;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .call-out { 
@@ -737,6 +738,7 @@ p {
     color: #676767;
     padding-bottom: 10px;
     
+    
 }
 
 .contact-details p {
@@ -748,6 +750,13 @@ p {
 .services h3 {
     font-size: 24px;
 }
+
+#map iframe {
+    width: 100%;
+    height: 300px;
+  
+}
+
  
 }
 
