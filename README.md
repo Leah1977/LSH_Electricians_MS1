@@ -40,7 +40,7 @@ I wanted to keep the website clearly laid out, so that the customer can easily n
 
 Here is a demonstration of how my website looks on different screen sizes using [Am I Responsive Website](http://ami.responsivedesign.is/).
 
-![Am I responsive](assets/images/homepagems1final.png)
+![Am I responsive](assets/images/responsivems1.png)
 
 It is intended to be accessible on all screen sizes.  Although I am finding mobile devices are been used more often on a daily basis for searching for services.
 
@@ -655,7 +655,7 @@ This worked as I had intended.
 
 Tested services .html W3C Markup Validation Service - no errors or warnings to show.
 
-## Debugging on contacts page
+## Debugging on the contacts page
 ---
      
 * Google map was not responsive on mobile devices.
@@ -667,6 +667,10 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 * The map would not pass through the html validator as a result of using a %.  Although it did work as intended on the the website.
 
 ![Map issue](assets/images/mapissue.png)
+
+* To fix this bug I created an id for the map and inserted the width and height into the style.css.  I then add media queries as neccessary for the smaller screen sizes.
+
+
 
 
 ## Debugging on the Gallery page
