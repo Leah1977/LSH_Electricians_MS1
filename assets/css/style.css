@@ -191,7 +191,7 @@ i {
     background-color: #676767;
     color: #fafafa;
     margin: 0 auto;
-    font-family: "Exo" sans-serif;
+    font-family: "Exo", sans-serif;
     font-size: 14px;
     text-align: left;
     
@@ -273,7 +273,7 @@ hr {
 }
 
 .contact-title {
-    font-family: "Exo" sans-serif;
+    font-family: "Exo", sans-serif;
     font-size: 30px;
 }
 
@@ -676,7 +676,7 @@ a.call-out {
     float: none;
     font-size: 12px;
     height: 15px;
-    padding: 10px auto;
+    padding: 10px;
     text-align: center;
     width: 20px;
     transition: all 0.35s ease-in-out;
@@ -704,7 +704,7 @@ a.call-out {
     height: 14px;
     line-height: 8px;
     margin: 15%;
-    padding: 12px auto;
+    padding: 12px;
     width: 14px;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
