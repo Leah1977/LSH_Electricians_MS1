@@ -340,6 +340,18 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 
 - [contact.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Fcontact.html)
 
+## Tested on W3C CSS Validator
+
+
+* [CSS Validation for https://github.com/Leah1977/LSH_Electricians](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 ## Tested the site for mobile friendly usage
 
@@ -667,18 +679,7 @@ h2 {
 * Large area of white space appearing below gallery on services.html page.
 * Fix max-width on media query to remove white space.
 
-## Tested on W3C CSS Validator
 
-
-* [CSS Validation for https://github.com/Leah1977/LSH_Electricians](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-
-<p>
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!" />
-    </a>
-</p>
             
 ## Credits
 
