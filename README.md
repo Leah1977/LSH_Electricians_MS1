@@ -142,9 +142,9 @@ Essentials will include
 
 *	Guarantee - To ensure that the customer knows that we provide a high standard of work that we stand by.
 
-*   A form for request callbacks and quotes - to provide a clear form that we reply to.
+*   A form to request callbacks and quotes - to provide a clear form that we reply to.
 
-*   A gallery page to display work already carried out, showing our left of expertise and skills.
+*   A gallery page to display work already carried out, showing our level of expertise and skills.
 
 *   Contact details - clearly demonstrate where we are based and how to contact us.
  
@@ -240,7 +240,8 @@ I used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/
 This project is responsive to appear on different screen sizes.
 The display changes to accommodate a smaller screen size.  On a mobile, some items have been removed to focus on the mobile-friendly application.  For example, the form reduces in size, so it can be displayed fully on a smaller device.
 
-The navigational bar also displays in a two by two format to accommodate the smaller screen size. 
+The navigational bar changes to a burger icon for smaller screen sizes. 
+This opens out on click to display the menu items.
 
 I will design the website to adjust to different sized screens to ensure optimum viewing.
 I will make sure all links are active and working.
@@ -270,9 +271,16 @@ In this project, I used the following to help build my website.
 
 ![Code used for the header was adapted from bootstrap 4.5.2](assets/images/header.png)
 
-![code used and adapted from Bootstrap for modal](assets/images/bootstrapcodemodal.png)
+I used the code from bootstrap for my header.  Here I added a logo and company name.  
+I also edited the css styling to suit my website and adjusted the layout to size appropriately.
 
 ![code used and adapted from Bootstrap for navbar](assets/images/header.png)
+
+![code used and adapted from Bootstrap for modal](assets/images/bootstrapcodemodal.png)
+
+I used the modal from bootstrap and edited the wording and styling for the call now button on the homepage.
+
+
 
 * Google maps link from www.google.com. ("https://www.google.com/maps/embed")
 
