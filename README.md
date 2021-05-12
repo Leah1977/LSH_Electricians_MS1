@@ -21,11 +21,12 @@ I wanted to create a webpage that would allow the user to see what services we h
     - [Surface-Design](#surface-design)
 3.  [Project-Display](#project-display)
 4.  [Languages](#languages)
-4.  [Technologies](#technologies)
-5.  [Testing](#testing)
-6.  [Debugging](#testing)
-7.  [Deployment](#deployment)
-8.  [Acknowledgements](#acknowledgements)
+5.  [Technologies](#technologies)
+6.  [Testing](#testing)
+7.  [Debugging](#testing)
+8.  [Deployment](#deployment)
+9.  [Credits](#credits)
+10.  [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -284,66 +285,6 @@ I used the modal from bootstrap and edited the wording and styling for the call 
 
 * Google maps link from www.google.com. ("https://www.google.com/maps/embed")
 
-* Thanks to all the photographers and websites Unsplash, Pexels and Pixabay for allowing the use of the following photos and video.
-
-* Light bulbs photo
-  Photo by Diz Play on Unsplash
-
-* <span>Photo by <a href="https://unsplash.com/@dizplay?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Diz Play</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-* Fuse box photo
- Photo by Ralph (Ravi) Kayden on Unsplash
-
-* <span>Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-* Photo by Nathan Dumlao on Unsplash
-
-* <span>Photo by <a href="https://unsplash.com/@thkelley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Kelley</a> on <a href="https://unsplash.com/s/photos/electric?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>#
-* Photo by Thomas Kelley on Unsplash
-
-* Image by <a href="https://pixabay.com/users/image4you-2459255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Harry Strauss</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Pixabay</a>
-
-* Image from Harry Strauss on Pixabay
-
-* Image 10 "Fusebox" Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Markus Spiske on Unsplash
-
-* Image11 "Ligths" Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Patrick Tomasso on Unsplash  
-
-* Image 12 "volt" Photo by <a href="https://unsplash.com/@shirishsuwal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shirish Suwal</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Shirish Suwal on Unsplash  
-
-* Image 13 "Tool" Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Mika Baumeister on Unsplash 
-
-* Image 14 "lightbub" Photo by <a href="https://unsplash.com/@daniele_franchi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniele Franchi</a> on <a href="/s/photos/electrical-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Daniele Franchi on Unsplash
-
-* Image 15 "security lights" Photo by <a href="https://unsplash.com/@switch_dtp_fotografie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucas van Oort</a> on <a href="/s/photos/security-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Lucas van Oort on Unsplash  
-
-* Image 16 "Plug socket" Photo by <a href="https://unsplash.com/@hamishkale_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hamish Kale</a> on <a href="/s/photos/plug-socket?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>Photo by Hamish Kale on Unsplash
-
-* Image 17 "Electrical wire."
-Photo by <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="/s/photos/electrical-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Steve Johnson on Unsplash
-
-* Image for wireframe Photo by Royalty-free stock photo ID: 1318378229 Background with a uniformed electrician with tools and electrical equipment and blue background. By Davizro Photography www.shutterstock.com
-
-* Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Edward Cisneros on Unsplash
-
-* Testimonial Image 2. Photo by <a href="https://unsplash.com/@gabiontheroad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriella Clare Marino</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-Photo by Gabriella Clare Marino on Unsplash
-
-* Photo by <a href="https://unsplash.com/@bulava92?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vladislav Bulatov</a> on <a href="https://unsplash.com/s/photos/electrical-wiring?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-* Video  
-
-Video by Kapaw from Pexels  
-
-
 ## Further References
 - Confident Coding by Rob Percival
 - Confident Web design by Kenny Wood
@@ -382,10 +323,7 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 7. This will trigger a new gitpod workspace that you can work on.
 
 
-
 ## Testing
-
-
 
 ## Tested the site using Lighthouse 
 
@@ -393,12 +331,15 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 
 ## Tested HTML
 
-[W3C Markup Validation Service](https://validator.w3.org/)
 
-- Tested index.html W3C Markup Validation Service - no errors or warnings to show.
-- Tested services.html W3C Markup Validation Service - no errors or warnings to show.
-- Tested gallery.html W3C Markup Validation Service - no errors or warnings to show.
-- Tested contact.html W3C Markup Validation Service - no errors or warnings to show.
+- [index.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Findex.html)
+
+- [services.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/services.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Fservices.html)
+
+- [gallery.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/gallery.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Fgallery.html)
+
+- [contact.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Fcontact.html)
+
 
 ## Tested the site for mobile friendly usage
 
@@ -576,7 +517,7 @@ The form appears to the left on an iPad.  It should be centered.
 
 Amend media query for iPad so that the form appears in the center.
 
-##Testing across various devices
+## Testing across various devices
 
 - Ensured the website was responsive on all pages through [Google Mobile Friendly](https://search.google.com/test/mobile-friendly)
 
@@ -612,13 +553,12 @@ ational bar.
 * Read through all the registered and certified services we provide.
 * Click on the Gallery page to read testimonials, provide customer feedback on our services.
 * Fill out our form to start the process today!
---- 
 
 ##  Debugging
 ---
 
 ###     Debugging HTML in index.html
----
+
 
 * Title displaying above Logo on all pages. Trying to position Title in the center of the Navbar or to the right of the logo.
 
@@ -626,12 +566,14 @@ ational bar.
 
 * Navbar was displaying too close to the logo and title.  After a lot of trial and error and some much needed mentoring.  Fixed the bug by reversing the text-direction.  Styled as a media query.
 
+```
 @media screen and (min-width: 992px) {
    
    .navbar-expand-lg .navbar-collapse {
        flex-direction: row-reverse;
    }
 }
+```
 
 This worked as I had intended.
 
@@ -654,12 +596,14 @@ This worked as I had intended.
 * Form was displaying to the left on the iPad screen size.
 * Adjusted the code by giving it a margin of 10px auto.  Also changed the max-width to 70% so it would not take up the whole width on an iPad screen size.
 
-`.center-form {
+``` 
+.center-form {
         
     min-height: 240px;
     margin: 10px auto;
     max-width: 70%;
-  }`
+  } 
+  ```
 
 Tested services .html W3C Markup Validation Service - no errors or warnings to show.
 
@@ -697,7 +641,8 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 * media query for menu items in the header was set too large for some devices.
 * added an extra small media query for small screen sizes
 
-` @media screen and (max-width: 575px) {
+```
+@media screen and (max-width: 575px) {
    
  h1 {
      font-size: 20px;
@@ -711,7 +656,8 @@ h2 {
     padding-right: 10px;
 }
  
-} ` 
+}
+``` 
 
 * Overlay not responsive. Missing half the writing when the screen size reduced.
 * Added a media query in CSS to incorporate overlay to make it responsive.
@@ -723,7 +669,8 @@ h2 {
 
 ## Tested on W3C CSS Validator
 
-[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+* [CSS Validation for https://github.com/Leah1977/LSH_Electricians](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
@@ -733,7 +680,66 @@ h2 {
     </a>
 </p>
             
+## Credits
 
+* Thanks to all the photographers and websites Unsplash, Pexels and Pixabay for allowing the use of the following photos and video.
+
+* Light bulbs photo
+  Photo by Diz Play on Unsplash
+
+* <span>Photo by <a href="https://unsplash.com/@dizplay?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Diz Play</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* Fuse box photo
+ Photo by Ralph (Ravi) Kayden on Unsplash
+
+* <span>Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+* Photo by Nathan Dumlao on Unsplash
+
+* <span>Photo by <a href="https://unsplash.com/@thkelley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Kelley</a> on <a href="https://unsplash.com/s/photos/electric?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>#
+* Photo by Thomas Kelley on Unsplash
+
+* Image by <a href="https://pixabay.com/users/image4you-2459255/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Harry Strauss</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4198293">Pixabay</a>
+
+* Image from Harry Strauss on Pixabay
+
+* Image 10 "Fusebox" Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Markus Spiske on Unsplash
+
+* Image11 "Ligths" Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Patrick Tomasso on Unsplash  
+
+* Image 12 "volt" Photo by <a href="https://unsplash.com/@shirishsuwal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shirish Suwal</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Shirish Suwal on Unsplash  
+
+* Image 13 "Tool" Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="/s/photos/electrical?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Mika Baumeister on Unsplash 
+
+* Image 14 "lightbub" Photo by <a href="https://unsplash.com/@daniele_franchi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniele Franchi</a> on <a href="/s/photos/electrical-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Daniele Franchi on Unsplash
+
+* Image 15 "security lights" Photo by <a href="https://unsplash.com/@switch_dtp_fotografie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lucas van Oort</a> on <a href="/s/photos/security-led-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Lucas van Oort on Unsplash  
+
+* Image 16 "Plug socket" Photo by <a href="https://unsplash.com/@hamishkale_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hamish Kale</a> on <a href="/s/photos/plug-socket?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>Photo by Hamish Kale on Unsplash
+
+* Image 17 "Electrical wire."
+Photo by <a href="https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Johnson</a> on <a href="/s/photos/electrical-wire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Steve Johnson on Unsplash
+
+* Image for wireframe Photo by Royalty-free stock photo ID: 1318378229 Background with a uniformed electrician with tools and electrical equipment and blue background. By Davizro Photography www.shutterstock.com
+
+* Testimonial Image 1. Photo by <a href="https://unsplash.com/@everythingcaptured?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edward Cisneros</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Edward Cisneros on Unsplash
+
+* Testimonial Image 2. Photo by <a href="https://unsplash.com/@gabiontheroad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriella Clare Marino</a> on <a href="/t/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Gabriella Clare Marino on Unsplash
+
+* Photo by <a href="https://unsplash.com/@bulava92?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vladislav Bulatov</a> on <a href="https://unsplash.com/s/photos/electrical-wiring?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+* Video  
+
+Video by Kapaw from Pexels  
 
 
 
