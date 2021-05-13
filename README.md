@@ -339,12 +339,13 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 
 ## Tested HTML
 
-
 - [index.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Findex.html)
 
 - [services.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/services.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Fservices.html)
 
+
 - [gallery.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/gallery.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Fgallery.html)
+
 
 - [contact.html W3C Markup Validation https://leah1977.github.io/LSH_Electricians_MS1/contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleah1977.github.io%2FLSH_Electricians_MS1%2Fcontact.html)
 
