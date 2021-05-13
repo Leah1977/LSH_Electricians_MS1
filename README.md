@@ -23,12 +23,13 @@ I wanted to create a webpage that would allow the user to see what services we h
 4.  [Languages](#languages)
 5.  [Technologies](#technologies)
 6.  [Testing](#testing)
-7.  [Debugging](#testing)
+7.  [Debugging](#debugging)
 8.  [Deployment](#deployment)
 9.  [Credits](#credits)
 10.  [Acknowledgements](#acknowledgements)
 
 ## Introduction
+---
 
 ## Welcome!
 
@@ -46,11 +47,13 @@ Here is a demonstration of how my website looks on different screen sizes using 
 It is intended to be accessible on all screen sizes.  Although I am finding mobile devices are been used more often on a daily basis for searching for services.
 
 ## UX
+---
 
 
 I hope to attract a variety of users, from individual property owners to business property owners.  I hope that users will become clients and reuse the website on a regular basis to book call-outs and services.
 
-## Project Goals.
+## Project Goals
+---
 
 This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
 
@@ -103,20 +106,6 @@ As a business owner, I want to be able to purchase items through the website.
 
 With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
 
-## Wireframes
----
-
-I have used Balsamique to draw up wireframes for Mobile, iPad and desktop.
-
-I have included wireframes for mobile, iPad and desktop. I plan to build my website from a mobile-first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
-
-Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets/wireframes).
-
-![Desktop Image](assets/images/wireframems1desktop.png)
-![Mobile Image](assets/images/wireframems1mobile.png)
-
-
-
 ## Strategy
 ---
 
@@ -132,7 +121,7 @@ I will research what may be required for this website by asking the following qu
 * Would you like to read reviews from customers?
 
 ## Scope
-
+---
 Essentials will include
 
 *	Callout - I want the customer to be able to contact our company through phone or email.
@@ -148,7 +137,25 @@ Essentials will include
 *   A gallery page to display work already carried out, showing our level of expertise and skills.
 
 *   Contact details - clearly demonstrate where we are based and how to contact us.
- 
+
+## Skeleton
+---
+
+For layout I started with how I wanted my project to be structured.  I decided on using four separate pages all linked with one navbar.  I lay out my designs with some wireframes.
+
+## Wireframes
+
+
+I have used Balsamique to draw up wireframes for Mobile, iPad and desktop.
+
+I have included wireframes for mobile, iPad and desktop. I plan to build my website from a mobile-first approach.  Using mobiles is becoming one of the more favoured ways to search for local services.
+
+Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets/wireframes).
+
+![Desktop Image](assets/images/wireframems1desktop.png)
+![Mobile Image](assets/images/wireframems1mobile.png)
+
+
 ## Features
 ---
 This project will include four separate pages.  I decided to separate the website into four separate pages.  The navbar and footer will be displayed on all pages for consistency.
@@ -204,6 +211,7 @@ The gallery page displays a selection of photos and a video of work LSH Electric
 
 ## Colour Scheme
 
+
 I will use the colours in the main body, header and footer.
 
 ![Color Scheme](assets/images/colorsms1.png)
@@ -247,13 +255,14 @@ This opens out on click to display the menu items.
 I will design the website to adjust to different sized screens to ensure optimum viewing.
 I will make sure all links are active and working.
 
-## Languages Used
+## Languages
+---
 
 * [HTML](http://wwww.html.com) Used for all four html pages as the main markup language for this project.
 * [CSS](http://www.css-tricks.com) Used to style the content of my website.
 * [JavaScript](http://www.javascript.com) Used through Bootstrap.
 
-## Technologies Used
+## Technologies
 ---
 
 Code used throughout this project was learned and implemented from the [Code Institute Diploma Programme](https://codeinstitue.net)
@@ -294,9 +303,7 @@ I used the modal from bootstrap and edited the wording and styling for the call 
 - [AmIResponsive](http://ami.responsivedesign.is/)
 
 
----
-## Deployment Section
-
+## Deployment
 ---
 
 
@@ -324,6 +331,7 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 
 
 ## Testing
+---
 
 ## Tested the site using Lighthouse 
 
@@ -635,8 +643,6 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 * To fix this bug I created an id for the map and inserted the width and height into the style.css.  I then add media queries as neccessary for the smaller screen sizes.
 
 
-
-
 ## Debugging on the Gallery page
 ---
 
@@ -682,6 +688,7 @@ h2 {
 
             
 ## Credits
+---
 
 * Thanks to all the photographers and websites Unsplash, Pexels and Pixabay for allowing the use of the following photos and video.
 
