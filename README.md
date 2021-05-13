@@ -29,7 +29,6 @@ I wanted to create a webpage that would allow the user to see what services we h
 10.  [Acknowledgements](#acknowledgements)
 
 ## Introduction
----
 
 ## Welcome!
 
@@ -47,13 +46,13 @@ Here is a demonstration of how my website looks on different screen sizes using 
 It is intended to be accessible on all screen sizes.  Although I am finding mobile devices are been used more often on a daily basis for searching for services.
 
 ## UX
----
+
 
 
 I hope to attract a variety of users, from individual property owners to business property owners.  I hope that users will become clients and reuse the website on a regular basis to book call-outs and services.
 
 ## Project Goals
----
+
 
 This website provides information on an electrical service for Domestic and Commercial clients.  LSH Electricians are an electrical company serving the Dublin area.  They serve both domestic and commercial clients.  We have been in business for 20 years and would like to launch a new website to promote our company. 
 
@@ -102,12 +101,10 @@ As a business owner, I want to be able to contact an electrician as needed.  I w
 As a business owner, I want to be able to purchase items through the website.
 
 
-
-
 With these user stories in mind, I put together some wireframes.  I included all the main requirements and issues that were raised from my user story research.
 
 ## Strategy
----
+
 
 This website is for property owners, residential or commercial, looking to repair or update their electrics.
 I want to provide a service that is easy to navigate, making it clear and quick to provide information and request a quote or call-out.
@@ -121,7 +118,7 @@ I will research what may be required for this website by asking the following qu
 * Would you like to read reviews from customers?
 
 ## Scope
----
+
 Essentials will include
 
 *	Callout - I want the customer to be able to contact our company through phone or email.
@@ -139,7 +136,7 @@ Essentials will include
 *   Contact details - clearly demonstrate where we are based and how to contact us.
 
 ## Skeleton
----
+
 
 For layout I started with how I wanted my project to be structured.  I decided on using four separate pages all linked with one navbar.  I lay out my designs with some wireframes.
 
@@ -157,7 +154,7 @@ Click here for a link to the Wireframes [Balsamique LSH_Electricians_MS1](assets
 
 
 ## Features
----
+
 This project will include four separate pages.  I decided to separate the website into four separate pages.  The navbar and footer will be displayed on all pages for consistency.
 
 * [index.html](#index.html)
@@ -207,7 +204,7 @@ The gallery page displays a selection of photos and a video of work LSH Electric
 
 
 ## Surface Design:
----
+
 
 ## Colour Scheme
 
@@ -244,7 +241,7 @@ I used [Font Awesome](https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/
 
 
 ## Project Display
----
+
 
 This project is responsive to appear on different screen sizes.
 The display changes to accommodate a smaller screen size.  On a mobile, some items have been removed to focus on the mobile-friendly application.  For example, the form reduces in size, so it can be displayed fully on a smaller device.
@@ -256,14 +253,13 @@ I will design the website to adjust to different sized screens to ensure optimum
 I will make sure all links are active and working.
 
 ## Languages
----
+
 
 * [HTML](http://wwww.html.com) Used for all four html pages as the main markup language for this project.
 * [CSS](http://www.css-tricks.com) Used to style the content of my website.
 * [JavaScript](http://www.javascript.com) Used through Bootstrap.
 
 ## Technologies
----
 
 Code used throughout this project was learned and implemented from the [Code Institute Diploma Programme](https://codeinstitue.net)
 
@@ -304,7 +300,7 @@ I used the modal from bootstrap and edited the wording and styling for the call 
 
 
 ## Deployment
----
+
 
 
 I used the programme [Gitpod](www.gitpod.io) in the development of this project.  I pushed it to GitHub using the CLI, which is built into Gitpod.
@@ -331,7 +327,7 @@ I used the programme [Gitpod](www.gitpod.io) in the development of this project.
 
 
 ## Testing
----
+
 
 ## Tested the site using Lighthouse 
 
@@ -576,7 +572,7 @@ ational bar.
 * Fill out our form to start the process today!
 
 ##  Debugging
----
+
 
 ###     Debugging HTML in index.html
 
@@ -603,7 +599,7 @@ This worked as I had intended.
 
 
 ### Debugging HTML in services.html
----
+
 
 * Items were displaying unevenly on larger screen sizes.
 
@@ -629,7 +625,7 @@ This worked as I had intended.
 Tested services .html W3C Markup Validation Service - no errors or warnings to show.
 
 ## Debugging on the contacts page
----
+
      
 * Google map was not responsive on mobile devices.
 
@@ -645,7 +641,7 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 
 
 ## Debugging on the Gallery page
----
+
 
 * Title of gallery section was displaying left of all images.
 
@@ -655,7 +651,7 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 
 ## CSS debugging
 
----
+
 
 * media query for menu items in the header was set too large for some devices.
 * added an extra small media query for small screen sizes
@@ -689,7 +685,7 @@ h2 {
 
             
 ## Credits
----
+
 
 * Thanks to all the photographers and websites Unsplash, Pexels and Pixabay for allowing the use of the following photos and video.
 
@@ -753,7 +749,7 @@ Video by Kapaw from Pexels
 
 
 ## Acknowledgements
----
+
 
 Much thanks to my mentor Nishant Kumar for giving great support and encouragement throughout my first Milestone Project.
 
