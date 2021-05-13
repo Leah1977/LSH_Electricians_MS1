@@ -192,7 +192,7 @@ i {
 }
 
 .services {
-    background-color: #67676723;
+    background-color: #676767b5;
     color: #fafafa;
     margin: 0 auto;
     font-family: "Exo", sans-serif;
@@ -282,7 +282,19 @@ hr {
     font-size: 30px;
 }
 
+.contact-info-list {
+    margin: 0 auto;
 
+}
+
+.contact-info-list, key {
+    font-weight: 700;
+    
+}
+
+.contact-info-list, value {
+    font-weight: 500;
+}
 
 
 /* ---------------------------------------------------------------Form*/
@@ -500,7 +512,7 @@ hr {
 
 #map iframe {
     width: 100%;
-    height: 400px;
+    height: 300px;
   
 }
 
@@ -733,8 +745,8 @@ p {
 }
 
 .contact-title {
-    
     font-size: 24px;
+    padding-bottom: 20px;
 }
 
 .contact-details h3 {
@@ -759,8 +771,12 @@ p {
 
 #map iframe {
     width: 100%;
-    height: 300px;
+    height: 200px;
   
+}
+
+#form-heading {
+    font-size: 18px;
 }
 
  
