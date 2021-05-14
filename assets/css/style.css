@@ -198,12 +198,14 @@ i {
     font-family: "Exo", sans-serif;
     font-size: 14px;
     text-align: left;
+
     
 }
 
 .services h3 { 
     text-align: center;
     padding-top: 20px;
+    padding-bottom: 40px;
     font-size: 40px;
   
 
@@ -217,6 +219,7 @@ i {
     text-decoration: none;
     color: #fafafa;
     margin: 10px;
+    height: 200px;
 }
 
 
@@ -232,6 +235,7 @@ hr {
     border: 3px solid #ffcd05;
     width: 10%;
 }
+
 
 
 
