@@ -160,7 +160,7 @@ This project will include four separate pages.  I decided to separate the websit
 * [index.html](#index.html)
 * [services.html](#services.html)
 * [contact.html](#contact.html)
-* [gallery.html](#gallery.html).
+* [gallery.html](#gallery.html)
 
 ## index.html
 
