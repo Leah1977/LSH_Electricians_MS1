@@ -180,7 +180,9 @@ The footer has three sections. An about section telling you about the company.  
 
 ## services.html
 
-The services page has a section on the list of services we provide
+The services page has a section on the list of services we provide.
+
+It will include a link to the contact page, where you can fill out a form for a quote or call-out.
  
 * Emergency call-out
 * Insurance and Testing
@@ -189,13 +191,15 @@ The services page has a section on the list of services we provide
 * Products
 * Gallery with link to the Gallery page.
 
-Followed by a Form with a drop-down select menu, to enable the customer to direct their query.
+
 
 ## contact.html
 
 The contact page includes a map of Dublin provided by Google maps. This displays the area in which LSH Electricians work.
 
 Contact and address information for the company.
+
+There will also be a Form with a drop-down select menu, to enable the customer to direct their query.
 
 ## gallery.html
 
@@ -605,22 +609,11 @@ This worked as I had intended.
 
 * Changed the bootstrap column class to display 3 items at a time instead of 4.
 
+* White space was appearing below the footer when viewing on ipad pro.
 
-* Form was appearing too large on the desktop.
+![footer issue](assets/images/whitespacebug.png)
 
-* Added a max-width to prevent the form from displaying full width on desktop.
-
-* Form was displaying to the left on the iPad screen size.
-* Adjusted the code by giving it a margin of 10px auto.  Also changed the max-width to 70% so it would not take up the whole width on an iPad screen size.
-
-``` 
-.center-form {
-        
-    min-height: 240px;
-    margin: 10px auto;
-    max-width: 70%;
-  } 
-  ```
+to fix this I added a media query to target the ipad pro size and added a min-width to the media query to allow the space to be filled.
 
 Tested services .html W3C Markup Validation Service - no errors or warnings to show.
 
@@ -640,6 +633,21 @@ Tested services .html W3C Markup Validation Service - no errors or warnings to s
 * To fix this bug I created an id for the map and inserted the width and height into the style.css.  I then add media queries as neccessary for the smaller screen sizes.
 
 
+* Form was appearing too large on the desktop.
+
+* Added a max-width to prevent the form from displaying full width on desktop.
+
+* Form was displaying to the left on the iPad screen size.
+* Adjusted the code by giving it a margin of 10px auto.  Also changed the max-width to 70% so it would not take up the whole width on an iPad screen size.
+
+``` 
+.center-form {
+        
+    min-height: 240px;
+    margin: 10px auto;
+    max-width: 70%;
+  } 
+  ```
 ## Debugging on the Gallery page
 
 
