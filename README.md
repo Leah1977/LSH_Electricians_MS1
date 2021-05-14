@@ -508,7 +508,7 @@ The site acted as expected when I clicked on the close button, the modal closed 
 
 No fix required.
 
-## Tested the form on the services page.
+## Tested the form on the contact page.
 
 Tested the form. Entered in details to each relevant section.
 I checked the submit button by clicking on it.
@@ -556,24 +556,28 @@ Implement the user stories.
 * From the home page
 * Click on services in the navigational bar.
 * Scroll to Insurance and Testing to see that we meet all safety standards.
-* Scroll further to fill out the form and request a call-back.
+* Click on the link at the top of the services page to bring you to our form on the contacts page.
+
+![Services section](assets/images/servicesuserstory.png)
 
 
 ### User Story 2
 
-* On the home page, click the call now button for adirect phone line.
-* Alternatively, click on the services page in the navig
-ational bar.
+* On the home page, click the call now button for a direct phone line.
+* Alternatively, click on the services page in the navigational bar.
 * Fill out the form and select "Emergency Call-out" from the drop-down, select option.
 * Choose the date you would like the call-out on this form also.
 
+![Call now button](assets/images/callnowuserstory.png)
 
 ### User Story 3
 
 * On the home page, click on the services in the navigational bar.
 * Read through all the registered and certified services we provide.
-* Click on the Gallery page to read testimonials, provide customer feedback on our services.
+* Click on the home page to read testimonials, providing customer feedback on our services.
 * Fill out our form to start the process today!
+
+![Fill out a form](assets/images/formuserstory.png)
 
 ##  Debugging
 
